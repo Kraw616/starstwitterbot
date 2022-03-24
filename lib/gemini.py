@@ -1,4 +1,6 @@
 import pandas as pd
+import nltk
+from nltk.stem import SnowballStemmer
 
 
 def get_gemini_accounts(client, data_frame):
@@ -31,6 +33,15 @@ def gemini_recent_tweets(user_ids, client):
         tweets = client.get_users_tweets(id=user_id, exclude=['retweets', 'replies'], max_results=10)
         tweets_data = tweets.data
 
+        stop_words = set(stopwords.words('english'))
+        tokenData = word_tokenize(tweets_data)
+        filtered_sentence = [w for w in tokenData if not w.lower() in stop_words]
+        filtered_sentence = []
+        for w in word_tokens:
+            if w not in stop_words:
+            filtered_sentence.append(w)
+        snowball = SnowballStemmer(language='english')
+        cleanTweetData = snowball.stem(filtered_sentence)
 
 
 
