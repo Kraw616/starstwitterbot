@@ -28,6 +28,8 @@ lemmList = []
 
 header = []
 
+shortened = ""
+
 # so title is not processed
 header = next(geminiCsvReader)
 geminiCsvWriter.writerow(header)
@@ -51,6 +53,23 @@ while (header != None):
     # removing stopwords
     for word in header[1]:
         if word in stop_words:
+            header[1].remove(word)
+
+    # removing http
+    for word in header[1]:
+        shortened = word[0:4]
+        if shortened == 'http':
+            header[1].remove(word)
+
+    # removing gt
+    for word in header[1]:
+        if word == 'gt':
+            header[1].remove(word)
+
+    # removing date
+    for word in header[1]:
+        shortened = word[:1]
+        if shortened == '0':
             header[1].remove(word)
 
     print(header[1])
