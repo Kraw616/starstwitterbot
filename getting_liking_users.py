@@ -3,8 +3,7 @@ from lib import gemini
 from lib import libra
 
 import pandas as pd
-
-import json_practice
+import json
 
 from config import *
 
@@ -19,28 +18,27 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        access_token_secret=ACCESS_SECRET,
                        wait_on_rate_limit=True)
 
-df = pd.read_csv('example_data/libraPosts_test.csv', dtype=str)
-df = df.dropna()
-print(df)
+with open('./jsons/libra_tweets.json') as file:
+    libra_tweets = json.load(file)
 
 
 def main():
 
-    new_df = pd.DataFrame(columns=['ID', 'USER_NAME'], dtype=object)
+    results = []
 
-    for ide in df['ID']:
+    for tweets in libra_tweets:
+        user_id = tweets['id']
 
-        print(ide)
-
-        liked_user = client.get_liking_users(ide)
+        liked_user = client.get_liking_users(user_id)
         liked_user = liked_user.data
 
         if liked_user:
             for user in liked_user:
-                new_df = new_df.append({'ID': str(user['id']), 'USER_NAME': str(user['name'])}, ignore_index=True)
+                obj = {'id': user['id'], 'user_name': user['name']}
+                results.append(obj)
 
-    print(new_df)
-    new_df.to_csv('liked_users.csv', index=False)
+    with open('./jsons/libra_liked_users.json', 'w+') as f:
+        json.dump(results, f, indent=4)
 
 
 main()
