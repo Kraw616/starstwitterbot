@@ -1,5 +1,4 @@
-import pandas as pd
-
+import json
 
 def get_libra_accounts(client, data_frame):
 
@@ -17,15 +16,11 @@ def get_libra_accounts(client, data_frame):
 
 def libra_recent_tweets(user_ids, client):
 
-    df = pd.DataFrame(columns=['ID', 'TEXT', 'AUTHOR'])
-
-    file_name = "libraPosts.txt"
-
     for user_id in user_ids:
 
         screen_name = client.get_user(id=user_id).data.username
 
-        tweets = client.get_users_tweets(id=user_id, exclude=['retweets', 'replies'], max_results=10)
+        tweets = client.get_users_tweets(id=user_id, exclude=['retweets', 'replies'], max_results=20)
         tweets_data = tweets.data
 
         results = []
@@ -37,18 +32,19 @@ def libra_recent_tweets(user_ids, client):
         else:
             print("Empty!")
 
-        with open(file_name, 'a+') as filehandler:
-            filehandler.write(screen_name + "\n" + "-" * 101 + "\n\n")
-            for tweet in results:
-                filehandler.write(str(tweet['id']) + ":" + tweet['text']+"\n\n")
+    with open('./jsons/libra_tweets.json') as r:
+        data = json.load(r)
 
-                df = df.append({'ID': tweet['id'], 'TEXT': tweet['text'], 'AUTHOR': tweet['author']}, ignore_index=True)
-                # print(tweet)
-                # print()
-        filehandler.close()
+    for tweet in results:
+        data.append(tweet)
 
-        df.to_csv('libraPosts.csv', index=False, float_format='{:f}')
+    with open('./jsons/libra_tweets.json', 'w+') as f:
+        json.dump(data, f, indent=4)
 
+        #for tweet in results:
+        #    df = df.append({'ID': tweet['id'], 'TEXT': tweet['text'], 'AUTHOR': tweet['author']}, ignore_index=True)
+            # print(tweet)
+            # print()
 
 def main(client, data_frame):
     libra_recent_tweets(get_libra_accounts(client, data_frame), client)

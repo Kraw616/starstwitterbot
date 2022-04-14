@@ -1,4 +1,4 @@
-import pandas as pd
+import json
 
 
 def get_gemini_accounts(client, data_frame):
@@ -17,23 +17,12 @@ def get_gemini_accounts(client, data_frame):
 
 def gemini_recent_tweets(user_ids, client):
 
-    df = pd.DataFrame(columns=['ID', 'TEXT', 'AUTHOR'])
-
-    file_name = "geminiPosts.txt"
-
     for user_id in user_ids:
-        '''query = "from:" + account + " -is:retweet -has:images -has:links -has:mentions lang:en"
-
-        tweets = client.search_recent_tweets(query=query, max_results=50)'''
 
         screen_name = client.get_user(id=user_id).data.username
 
-        tweets = client.get_users_tweets(id=user_id, exclude=['retweets', 'replies'], max_results=10)
+        tweets = client.get_users_tweets(id=user_id, exclude=['retweets', 'replies'], max_results=20)
         tweets_data = tweets.data
-
-
-
-
 
         results = []
 
@@ -44,17 +33,14 @@ def gemini_recent_tweets(user_ids, client):
         else:
             print("Empty!")
 
-        with open(file_name, 'a+') as filehandler:
-            filehandler.write(screen_name + "\n" + "-" * 101 + "\n\n")
-            for tweet in results:
-                filehandler.write(str(tweet['id']) + ":" + tweet['text']+"\n\n")
+    with open('./jsons/gemini_tweets.json') as r:
+        data = json.load(r)
 
-                df = df.append({'ID': tweet['id'], 'TEXT': tweet['text'], 'AUTHOR': tweet['author']}, ignore_index=True)
-                #print(tweet)
-                #print()
-        filehandler.close()
+    for tweet in results:
+        data.append(tweet)
 
-        df.to_csv('geminiPosts.csv', index=False, float_format='{:f}')
+    with open('./jsons/gemini_tweets.json', 'w+') as f:
+        json.dump(data, f, indent=4)
 
 
 def main(client, data_frame):
