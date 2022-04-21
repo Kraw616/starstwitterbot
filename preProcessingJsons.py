@@ -53,6 +53,23 @@ with open(file_path, 'r') as j:
             if word in stop_words:
                 header[while_ptr]["text"].remove(word)
 
+        # removing http
+        for word in header[while_ptr]["text"]:
+            shortened = word[0:4]
+            if shortened == 'http':
+                header[while_ptr]["text"].remove(word)
+
+        # removing gt
+        for word in header[while_ptr]["text"]:
+            if word == 'gt':
+                header[while_ptr]["text"].remove(word)
+
+        # removing date
+        for word in header[while_ptr]["text"]:
+            shortened = word[:1]
+            if shortened == '0' or shortened == '1' or shortened == '2' or shortened == '3' or shortened == '4' or shortened == '5' or shortened == '6' or shortened == '7' or shortened == '8' or shortened == '9':
+                header[while_ptr]["text"].remove(word)
+
         print(header[while_ptr]["text"])
         # stemming
         for word in header[while_ptr]["text"]:
