@@ -9,16 +9,12 @@ from nltk.stem import WordNetLemmatizer
 #   nltk.download('stopwords')
 #   nltk.download('omw-1.4')
 
-geminiPosts = open("example_data/geminiPosts.csv")
 libraPosts = open("example_data/libraPosts.csv")
 
-geminiPreprocess = open("example_data/geminiPreprocessed.csv", "w")
 libraPreprocess = open("example_data/libraPreprocessed.csv", "w")
 
-geminiCsvReader = csv.reader(geminiPosts)
 libraCsvReader = csv.reader(libraPosts)
 
-geminiCsvWriter = csv.writer(geminiPreprocess)
 libraCsvWriter = csv.writer(libraPreprocess)
 
 stop_words = stopwords.words('english')
@@ -79,7 +75,5 @@ while (header != None):
 
     header = next(libraCsvReader)
 
-geminiPosts.close()
 libraPosts.close()
-geminiPreprocess.close()
 libraPreprocess.close()

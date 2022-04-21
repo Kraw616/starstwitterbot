@@ -6,31 +6,17 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.stem import WordNetLemmatizer
 
-#   nltk.download('punkt')
-#   nltk.download('wordnet')
-#   nltk.download('stopwords')
-#   nltk.download('omw-1.4')
+#nltk.download('punkt')
+#nltk.download('wordnet')
+#nltk.download('stopwords')
+#nltk.download('omw-1.4')
 
-geminiPosts = open("example_data/geminiPosts.csv")
-libraPosts = open("example_data/libraPosts.csv")
 
-geminiPreprocess = open("example_data/geminiPreprocessed.csv", "w")
-libraPreprocess = open("example_data/libraPreprocessed.csv", "w")
-
-geminiCsvReader = csv.reader(geminiPosts)
-libraCsvReader = csv.reader(libraPosts)
-
-geminiCsvWriter = csv.writer(geminiPreprocess)
-libraCsvWriter = csv.writer(libraPreprocess)
 
 ################################################################################
 
-libraJsonData = json.loads("example_data/libra_tweets.json")
-print(libraJsonData)
-
-
-
-
+#libraJsonData = json.loads("example_data/libra_tweets.json")
+#print(libraJsonData)
 
 stop_words = stopwords.words('english')
 
@@ -40,57 +26,57 @@ lemmatizer = WordNetLemmatizer()
 stemList = []
 lemmList = []
 
-header = []
 
-# so title is not processed
-header = next(libraCsvReader)
-libraCsvWriter.writerow(header)
+file_path = "example_data/libra_tweets.json"
 
-header = next(libraCsvReader)
-
+with open(file_path, 'r') as j:
+    header = json.loads(j.read())
+    #print(header[0]["text"])
 
 
-while (header != None):
+    while_ptr = 0
 
-    # original text
-    print(header[1])
-    print()
 
-    # removing punctuation & symbols
-    header[1] = re.sub(r'[^\w\s]','',header[1])
+    while(while_ptr<len(header)):
+        # original text
+        print(header[while_ptr]["text"])
+        print()
 
-    # tokenization
-    header[1] = nltk.word_tokenize(header[1])
+        # removing punctuation & symbols
+        header[while_ptr]["text"] = re.sub(r'[^\w\s]','',header[while_ptr]["text"])
 
-    # removing stopwords
-    for word in header[1]:
-        if word in stop_words:
-            header[1].remove(word)
+        # tokenization
+        header[while_ptr]["text"] = nltk.word_tokenize(header[while_ptr]["text"])
 
-    print(header[1])
-    # stemming
-    for word in header[1]:
-        stemList.append(stemmer.stem(word))
-    header[1] = stemList
-    stemList = []
+        # removing stopwords
+        for word in header[while_ptr]["text"]:
+            if word in stop_words:
+                header[while_ptr]["text"].remove(word)
 
-    print(header[1])
-    # lemmatization
-    for word in header[1]:
-        stemList.append(lemmatizer.lemmatize(word))
-    header[1] = stemList
-    stemList = []
+        print(header[while_ptr]["text"])
+        # stemming
+        for word in header[while_ptr]["text"]:
+            stemList.append(stemmer.stem(word))
+        header[while_ptr]["text"] = stemList
+        stemList = []
 
-    # pre-processed text
-    print(header[1])
-    print()
+        print(header[while_ptr]["text"])
+        # lemmatization
+        for word in header[while_ptr]["text"]:
+            stemList.append(lemmatizer.lemmatize(word))
+        header[while_ptr]["text"] = stemList
+        stemList = []
 
-    #
-    libraCsvWriter.writerow(header)
+        # pre-processed text
+        print(header[while_ptr]["text"])
+        print()
 
-    header = next(libraCsvReader)
+        #
+        #libraCsvWriter.writerow(header)
 
-geminiPosts.close()
-libraPosts.close()
-geminiPreprocess.close()
-libraPreprocess.close()
+        #header = next(libraCsvReader)
+        while_ptr+=1
+        #print("one iteration")
+
+with open('example_data/libra_preprocessed.json', 'w', encoding='utf-8') as f:
+    json.dump(header, f, ensure_ascii=False, indent=4)

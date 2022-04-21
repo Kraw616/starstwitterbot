@@ -10,11 +10,9 @@ from nltk.stem import WordNetLemmatizer
 #   nltk.download('omw-1.4')
 
 geminiPosts = open("example_data/geminiPosts.csv")
-libraPosts = open("example_data/libraPosts.csv")
 geminiPreprocess = open("example_data/geminiPreprocessed.csv", "w")
 
 geminiCsvReader = csv.reader(geminiPosts)
-libraCsvReader = csv.reader(libraPosts)
 
 geminiCsvWriter = csv.writer(geminiPreprocess)
 
@@ -96,5 +94,4 @@ while (header != None):
     header = next(geminiCsvReader)
 
 geminiPosts.close()
-libraPosts.close()
 geminiPreprocess.close()
