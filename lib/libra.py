@@ -16,25 +16,28 @@ def get_libra_accounts(client, data_frame):
 
 
 def libra_recent_tweets(user_ids, client):
+
     results = []
 
-    for user_id in user_ids:
+    for i in range(100):
 
-        screen_name = client.get_user(id=user_id).data.username
+        for user_id in user_ids:
 
-        tweets = client.get_users_tweets(id=user_id, exclude=['retweets', 'replies'], max_results=20)
-        tweets_data = tweets.data
+            screen_name = client.get_user(id=user_id).data.username
 
-        if tweets_data is not None and len(tweets_data) > 0:
-            for tweet in tweets_data:
-                if len(tweet.text) > 0:
-                    obj = {'id': tweet.id, 'text': tweet.text, 'author': screen_name}
-                    results.append(obj)
-        else:
-            print("Empty!")
+            tweets = client.get_users_tweets(id=user_id, exclude=['retweets', 'replies'], max_results=100)
+            tweets_data = tweets.data
 
-    with open('./jsons/libra_tweets.json', 'w+') as f:
-        json.dump(results, f, indent=4)
+            if tweets_data is not None and len(tweets_data) > 0:
+                for tweet in tweets_data:
+                    if len(tweet.text) > 0:
+                        obj = {'id': tweet.id, 'text': tweet.text, 'author': screen_name}
+                        results.append(obj)
+                    else:
+                        print("Empty!")
+
+        with open('./jsons/libra_tweets.json', 'w+', encoding='utf-8') as f:
+            json.dump(results, f, indent=4)
 
 
 def main(client, data_frame):

@@ -27,18 +27,38 @@ def main():
     results = []
 
     for tweets in libra_tweets:
-        user_id = tweets['id']
+        tweet_id = tweets['id']
 
-        liked_user = client.get_liking_users(user_id)
-        liked_user = liked_user.data
+        liked_users = client.get_liking_users(tweet_id)
+        liked_users = liked_users.data
 
-        if liked_user:
-            for user in liked_user:
-                obj = {'id': user['id'], 'user_name': user['name']}
+        if liked_users:
+            for user in liked_users:
+                obj = {'id': user['id'], 'user_name': user['name'], 'liked_tweet': tweet_id}
                 results.append(obj)
 
-    with open('./jsons/libra_liked_users.json', 'w+') as f:
-        json.dump(results, f, indent=4)
+        with open('./jsons/libra_liked_users.json', 'w+', encoding='utf-8') as liked:
+            json.dump(results, liked, indent=4)
+
+        '''with open('./jsons/libra_liked_users.json', encoding='utf-8') as liked:
+
+            file_data = json.load(liked)
+
+            if liked_users:
+                for user in liked_users:
+                    if user['id'] not in file_data:
+                        obj = {'id': user['id'], 'user_name': user['name'], 'liked_tweet': tweet_id}
+                        results.append(obj)
+
+            print("SIZE: " + str(len(file_data)))
+
+            file_data.append(results)
+
+            liked.seek(0)
+
+            print("NEW SIZE: " + str(len(file_data)))
+
+            json.dump(file_data, liked, indent=4)'''
 
 
 main()

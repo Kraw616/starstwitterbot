@@ -1,30 +1,51 @@
 import json
 
-tweet = [{
-    'id': "1555051",
-    'text': "I love Libras!",
-    'author_name': "BotLover"
-}]
 
-string = json.dumps(tweet, indent=2)
+with open('./jsons/libra_liked_users.json', encoding='utf-8', errors='ignore') as f:
+    f2_data = json.load(f)
 
-with open('test.json', 'w') as outfile:
-    outfile.write(string)
+    dict = {}
 
-tweet2 = {
-    'id': "1555052",
-    'text': "I hate Libras!",
-    'author_name': "BotLover2"
-}
+    seen = set()
 
-print(string)
-with open('test.json') as f:
-    data = json.load(f)
+    for tweet_data in f2_data:
+        seen.add(tweet_data['id'])
+        if tweet_data['id'] in dict:
+            dict[tweet_data['id']] += 1
 
-data.append(tweet2)
-print(data)
+        else:
+            dict[tweet_data['id']] = 1
 
-with open('test2.json', 'w') as out:
-    json.dump(data, out,indent=4)
+    '''for i in dict.keys():
+        print("ID: " + str(i) + ", NUM FOUND: " + str(dict[i]))'''
+
+    sorted_data = sorted(dict.items(), key=lambda x: x[1])#, reverse=True)
+
+    print(sorted_data)
+
+    for i in sorted_data:
+        print(i[0], i[1])
 
 
+# Create JSON with unique users and how many times we like
+with open('./jsons/unique_liked_users.json', "w+") as file:
+    pass  # TODO make json of all unique users
+
+
+'''
+results = []
+
+for i in range(10):
+    for j in range(50):
+
+        obj = {'id': i, 'id2': j}
+        results.append(obj)
+
+        with open('./jsons/test1.json', 'w+') as f:
+            json.dump(results, f, indent=4)
+
+
+with open('./jsons/test1.json') as f:
+    f_data = json.load(f)
+    print(len(f_data))
+'''

@@ -14,14 +14,15 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        consumer_key=API_KEY,
                        consumer_secret=API_SECRET,
                        access_token=ACCESS_TOKEN,
-                       access_token_secret=ACCESS_SECRET)
+                       access_token_secret=ACCESS_SECRET,
+                       wait_on_rate_limit=True)
 
 df = pd.read_csv('accounts.csv')
 
 
 def main():
 
-    gemini.main(client, df)
+    #gemini.main(client, df)
     libra.main(client, df)
 
 
