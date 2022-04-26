@@ -21,7 +21,7 @@ df = pd.read_csv('accounts.csv')
 
 def main():
 
-    gemini.main(client, df)
+    # gemini.main(client, df)
     libra.main(client, df)
 
 
