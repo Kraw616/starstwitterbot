@@ -1,0 +1,87 @@
+[
+    {
+        "user_id": 1382466442575155207,
+        "tweet_id": 1518579278597828609,
+        "tweet_num": 0,
+        "text": [
+            "Indeed",
+            "My",
+            "heart"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1382466442575155207,
+        "tweet_id": 1518360897114288128,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "ordered",
+            "Chilis",
+            "Atlantic",
+            "Beach",
+            "So",
+            "excited",
+            "ChilisToGo",
+            "Super",
+            "pregnant",
+            "hungry"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                0.2857142857142857
+            ]
+        ]
+    }
+]

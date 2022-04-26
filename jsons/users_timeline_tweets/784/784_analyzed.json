@@ -1,0 +1,104 @@
+[
+    {
+        "user_id": 1462229362300706820,
+        "tweet_id": 1511358334699331585,
+        "tweet_num": 0,
+        "text": [
+            "Golden",
+            "Knights",
+            "Max",
+            "Pacioretty",
+            "suffers",
+            "injury",
+            "setback",
+            "indefinitely"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 2,
+            "sadness": 2
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1462229362300706820,
+        "tweet_id": 1509515804592672770,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "cant",
+            "wait",
+            "see",
+            "Mark",
+            "the",
+            "ice",
+            "I",
+            "miss"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "anticipation",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1462229362300706820,
+        "tweet_id": 1504164773155389442,
+        "tweet_num": 2,
+        "text": [
+            "Happy",
+            "saint",
+            "Patricks",
+            "day",
+            "you"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.2
+            ],
+            [
+                "surprise",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ],
+            [
+                "anticipation",
+                0.2
+            ]
+        ]
+    }
+]

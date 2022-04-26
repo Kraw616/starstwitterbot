@@ -1,0 +1,95 @@
+[
+    {
+        "user_id": 1518415471087091713,
+        "tweet_id": 1518423505192513541,
+        "tweet_num": 0,
+        "text": [
+            "No",
+            "one",
+            "ever",
+            "know"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1518415471087091713,
+        "tweet_id": 1518421981468950528,
+        "tweet_num": 1,
+        "text": [
+            "Finished",
+            "badge",
+            "rainw00d",
+            "Had",
+            "lot",
+            "fun",
+            "drawing",
+            "Rain"
+        ],
+        "raw_emotion_scores": {
+            "trust": 1,
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

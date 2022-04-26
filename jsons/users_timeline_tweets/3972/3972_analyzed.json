@@ -1,0 +1,65 @@
+[
+    {
+        "user_id": 1410706895992672265,
+        "tweet_id": 1508654235940003844,
+        "tweet_num": 0,
+        "text": [
+            "hating",
+            "feeling",
+            "sadness",
+            "being",
+            "overwhelmingly",
+            "emotional",
+            "yet",
+            "remembering",
+            "somehow",
+            "will",
+            "help",
+            "appreciate",
+            "happy",
+            "it",
+            "come"
+        ],
+        "raw_emotion_scores": {
+            "anger": 2,
+            "negative": 3,
+            "anticipation": 2,
+            "disgust": 1,
+            "fear": 1,
+            "joy": 2,
+            "positive": 2,
+            "sadness": 2,
+            "surprise": 1,
+            "trust": 3
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.15789473684210525
+            ],
+            [
+                "negative",
+                0.15789473684210525
+            ]
+        ]
+    },
+    {
+        "user_id": 1410706895992672265,
+        "tweet_id": 1452676465468837898,
+        "tweet_num": 1,
+        "text": [
+            "felt",
+            "cute",
+            "whateva"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

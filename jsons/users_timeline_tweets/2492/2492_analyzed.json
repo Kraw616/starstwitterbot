@@ -1,0 +1,87 @@
+[
+    {
+        "user_id": 1406611242945556481,
+        "tweet_id": 1479191235168505863,
+        "tweet_num": 0,
+        "text": [
+            "This",
+            "tweet",
+            "a",
+            "gold",
+            "mine"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1406611242945556481,
+        "tweet_id": 1465785535847354370,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "need",
+            "rack"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "sadness",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1406611242945556481,
+        "tweet_id": 1460721057309110279,
+        "tweet_num": 2,
+        "text": [
+            "Not",
+            "with",
+            "bad",
+            "back"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    }
+]

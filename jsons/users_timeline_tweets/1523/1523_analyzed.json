@@ -1,0 +1,61 @@
+[
+    {
+        "user_id": 1089655784915521537,
+        "tweet_id": 1478804655945703424,
+        "tweet_num": 0,
+        "text": [
+            "loved",
+            "way",
+            "love",
+            "win",
+            "im",
+            "winner"
+        ],
+        "raw_emotion_scores": {
+            "joy": 2,
+            "positive": 2,
+            "anticipation": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1089655784915521537,
+        "tweet_id": 1458015214780227584,
+        "tweet_num": 1,
+        "text": [
+            "way",
+            "leave",
+            "tell",
+            "everything"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

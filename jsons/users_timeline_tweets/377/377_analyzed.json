@@ -1,0 +1,36 @@
+[
+    {
+        "user_id": 1213250358903861248,
+        "tweet_id": 1248259653320007680,
+        "tweet_num": 0,
+        "text": [
+            "You",
+            "dont",
+            "really",
+            "wash",
+            "hand",
+            "They",
+            "actually",
+            "wash",
+            "other",
+            "you",
+            "stand",
+            "and",
+            "watch"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.5
+            ],
+            [
+                "anticipation",
+                0.5
+            ]
+        ]
+    }
+]

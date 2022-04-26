@@ -1,0 +1,67 @@
+[
+    {
+        "user_id": 3043776290,
+        "tweet_id": 1334567203925094409,
+        "tweet_num": 0,
+        "text": [
+            "Thank",
+            "uncle",
+            "CyrilRamaphosa",
+            "PresidencyZA",
+            "the",
+            "family",
+            "meeting",
+            "Our",
+            "confidence",
+            "you",
+            "remains",
+            "HIGH"
+        ],
+        "raw_emotion_scores": {
+            "fear": 2,
+            "joy": 1,
+            "positive": 2,
+            "trust": 2,
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2222222222222222
+            ],
+            [
+                "trust",
+                0.2222222222222222
+            ],
+            [
+                "positive",
+                0.2222222222222222
+            ]
+        ]
+    },
+    {
+        "user_id": 3043776290,
+        "tweet_id": 1334432105263214592,
+        "tweet_num": 1,
+        "text": [
+            "When",
+            "DStv",
+            "going",
+            "start",
+            "recycle",
+            "drive",
+            "old",
+            "decoder"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    }
+]

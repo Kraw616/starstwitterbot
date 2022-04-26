@@ -109,7 +109,7 @@ def emotional_analysis(file_path):  # File path to pre_processed './jsons/users_
     for tweets in f_data:
         text_joined = NRCLex(' '.join(tweets['text']))
 
-        obj = {'user_id': tweets['user_id'], 'tweet_id': tweets['tweet_id'], 'text': tweets['text'],
+        obj = {'user_id': tweets['user_id'], 'tweet_id': tweets['tweet_id'], 'tweet_num': tweets['tweet_num'], 'text': tweets['text'],
                'raw_emotion_scores': text_joined.raw_emotion_scores, 'top_emotions': text_joined.top_emotions}
 
         results.append(obj)
@@ -147,9 +147,12 @@ def user_average_emotion(file_path):
                 # emotion /= len(f_data)
             results.append(result)
             results.append(result_avg)
+            results.append({f_data[len(f_data) - 1]['tweet_num']})
 
         else:
             results = []
+
+
 
     file_path_out = re.sub("_analyzed.json", "", file_path)
 
@@ -184,6 +187,8 @@ def average_emotion_of_sign(filepath):
 
     results = []
 
+    number_tweets = 0
+
     number_files = 0
 
     grand_total_avg = {'positive': 0, 'negative': 0, 'fear': 0, 'anger': 0, 'anticipation': 0, 'trust': 0, 'surprise': 0,
@@ -204,6 +209,8 @@ def average_emotion_of_sign(filepath):
                     for entry in f_data[0]:
                         grand_total[entry] += f_data[0][entry]
 
+                    number_tweets += f_data[2]
+
                     number_files += 1
 
                 else:
@@ -217,6 +224,7 @@ def average_emotion_of_sign(filepath):
     results.append(grand_total_avg)
     results.append(grand_total)
     results.append({'num_files': number_files})
+    results.append({'num_tweets': number_tweets})
 
     output_filepath = "./jsons/grand_total_libra"
 

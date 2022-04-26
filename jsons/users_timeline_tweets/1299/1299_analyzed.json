@@ -1,0 +1,122 @@
+[
+    {
+        "user_id": 817722037938561024,
+        "tweet_id": 1492204801882533895,
+        "tweet_num": 0,
+        "text": [
+            "I",
+            "know",
+            "therapy",
+            "working",
+            "Im",
+            "cry"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 817722037938561024,
+        "tweet_id": 1487458998689357829,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "a",
+            "pencilophiliac_"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 817722037938561024,
+        "tweet_id": 1435599370213265414,
+        "tweet_num": 2,
+        "text": [
+            "Fact",
+            "I",
+            "struggle",
+            "catastrophizing"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ]
+        ]
+    }
+]

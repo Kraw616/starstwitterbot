@@ -1,0 +1,93 @@
+[
+    {
+        "user_id": 1486461804,
+        "tweet_id": 1518787512138878977,
+        "tweet_num": 0,
+        "text": [
+            "Im",
+            "ignoring",
+            "everyone",
+            "bye"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1486461804,
+        "tweet_id": 1518752966630596608,
+        "tweet_num": 1,
+        "text": [
+            "This",
+            "an",
+            "example",
+            "how",
+            "easy",
+            "is",
+            "spread",
+            "misinformation",
+            "create",
+            "narrative",
+            "poor",
+            "people",
+            "somehow",
+            "one",
+            "trying",
+            "get"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1486461804,
+        "tweet_id": 1511766280939974660,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "hate",
+            "Deltas",
+            "customer",
+            "service",
+            "However",
+            "I",
+            "love",
+            "actual",
+            "flight",
+            "crew"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "positive": 3,
+            "joy": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3
+            ]
+        ]
+    }
+]

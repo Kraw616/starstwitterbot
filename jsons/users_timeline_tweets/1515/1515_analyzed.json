@@ -1,0 +1,117 @@
+[
+    {
+        "user_id": 2545707511,
+        "tweet_id": 937777781928288256,
+        "tweet_num": 0,
+        "text": [
+            "P",
+            "R",
+            "I",
+            "O",
+            "R",
+            "I",
+            "T",
+            "Y"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 2545707511,
+        "tweet_id": 864924502668587009,
+        "tweet_num": 1,
+        "text": [
+            "Promise",
+            "no",
+            "promise"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 2545707511,
+        "tweet_id": 845179709709201408,
+        "tweet_num": 2,
+        "text": [
+            "You",
+            "know",
+            "youre",
+            "beautiful",
+            "the",
+            "way",
+            "are"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "user_id": 245881141,
+        "tweet_id": 553613768127971328,
+        "tweet_num": 0,
+        "text": [
+            "Im",
+            "an",
+            "EList",
+            "celebrity",
+            "Kim",
+            "Kardashian",
+            "Hollywood",
+            "You",
+            "be",
+            "famous",
+            "by",
+            "playing",
+            "iPhone"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "disgust": 1,
+            "joy": 1,
+            "negative": 1,
+            "positive": 2,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.2222222222222222
+            ]
+        ]
+    },
+    {
+        "user_id": 245881141,
+        "tweet_id": 376467532472803328,
+        "tweet_num": 1,
+        "text": [
+            "Enter",
+            "win",
+            "JustFabOnline",
+            "shopping",
+            "spree"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.16666666666666666
+            ],
+            [
+                "surprise",
+                0.16666666666666666
+            ],
+            [
+                "positive",
+                0.16666666666666666
+            ],
+            [
+                "negative",
+                0.16666666666666666
+            ],
+            [
+                "joy",
+                0.16666666666666666
+            ],
+            [
+                "anticipation",
+                0.16666666666666666
+            ]
+        ]
+    }
+]
