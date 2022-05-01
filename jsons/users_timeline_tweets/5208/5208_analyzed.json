@@ -1,8 +1,45 @@
 [
     {
         "user_id": 783277995775537152,
+        "tweet_id": 1519123594428641280,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "wan",
+            "na",
+            "eat",
+            "Barnuts",
+            "lt"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 783277995775537152,
         "tweet_id": 1518572290606125056,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "Its",
             "really",
@@ -58,7 +95,7 @@
     {
         "user_id": 783277995775537152,
         "tweet_id": 1518521670121627648,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "Emotional",
             "trauma",
@@ -111,7 +148,7 @@
     {
         "user_id": 783277995775537152,
         "tweet_id": 1518280973191766016,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "Damn",
             "I",
@@ -139,7 +176,7 @@
     {
         "user_id": 783277995775537152,
         "tweet_id": 1518279518175211520,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "I",
             "cant",
@@ -194,7 +231,7 @@
     {
         "user_id": 783277995775537152,
         "tweet_id": 1518134115974799360,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "Been",
             "living",
@@ -252,118 +289,6 @@
             [
                 "joy",
                 0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 783277995775537152,
-        "tweet_id": 1517680118386278404,
-        "tweet_num": 5,
-        "text": [
-            "one",
-            "person",
-            "followed",
-            "automatically",
-            "checked"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 783277995775537152,
-        "tweet_id": 1517653901117325312,
-        "tweet_num": 6,
-        "text": [
-            "I",
-            "stop",
-            "tweeting",
-            "those",
-            "hour",
-            "I",
-            "thought",
-            "I",
-            "typing",
-            "right"
-        ],
-        "raw_emotion_scores": {
-            "anticipation": 1
-        },
-        "top_emotions": [
-            [
-                "anticipation",
-                1.0
-            ]
-        ]
-    },
-    {
-        "user_id": 783277995775537152,
-        "tweet_id": 1517653751489650689,
-        "tweet_num": 7,
-        "text": [
-            "Me",
-            "rereading",
-            "tweet",
-            "I",
-            "tweeted",
-            "to",
-            "damn",
-            "I",
-            "typo",
-            "grammatical",
-            "error",
-            "HAHAHAHAHA"
-        ],
-        "raw_emotion_scores": {
-            "anger": 1,
-            "disgust": 1,
-            "negative": 2,
-            "sadness": 1
-        },
-        "top_emotions": [
-            [
-                "negative",
-                0.4
             ]
         ]
     }

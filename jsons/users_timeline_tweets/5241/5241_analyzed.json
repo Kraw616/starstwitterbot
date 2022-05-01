@@ -2,7 +2,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1513832629183082501,
-        "tweet_num": 0,
+        "tweet_num": 1,
         "text": [
             "Oh",
             "Pass"
@@ -54,7 +54,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1506063882535972865,
-        "tweet_num": 1,
+        "tweet_num": 2,
         "text": [
             "Hmmm",
             "Alone",
@@ -73,7 +73,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1502840024043515904,
-        "tweet_num": 2,
+        "tweet_num": 3,
         "text": [
             "Hello",
             "OnAirRomeo",
@@ -136,7 +136,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1501942386313678864,
-        "tweet_num": 3,
+        "tweet_num": 4,
         "text": [
             "If"
         ],
@@ -187,7 +187,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1498064033190408192,
-        "tweet_num": 4,
+        "tweet_num": 5,
         "text": [
             "Its",
             "faster",
@@ -243,7 +243,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1495579771258150912,
-        "tweet_num": 5,
+        "tweet_num": 6,
         "text": [
             "I",
             "vote",
@@ -299,7 +299,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1488295859989389312,
-        "tweet_num": 6,
+        "tweet_num": 7,
         "text": [
             "We",
             "need",
@@ -359,7 +359,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1487805803856023556,
-        "tweet_num": 7,
+        "tweet_num": 8,
         "text": [
             "YESSSSSS",
             "QUEEN",
@@ -413,7 +413,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1486187839192657922,
-        "tweet_num": 8,
+        "tweet_num": 9,
         "text": [
             "Lets",
             "go",
@@ -467,7 +467,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1479225726801186816,
-        "tweet_num": 9,
+        "tweet_num": 10,
         "text": [
             "Proud",
             "you",
@@ -520,7 +520,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1478541616717905924,
-        "tweet_num": 10,
+        "tweet_num": 11,
         "text": [
             "Which",
             "Album",
@@ -578,7 +578,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1473629636857073664,
-        "tweet_num": 11,
+        "tweet_num": 12,
         "text": [
             "The",
             "best"
@@ -630,7 +630,7 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1473609839083356165,
-        "tweet_num": 12,
+        "tweet_num": 13,
         "text": [
             "Im",
             "love"
@@ -653,68 +653,6 @@
     {
         "user_id": 870832872323600384,
         "tweet_id": 1460387203473829891,
-        "tweet_num": 13,
-        "text": [
-            "I",
-            "voted",
-            "CinderellaMovie",
-            "TheFamilyMovie",
-            "Cast",
-            "vote",
-            "the",
-            "Peoples",
-            "Choice",
-            "Awards",
-            "pcas"
-        ],
-        "raw_emotion_scores": {
-            "anger": 1,
-            "anticipation": 1,
-            "joy": 1,
-            "negative": 1,
-            "positive": 1,
-            "sadness": 1,
-            "surprise": 1,
-            "trust": 1
-        },
-        "top_emotions": [
-            [
-                "anger",
-                0.125
-            ],
-            [
-                "trust",
-                0.125
-            ],
-            [
-                "surprise",
-                0.125
-            ],
-            [
-                "positive",
-                0.125
-            ],
-            [
-                "negative",
-                0.125
-            ],
-            [
-                "sadness",
-                0.125
-            ],
-            [
-                "joy",
-                0.125
-            ],
-            [
-                "anticipation",
-                0.125
-            ]
-        ]
-    },
-    {
-        "user_id": 870832872323600384,
-        "tweet_id": 1458323727066664960,
         "tweet_num": 14,
         "text": [
             "I",
@@ -776,7 +714,7 @@
     },
     {
         "user_id": 870832872323600384,
-        "tweet_id": 1458209611438116864,
+        "tweet_id": 1458323727066664960,
         "tweet_num": 15,
         "text": [
             "I",
@@ -838,8 +776,70 @@
     },
     {
         "user_id": 870832872323600384,
-        "tweet_id": 1457499869262712833,
+        "tweet_id": 1458209611438116864,
         "tweet_num": 16,
+        "text": [
+            "I",
+            "voted",
+            "CinderellaMovie",
+            "TheFamilyMovie",
+            "Cast",
+            "vote",
+            "the",
+            "Peoples",
+            "Choice",
+            "Awards",
+            "pcas"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "joy": 1,
+            "negative": 1,
+            "positive": 1,
+            "sadness": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.125
+            ],
+            [
+                "trust",
+                0.125
+            ],
+            [
+                "surprise",
+                0.125
+            ],
+            [
+                "positive",
+                0.125
+            ],
+            [
+                "negative",
+                0.125
+            ],
+            [
+                "sadness",
+                0.125
+            ],
+            [
+                "joy",
+                0.125
+            ],
+            [
+                "anticipation",
+                0.125
+            ]
+        ]
+    },
+    {
+        "user_id": 870832872323600384,
+        "tweet_id": 1457499869262712833,
+        "tweet_num": 17,
         "text": [
             "and",
             "extraordinary",

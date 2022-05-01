@@ -1,8 +1,35 @@
 [
     {
         "user_id": 2959766193,
+        "tweet_id": 1519158253304913922,
+        "tweet_num": 1,
+        "text": [
+            "Yuppp",
+            "I",
+            "know",
+            "thats",
+            "rightbeen",
+            "use",
+            "being",
+            "single",
+            "wayy",
+            "long",
+            "haha"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 2959766193,
         "tweet_id": 1518139140453408768,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "I",
             "lay",
@@ -73,7 +100,7 @@
     {
         "user_id": 2959766193,
         "tweet_id": 1518137125211881472,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "Nooo",
             "like",
@@ -127,7 +154,7 @@
     {
         "user_id": 2959766193,
         "tweet_id": 1517795430494613509,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "Next",
             "week",
@@ -161,7 +188,7 @@
     {
         "user_id": 2959766193,
         "tweet_id": 1516569340199550986,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "Say",
             "louder",
@@ -217,7 +244,7 @@
     {
         "user_id": 2959766193,
         "tweet_id": 1513692911908663296,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "Thats",
             "theme",
@@ -271,7 +298,7 @@
     {
         "user_id": 2959766193,
         "tweet_id": 1513588473227321349,
-        "tweet_num": 5,
+        "tweet_num": 7,
         "text": [
             "Ugh",
             "I",
@@ -326,7 +353,7 @@
     {
         "user_id": 2959766193,
         "tweet_id": 1512331180636524546,
-        "tweet_num": 6,
+        "tweet_num": 8,
         "text": [
             "Ive",
             "the",
@@ -360,7 +387,7 @@
     {
         "user_id": 2959766193,
         "tweet_id": 1496959093478764547,
-        "tweet_num": 7,
+        "tweet_num": 9,
         "text": [
             "Im",
             "kinda",
@@ -398,79 +425,6 @@
             [
                 "disgust",
                 0.25
-            ]
-        ]
-    },
-    {
-        "user_id": 2959766193,
-        "tweet_id": 1494576925423013888,
-        "tweet_num": 8,
-        "text": [
-            "Are",
-            "my",
-            "ex",
-            "talking",
-            "To",
-            "other",
-            "Cuz",
-            "uhhh",
-            "they",
-            "unadding",
-            "blocking",
-            "at",
-            "same",
-            "time",
-            "I",
-            "dont",
-            "get"
-        ],
-        "raw_emotion_scores": {
-            "anticipation": 1
-        },
-        "top_emotions": [
-            [
-                "anticipation",
-                1.0
-            ]
-        ]
-    },
-    {
-        "user_id": 2959766193,
-        "tweet_id": 1494148358813978628,
-        "tweet_num": 9,
-        "text": [
-            "I",
-            "swear",
-            "friend",
-            "driving",
-            "like",
-            "he",
-            "the",
-            "fast",
-            "furious",
-            "like",
-            "let",
-            "calm",
-            "I",
-            "hate",
-            "life",
-            "not",
-            "much"
-        ],
-        "raw_emotion_scores": {
-            "positive": 3,
-            "trust": 2,
-            "joy": 1,
-            "anger": 2,
-            "disgust": 2,
-            "negative": 2,
-            "fear": 1,
-            "sadness": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.21428571428571427
             ]
         ]
     }

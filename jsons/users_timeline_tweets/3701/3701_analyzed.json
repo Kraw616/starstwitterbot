@@ -1,38 +1,6 @@
 [
     {
         "user_id": 3226868858,
-        "tweet_id": 1518818993246715905,
-        "tweet_num": 0,
-        "text": [
-            "cant",
-            "win",
-            "em",
-            "this",
-            "my",
-            "lesson"
-        ],
-        "raw_emotion_scores": {
-            "anticipation": 1,
-            "positive": 1,
-            "trust": 1
-        },
-        "top_emotions": [
-            [
-                "trust",
-                0.3333333333333333
-            ],
-            [
-                "positive",
-                0.3333333333333333
-            ],
-            [
-                "anticipation",
-                0.3333333333333333
-            ]
-        ]
-    },
-    {
-        "user_id": 3226868858,
         "tweet_id": 1518646289050832897,
         "tweet_num": 1,
         "text": [
@@ -2765,6 +2733,60 @@
             "deleted",
             "last",
             "post"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 3226868858,
+        "tweet_id": 1295421221996290048,
+        "tweet_num": 67,
+        "text": [
+            "failed",
+            "math",
+            "test",
+            "overthinking"
         ],
         "raw_emotion_scores": {},
         "top_emotions": [

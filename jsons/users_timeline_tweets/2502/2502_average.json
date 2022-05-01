@@ -1,27 +1,29 @@
 [
     {
-        "positive": 12,
-        "negative": 7,
-        "fear": 4,
-        "anger": 4,
-        "anticipation": 5,
-        "trust": 8,
+        "positive": 18,
+        "negative": 8,
+        "fear": 6,
+        "anger": 5,
+        "anticipation": 7,
+        "trust": 10,
         "surprise": 4,
-        "sadness": 2,
-        "disgust": 1,
-        "joy": 9
+        "sadness": 5,
+        "disgust": 2,
+        "joy": 10
     },
     {
-        "positive": 0.4,
-        "negative": 0.23333333333333334,
-        "fear": 0.13333333333333333,
-        "anger": 0.13333333333333333,
-        "anticipation": 0.16666666666666666,
-        "trust": 0.26666666666666666,
-        "surprise": 0.13333333333333333,
-        "sadness": 0.06666666666666667,
-        "disgust": 0.03333333333333333,
-        "joy": 0.3
+        "positive": 0.5,
+        "negative": 0.2222222222222222,
+        "fear": 0.16666666666666666,
+        "anger": 0.1388888888888889,
+        "anticipation": 0.19444444444444445,
+        "trust": 0.2777777777777778,
+        "surprise": 0.1111111111111111,
+        "sadness": 0.1388888888888889,
+        "disgust": 0.05555555555555555,
+        "joy": 0.2777777777777778
     },
-    29
+    {
+        "num_tweets": 36
+    }
 ]

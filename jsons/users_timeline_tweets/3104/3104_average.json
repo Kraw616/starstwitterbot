@@ -13,15 +13,17 @@
     },
     {
         "positive": 0.0,
-        "negative": 0.6666666666666666,
-        "fear": 0.3333333333333333,
-        "anger": 0.6666666666666666,
+        "negative": 0.5,
+        "fear": 0.25,
+        "anger": 0.5,
         "anticipation": 0.0,
         "trust": 0.0,
-        "surprise": 0.3333333333333333,
-        "sadness": 0.3333333333333333,
-        "disgust": 0.3333333333333333,
+        "surprise": 0.25,
+        "sadness": 0.25,
+        "disgust": 0.25,
         "joy": 0.0
     },
-    2
+    {
+        "num_tweets": 4
+    }
 ]

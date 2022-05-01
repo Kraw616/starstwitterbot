@@ -1,65 +1,68 @@
 [
     {
         "user_id": 928529241708335104,
-        "tweet_id": 1518527167025586177,
-        "tweet_num": 0,
+        "tweet_id": 1518953049129201667,
+        "tweet_num": 1,
         "text": [
-            "Goof",
-            "Morning",
-            "Make",
-            "today",
-            "great",
-            "one",
-            "Claim"
+            "People",
+            "really",
+            "be",
+            "looking",
+            "for",
+            "and",
+            "son",
+            "I",
+            "love"
         ],
-        "raw_emotion_scores": {},
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
         "top_emotions": [
             [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
                 "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
+                0.5
             ],
             [
                 "joy",
-                0.0
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 928529241708335104,
+        "tweet_id": 1518952263993249794,
+        "tweet_num": 2,
+        "text": [
+            "Except",
+            "one",
+            "is",
+            "resting",
+            "peacefully",
+            "My",
+            "true",
+            "love"
+        ],
+        "raw_emotion_scores": {
+            "joy": 2,
+            "positive": 2,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.4
+            ],
+            [
+                "joy",
+                0.4
             ]
         ]
     },
     {
         "user_id": 928529241708335104,
         "tweet_id": 1518396671692058625,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "I",
             "definitely",
@@ -104,7 +107,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1518396447879843840,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "If",
             "I",
@@ -141,7 +144,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1518396012372627457,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "I",
             "hate",
@@ -171,7 +174,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1518277667430281219,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "I",
             "aint",
@@ -203,7 +206,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1518277509565005825,
-        "tweet_num": 5,
+        "tweet_num": 7,
         "text": [
             "Going",
             "home",
@@ -264,7 +267,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1518276551795740674,
-        "tweet_num": 6,
+        "tweet_num": 8,
         "text": [
             "Weekend",
             "so",
@@ -317,7 +320,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516892612032090114,
-        "tweet_num": 7,
+        "tweet_num": 9,
         "text": [
             "Granddaddy",
             "the",
@@ -346,7 +349,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516890576804847623,
-        "tweet_num": 8,
+        "tweet_num": 10,
         "text": [
             "Facts",
             "happens",
@@ -399,7 +402,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516889936443621382,
-        "tweet_num": 9,
+        "tweet_num": 11,
         "text": [
             "Elaine",
             "gone",
@@ -459,7 +462,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516889811684052992,
-        "tweet_num": 10,
+        "tweet_num": 12,
         "text": [
             "Please",
             "understand"
@@ -511,7 +514,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516889716649566209,
-        "tweet_num": 11,
+        "tweet_num": 13,
         "text": [
             "Babyyy",
             "presence",
@@ -537,7 +540,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516888978712113154,
-        "tweet_num": 12,
+        "tweet_num": 14,
         "text": [
             "Im",
             "glad",
@@ -581,7 +584,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516888779818254338,
-        "tweet_num": 13,
+        "tweet_num": 15,
         "text": [
             "Taco",
             "Bell",
@@ -635,7 +638,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516888620333993984,
-        "tweet_num": 14,
+        "tweet_num": 16,
         "text": [
             "Headed",
             "home",
@@ -664,7 +667,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516888287809609730,
-        "tweet_num": 15,
+        "tweet_num": 17,
         "text": [
             "Its",
             "never",
@@ -686,7 +689,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516776262525669382,
-        "tweet_num": 16,
+        "tweet_num": 18,
         "text": [
             "I",
             "rubbing",
@@ -710,7 +713,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516775927136595968,
-        "tweet_num": 17,
+        "tweet_num": 19,
         "text": [
             "Nothing",
             "else",
@@ -729,7 +732,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516775837441404929,
-        "tweet_num": 18,
+        "tweet_num": 20,
         "text": [
             "WCE",
             "Jays",
@@ -783,7 +786,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516669076076208128,
-        "tweet_num": 19,
+        "tweet_num": 21,
         "text": [
             "My",
             "son",
@@ -822,7 +825,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516562319706370058,
-        "tweet_num": 20,
+        "tweet_num": 22,
         "text": [
             "Yall",
             "slow",
@@ -860,7 +863,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516562231193968642,
-        "tweet_num": 21,
+        "tweet_num": 23,
         "text": [
             "Im",
             "glad",
@@ -895,7 +898,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516562161576906763,
-        "tweet_num": 22,
+        "tweet_num": 24,
         "text": [
             "How",
             "yall",
@@ -917,7 +920,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516562099488579587,
-        "tweet_num": 23,
+        "tweet_num": 25,
         "text": [
             "Trying",
             "memorize",
@@ -944,7 +947,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516561997877370884,
-        "tweet_num": 24,
+        "tweet_num": 26,
         "text": [
             "Everytime",
             "I",
@@ -970,7 +973,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516541690319978503,
-        "tweet_num": 25,
+        "tweet_num": 27,
         "text": [
             "It",
             "the",
@@ -1012,7 +1015,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516541442562400257,
-        "tweet_num": 26,
+        "tweet_num": 28,
         "text": [
             "He",
             "literally",
@@ -1050,7 +1053,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516541273120907266,
-        "tweet_num": 27,
+        "tweet_num": 29,
         "text": [
             "Yall",
             "son",
@@ -1093,7 +1096,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516540759322861572,
-        "tweet_num": 28,
+        "tweet_num": 30,
         "text": [
             "People",
             "uptight",
@@ -1122,7 +1125,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516540420486017027,
-        "tweet_num": 29,
+        "tweet_num": 31,
         "text": [
             "I",
             "need",
@@ -1153,7 +1156,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516540190537437186,
-        "tweet_num": 30,
+        "tweet_num": 32,
         "text": [
             "All",
             "fact",
@@ -1189,7 +1192,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516539865642508292,
-        "tweet_num": 31,
+        "tweet_num": 33,
         "text": [
             "I",
             "love",
@@ -1238,7 +1241,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516539612566540291,
-        "tweet_num": 32,
+        "tweet_num": 34,
         "text": [
             "Taco",
             "Tuesday",
@@ -1296,7 +1299,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516533778247733253,
-        "tweet_num": 33,
+        "tweet_num": 35,
         "text": [
             "My",
             "boo",
@@ -1327,7 +1330,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516533526547554307,
-        "tweet_num": 34,
+        "tweet_num": 36,
         "text": [
             "My",
             "friend",
@@ -1366,7 +1369,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516533216605356033,
-        "tweet_num": 35,
+        "tweet_num": 37,
         "text": [
             "Got",
             "blessed",
@@ -1400,7 +1403,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516532673371643907,
-        "tweet_num": 36,
+        "tweet_num": 38,
         "text": [
             "So",
             "ready",
@@ -1426,7 +1429,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516532441728573442,
-        "tweet_num": 37,
+        "tweet_num": 39,
         "text": [
             "Twitter",
             "so",
@@ -1453,7 +1456,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516532361088978954,
-        "tweet_num": 38,
+        "tweet_num": 40,
         "text": [
             "Im",
             "this",
@@ -1511,7 +1514,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516532154431332362,
-        "tweet_num": 39,
+        "tweet_num": 41,
         "text": [
             "Got",
             "ta",
@@ -1572,7 +1575,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516531599097008129,
-        "tweet_num": 40,
+        "tweet_num": 42,
         "text": [
             "Clearly",
             "if",
@@ -1632,7 +1635,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516530986825273344,
-        "tweet_num": 41,
+        "tweet_num": 43,
         "text": [
             "Definitely",
             "son",
@@ -1693,7 +1696,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516530736454639619,
-        "tweet_num": 42,
+        "tweet_num": 44,
         "text": [
             "Hateeee"
         ],
@@ -1744,7 +1747,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516530612416491528,
-        "tweet_num": 43,
+        "tweet_num": 45,
         "text": [
             "I",
             "use",
@@ -1779,7 +1782,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516530372498141186,
-        "tweet_num": 44,
+        "tweet_num": 46,
         "text": [
             "Stop",
             "trying",
@@ -1827,7 +1830,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516530077735038976,
-        "tweet_num": 45,
+        "tweet_num": 47,
         "text": [
             "I",
             "need",
@@ -1848,7 +1851,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516529859379568659,
-        "tweet_num": 46,
+        "tweet_num": 48,
         "text": [
             "Everytime",
             "Qui"
@@ -1900,7 +1903,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516449009275129862,
-        "tweet_num": 47,
+        "tweet_num": 49,
         "text": [
             "This",
             "line",
@@ -1921,7 +1924,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1516133019278532609,
-        "tweet_num": 48,
+        "tweet_num": 50,
         "text": [
             "I",
             "cant",
@@ -1951,7 +1954,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1515861420377845760,
-        "tweet_num": 49,
+        "tweet_num": 51,
         "text": [
             "Boy",
             "can",
@@ -1994,7 +1997,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1515860445609050121,
-        "tweet_num": 50,
+        "tweet_num": 52,
         "text": [
             "Nothing",
             "like",
@@ -2048,7 +2051,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1515860390084755460,
-        "tweet_num": 51,
+        "tweet_num": 53,
         "text": [
             "Ate",
             "good",
@@ -2090,7 +2093,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1515336079922143235,
-        "tweet_num": 52,
+        "tweet_num": 54,
         "text": [
             "Early",
             "morning",
@@ -2125,7 +2128,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1515122227863248899,
-        "tweet_num": 53,
+        "tweet_num": 55,
         "text": [
             "My",
             "son",
@@ -2157,7 +2160,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1515121974871306250,
-        "tweet_num": 54,
+        "tweet_num": 56,
         "text": [
             "When",
             "body",
@@ -2180,7 +2183,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1515121905640091650,
-        "tweet_num": 55,
+        "tweet_num": 57,
         "text": [
             "Chilling",
             "tonight",
@@ -2237,7 +2240,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1515121424956076034,
-        "tweet_num": 56,
+        "tweet_num": 58,
         "text": [
             "Lord",
             "man",
@@ -2275,7 +2278,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514635982208917504,
-        "tweet_num": 57,
+        "tweet_num": 59,
         "text": [
             "Mind",
             "business",
@@ -2296,7 +2299,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514599236746289152,
-        "tweet_num": 58,
+        "tweet_num": 60,
         "text": [
             "Breakfast",
             "Bojangles",
@@ -2349,7 +2352,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514537570750939136,
-        "tweet_num": 59,
+        "tweet_num": 61,
         "text": [
             "Claiming",
             "increase",
@@ -2376,7 +2379,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514536840744910850,
-        "tweet_num": 60,
+        "tweet_num": 62,
         "text": [
             "We",
             "best"
@@ -2428,7 +2431,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514526929143144448,
-        "tweet_num": 61,
+        "tweet_num": 63,
         "text": [
             "Never"
         ],
@@ -2479,7 +2482,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514526768157364225,
-        "tweet_num": 62,
+        "tweet_num": 64,
         "text": [
             "But",
             "Im",
@@ -2536,7 +2539,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514526525135233031,
-        "tweet_num": 63,
+        "tweet_num": 65,
         "text": [
             "Lets",
             "get",
@@ -2580,7 +2583,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514526478163230724,
-        "tweet_num": 64,
+        "tweet_num": 66,
         "text": [
             "Good",
             "Morning"
@@ -2632,7 +2635,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514405601144709120,
-        "tweet_num": 65,
+        "tweet_num": 67,
         "text": [
             "Can",
             "drink",
@@ -2690,7 +2693,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514397499104145411,
-        "tweet_num": 66,
+        "tweet_num": 68,
         "text": [
             "Especially",
             "I",
@@ -2745,7 +2748,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514396772076040193,
-        "tweet_num": 67,
+        "tweet_num": 69,
         "text": [
             "Baby",
             "I",
@@ -2807,7 +2810,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514396303953903617,
-        "tweet_num": 68,
+        "tweet_num": 70,
         "text": [
             "That",
             "air",
@@ -2841,7 +2844,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514354119468883974,
-        "tweet_num": 69,
+        "tweet_num": 71,
         "text": [
             "Im",
             "mile",
@@ -2878,7 +2881,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514353512225939471,
-        "tweet_num": 70,
+        "tweet_num": 72,
         "text": [
             "Sunday",
             "Sunday",
@@ -2934,7 +2937,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514353193744011266,
-        "tweet_num": 71,
+        "tweet_num": 73,
         "text": [
             "Because",
             "yall",
@@ -2975,7 +2978,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514352798455980033,
-        "tweet_num": 72,
+        "tweet_num": 74,
         "text": [
             "It",
             "two",
@@ -3017,7 +3020,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514352070249250819,
-        "tweet_num": 73,
+        "tweet_num": 75,
         "text": [
             "I",
             "always",
@@ -3046,7 +3049,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514351673124212746,
-        "tweet_num": 74,
+        "tweet_num": 76,
         "text": [
             "I",
             "wish",
@@ -3110,7 +3113,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514040963945177089,
-        "tweet_num": 75,
+        "tweet_num": 77,
         "text": [
             "I",
             "post",
@@ -3169,7 +3172,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1514040863797751808,
-        "tweet_num": 76,
+        "tweet_num": 78,
         "text": [
             "People",
             "so",
@@ -3202,7 +3205,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1513271131213635585,
-        "tweet_num": 77,
+        "tweet_num": 79,
         "text": [
             "Niggas",
             "weird",
@@ -3228,7 +3231,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1513264789929312257,
-        "tweet_num": 78,
+        "tweet_num": 80,
         "text": [
             "You",
             "tell",
@@ -3268,7 +3271,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1513264200629501961,
-        "tweet_num": 79,
+        "tweet_num": 81,
         "text": [
             "Niggas",
             "wanting",
@@ -3318,7 +3321,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1511506030173245450,
-        "tweet_num": 80,
+        "tweet_num": 82,
         "text": [
             "Sleepy"
         ],
@@ -3369,7 +3372,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1511505270043824133,
-        "tweet_num": 81,
+        "tweet_num": 83,
         "text": [
             "My",
             "mom",
@@ -3400,7 +3403,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1511505205501874182,
-        "tweet_num": 82,
+        "tweet_num": 84,
         "text": [
             "I",
             "cant",
@@ -3428,7 +3431,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1511505145586237445,
-        "tweet_num": 83,
+        "tweet_num": 85,
         "text": [
             "My",
             "mom",
@@ -3461,7 +3464,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1511380063438184452,
-        "tweet_num": 84,
+        "tweet_num": 86,
         "text": [
             "This",
             "all",
@@ -3481,7 +3484,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1511150706945835011,
-        "tweet_num": 85,
+        "tweet_num": 87,
         "text": [
             "Supervisor",
             "called",
@@ -3542,7 +3545,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1511150278829092864,
-        "tweet_num": 86,
+        "tweet_num": 88,
         "text": [
             "Sometimes",
             "I",
@@ -3608,7 +3611,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1511150189687496706,
-        "tweet_num": 87,
+        "tweet_num": 89,
         "text": [
             "Shower",
             "tv",
@@ -3662,7 +3665,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1510980596348162048,
-        "tweet_num": 88,
+        "tweet_num": 90,
         "text": [
             "hour",
             "week",
@@ -3684,7 +3687,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1510289570956468224,
-        "tweet_num": 89,
+        "tweet_num": 91,
         "text": [
             "Chilling",
             "my",
@@ -3737,7 +3740,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1509680469620760581,
-        "tweet_num": 90,
+        "tweet_num": 92,
         "text": [
             "Thank",
             "in",
@@ -3776,7 +3779,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1509680390709071875,
-        "tweet_num": 91,
+        "tweet_num": 93,
         "text": [
             "God",
             "I",
@@ -3826,7 +3829,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1509680220613316615,
-        "tweet_num": 92,
+        "tweet_num": 94,
         "text": [
             "Yall",
             "ever",
@@ -3882,7 +3885,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1509680123087306752,
-        "tweet_num": 93,
+        "tweet_num": 95,
         "text": [
             "Niggas",
             "lying",
@@ -3910,7 +3913,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1508598297077981189,
-        "tweet_num": 94,
+        "tweet_num": 96,
         "text": [
             "I",
             "usually",
@@ -3944,7 +3947,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1506666581916540933,
-        "tweet_num": 95,
+        "tweet_num": 97,
         "text": [
             "I",
             "love",
@@ -3968,7 +3971,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1506665587426185216,
-        "tweet_num": 96,
+        "tweet_num": 98,
         "text": [
             "If",
             "got",
@@ -4006,7 +4009,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1506665381670305797,
-        "tweet_num": 97,
+        "tweet_num": 99,
         "text": [
             "Good",
             "sex",
@@ -4041,7 +4044,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1505994100645974020,
-        "tweet_num": 98,
+        "tweet_num": 100,
         "text": [
             "Plus",
             "Im",
@@ -4066,7 +4069,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1505994029003124736,
-        "tweet_num": 99,
+        "tweet_num": 101,
         "text": [
             "Baby",
             "lil",
@@ -4103,7 +4106,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1504612876555796481,
-        "tweet_num": 100,
+        "tweet_num": 102,
         "text": [
             "When",
             "look",
@@ -4132,7 +4135,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1504612232478564354,
-        "tweet_num": 101,
+        "tweet_num": 103,
         "text": [
             "Niggas",
             "so",
@@ -4176,7 +4179,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1504612147279679493,
-        "tweet_num": 102,
+        "tweet_num": 104,
         "text": [
             "While",
             "yall",
@@ -4206,7 +4209,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1487445172401094656,
-        "tweet_num": 103,
+        "tweet_num": 105,
         "text": [
             "After",
             "yesterday",
@@ -4263,7 +4266,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1482695062928740352,
-        "tweet_num": 104,
+        "tweet_num": 106,
         "text": [
             "Nothing",
             "freezing",
@@ -4284,7 +4287,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1482694992531443716,
-        "tweet_num": 105,
+        "tweet_num": 107,
         "text": [
             "Where",
             "the",
@@ -4337,7 +4340,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1481529837340827648,
-        "tweet_num": 106,
+        "tweet_num": 108,
         "text": [
             "Not",
             "sharing",
@@ -4362,7 +4365,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1481529417713303555,
-        "tweet_num": 107,
+        "tweet_num": 109,
         "text": [
             "It",
             "the",
@@ -4397,7 +4400,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1481423774125809665,
-        "tweet_num": 108,
+        "tweet_num": 110,
         "text": [
             "Babyyyyy",
             "silence",
@@ -4450,7 +4453,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1481422136845737992,
-        "tweet_num": 109,
+        "tweet_num": 111,
         "text": [
             "Ladies",
             "dont",
@@ -4487,7 +4490,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1481421755302432773,
-        "tweet_num": 110,
+        "tweet_num": 112,
         "text": [
             "I",
             "wait",
@@ -4515,7 +4518,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1481421583189168129,
-        "tweet_num": 111,
+        "tweet_num": 113,
         "text": [
             "Im",
             "loving",
@@ -4548,7 +4551,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1481421452058533890,
-        "tweet_num": 112,
+        "tweet_num": 114,
         "text": [
             "These",
             "gospel",
@@ -4577,7 +4580,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1480488666329923586,
-        "tweet_num": 113,
+        "tweet_num": 115,
         "text": [
             "Whew",
             "I",
@@ -4616,7 +4619,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1480488571106738176,
-        "tweet_num": 114,
+        "tweet_num": 116,
         "text": [
             "Back",
             "the",
@@ -4661,7 +4664,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1480488530904326147,
-        "tweet_num": 115,
+        "tweet_num": 117,
         "text": [
             "Good",
             "Morning"
@@ -4713,7 +4716,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1480224342491516941,
-        "tweet_num": 116,
+        "tweet_num": 118,
         "text": [
             "I",
             "beat",
@@ -4768,7 +4771,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1480217732553527299,
-        "tweet_num": 117,
+        "tweet_num": 119,
         "text": [
             "Lord",
             "I",
@@ -4821,7 +4824,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1480217714090299398,
-        "tweet_num": 118,
+        "tweet_num": 120,
         "text": [
             "Church",
             "Flow"
@@ -4873,7 +4876,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1479926036842303488,
-        "tweet_num": 119,
+        "tweet_num": 121,
         "text": [
             "Why",
             "folk",
@@ -4899,7 +4902,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478999495086161920,
-        "tweet_num": 120,
+        "tweet_num": 122,
         "text": [
             "Get",
             "somebody",
@@ -4936,7 +4939,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478999199475810305,
-        "tweet_num": 121,
+        "tweet_num": 123,
         "text": [
             "This",
             "man",
@@ -4964,7 +4967,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478998948106977280,
-        "tweet_num": 122,
+        "tweet_num": 124,
         "text": [
             "Battery",
             "froze",
@@ -4996,7 +4999,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478850583939399681,
-        "tweet_num": 123,
+        "tweet_num": 125,
         "text": [
             "Give",
             "u",
@@ -5051,7 +5054,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478850103972704260,
-        "tweet_num": 124,
+        "tweet_num": 126,
         "text": [
             "Im",
             "smiling",
@@ -5078,7 +5081,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478849960175181824,
-        "tweet_num": 125,
+        "tweet_num": 127,
         "text": [
             "Im",
             "big",
@@ -5120,7 +5123,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478849684257280004,
-        "tweet_num": 126,
+        "tweet_num": 128,
         "text": [
             "Im",
             "big",
@@ -5157,7 +5160,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478697192978272257,
-        "tweet_num": 127,
+        "tweet_num": 129,
         "text": [
             "Yeah",
             "Im",
@@ -5203,7 +5206,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478696999604133888,
-        "tweet_num": 128,
+        "tweet_num": 130,
         "text": [
             "Going",
             "rack",
@@ -5227,7 +5230,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478696923213275137,
-        "tweet_num": 129,
+        "tweet_num": 131,
         "text": [
             "Cleaning",
             "house",
@@ -5256,7 +5259,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478696400267489285,
-        "tweet_num": 130,
+        "tweet_num": 132,
         "text": [
             "She",
             "might",
@@ -5296,7 +5299,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478696253236170752,
-        "tweet_num": 131,
+        "tweet_num": 133,
         "text": [
             "Weirdos"
         ],
@@ -5347,7 +5350,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478696142321954818,
-        "tweet_num": 132,
+        "tweet_num": 134,
         "text": [
             "Quit",
             "watching",
@@ -5371,7 +5374,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478696001607196681,
-        "tweet_num": 133,
+        "tweet_num": 135,
         "text": [
             "This",
             "girl",
@@ -5418,7 +5421,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478695794500902913,
-        "tweet_num": 134,
+        "tweet_num": 136,
         "text": [
             "I",
             "would",
@@ -5451,7 +5454,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478694165622009858,
-        "tweet_num": 135,
+        "tweet_num": 137,
         "text": [
             "How",
             "of",
@@ -5508,7 +5511,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478693924889894918,
-        "tweet_num": 136,
+        "tweet_num": 138,
         "text": [
             "Im",
             "ready",
@@ -5537,7 +5540,7 @@
     {
         "user_id": 928529241708335104,
         "tweet_id": 1478693811492687872,
-        "tweet_num": 137,
+        "tweet_num": 139,
         "text": [
             "Up",
             "looking",

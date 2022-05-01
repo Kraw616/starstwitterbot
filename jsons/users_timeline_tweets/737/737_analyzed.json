@@ -1,8 +1,36 @@
 [
     {
         "user_id": 450835397,
+        "tweet_id": 1518917750932058113,
+        "tweet_num": 1,
+        "text": [
+            "Love",
+            "patience"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 450835397,
         "tweet_id": 1518675915672330240,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "heavenly",
             "branch",
@@ -31,57 +59,6 @@
             [
                 "anticipation",
                 0.25
-            ]
-        ]
-    },
-    {
-        "user_id": 450835397,
-        "tweet_id": 1518663393175121920,
-        "tweet_num": 1,
-        "text": [
-            "Today",
-            "monkey",
-            "day",
-            "dragon",
-            "month",
-            "year",
-            "the",
-            "tiger"
-        ],
-        "raw_emotion_scores": {
-            "fear": 1
-        },
-        "top_emotions": [
-            [
-                "fear",
-                1.0
-            ]
-        ]
-    },
-    {
-        "user_id": 450835397,
-        "tweet_id": 1518658876580798465,
-        "tweet_num": 2,
-        "text": [
-            "I",
-            "got",
-            "Chinese",
-            "me",
-            "Im",
-            "clairvoyant",
-            "fun",
-            "fact"
-        ],
-        "raw_emotion_scores": {
-            "positive": 2,
-            "anticipation": 1,
-            "joy": 1,
-            "trust": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.4
             ]
         ]
     },

@@ -2,7 +2,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1467205579797979140,
-        "tweet_num": 0,
+        "tweet_num": 1,
         "text": [
             "Hey",
             "Have",
@@ -52,7 +52,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1237818235887603712,
-        "tweet_num": 1,
+        "tweet_num": 2,
         "text": [
             "Hey",
             "CapitalOne",
@@ -119,7 +119,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1220068115859398656,
-        "tweet_num": 2,
+        "tweet_num": 3,
         "text": [
             "I",
             "sent",
@@ -149,7 +149,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1191218276409282560,
-        "tweet_num": 3,
+        "tweet_num": 4,
         "text": [
             "I",
             "signed",
@@ -197,61 +197,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 1150969756280737792,
-        "tweet_num": 4,
-        "text": [
-            "Please",
-            "support",
-            "GoFundMe",
-            "campaign",
-            "gofundme"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 1149477563636436993,
         "tweet_num": 5,
         "text": [
             "Please",
@@ -306,7 +251,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1149142934618427394,
+        "tweet_id": 1149477563636436993,
         "tweet_num": 6,
         "text": [
             "Please",
@@ -361,7 +306,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1149020523998920706,
+        "tweet_id": 1149142934618427394,
         "tweet_num": 7,
         "text": [
             "Please",
@@ -416,8 +361,63 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1062509726053752833,
+        "tweet_id": 1149020523998920706,
         "tweet_num": 8,
+        "text": [
+            "Please",
+            "support",
+            "GoFundMe",
+            "campaign",
+            "gofundme"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 1062509726053752833,
+        "tweet_num": 9,
         "text": [
             "I",
             "cant",
@@ -442,46 +442,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 1061108870406332416,
-        "tweet_num": 9,
-        "text": [
-            "Hey",
-            "Become",
-            "Postmate",
-            "could",
-            "qualify",
-            "a",
-            "promotion",
-            "guarantee",
-            "you",
-            "will",
-            "make",
-            "least",
-            "your",
-            "first",
-            "delivery",
-            "Phoenix",
-            "Use",
-            "code",
-            "FL6zbbr",
-            "here",
-            "a",
-            "link"
-        ],
-        "raw_emotion_scores": {
-            "positive": 3,
-            "trust": 1,
-            "anticipation": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.6
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 1049718645809504256,
         "tweet_num": 10,
         "text": [
             "Hey",
@@ -521,8 +481,48 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1045892717308403712,
+        "tweet_id": 1049718645809504256,
         "tweet_num": 11,
+        "text": [
+            "Hey",
+            "Become",
+            "Postmate",
+            "could",
+            "qualify",
+            "a",
+            "promotion",
+            "guarantee",
+            "you",
+            "will",
+            "make",
+            "least",
+            "your",
+            "first",
+            "delivery",
+            "Phoenix",
+            "Use",
+            "code",
+            "FL6zbbr",
+            "here",
+            "a",
+            "link"
+        ],
+        "raw_emotion_scores": {
+            "positive": 3,
+            "trust": 1,
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.6
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 1045892717308403712,
+        "tweet_num": 12,
         "text": [
             "Little",
             "Bytes"
@@ -574,46 +574,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 1045093895153971201,
-        "tweet_num": 12,
-        "text": [
-            "Hey",
-            "Become",
-            "Postmate",
-            "could",
-            "qualify",
-            "a",
-            "promotion",
-            "guarantee",
-            "you",
-            "will",
-            "make",
-            "least",
-            "your",
-            "first",
-            "delivery",
-            "Phoenix",
-            "Use",
-            "code",
-            "FL6zbbr",
-            "here",
-            "a",
-            "link"
-        ],
-        "raw_emotion_scores": {
-            "positive": 3,
-            "trust": 1,
-            "anticipation": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.6
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 1041834630263885824,
         "tweet_num": 13,
         "text": [
             "Hey",
@@ -653,61 +613,47 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1028176766047674369,
+        "tweet_id": 1041834630263885824,
         "tweet_num": 14,
         "text": [
-            "Check",
-            "this",
-            "video",
-            "weatherchannel"
+            "Hey",
+            "Become",
+            "Postmate",
+            "could",
+            "qualify",
+            "a",
+            "promotion",
+            "guarantee",
+            "you",
+            "will",
+            "make",
+            "least",
+            "your",
+            "first",
+            "delivery",
+            "Phoenix",
+            "Use",
+            "code",
+            "FL6zbbr",
+            "here",
+            "a",
+            "link"
         ],
-        "raw_emotion_scores": {},
+        "raw_emotion_scores": {
+            "positive": 3,
+            "trust": 1,
+            "anticipation": 1
+        },
         "top_emotions": [
             [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
                 "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
+                0.6
             ]
         ]
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1028175378991333376,
+        "tweet_id": 1028176766047674369,
         "tweet_num": 15,
         "text": [
             "Check",
@@ -761,7 +707,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1028174142741209090,
+        "tweet_id": 1028175378991333376,
         "tweet_num": 16,
         "text": [
             "Check",
@@ -815,7 +761,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1028172941039554561,
+        "tweet_id": 1028174142741209090,
         "tweet_num": 17,
         "text": [
             "Check",
@@ -869,7 +815,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1028172799179780097,
+        "tweet_id": 1028172941039554561,
         "tweet_num": 18,
         "text": [
             "Check",
@@ -923,7 +869,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1028171665945948162,
+        "tweet_id": 1028172799179780097,
         "tweet_num": 19,
         "text": [
             "Check",
@@ -977,8 +923,62 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 1026950625970380800,
+        "tweet_id": 1028171665945948162,
         "tweet_num": 20,
+        "text": [
+            "Check",
+            "this",
+            "video",
+            "weatherchannel"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 1026950625970380800,
+        "tweet_num": 21,
         "text": [
             "I",
             "need",
@@ -1001,7 +1001,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1026555931268505600,
-        "tweet_num": 21,
+        "tweet_num": 22,
         "text": [
             "I",
             "on",
@@ -1027,7 +1027,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1023674897346715648,
-        "tweet_num": 22,
+        "tweet_num": 23,
         "text": [
             "Mercuryretrograde",
             "coming",
@@ -1061,7 +1061,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1023386069302038528,
-        "tweet_num": 23,
+        "tweet_num": 24,
         "text": [
             "Gemini",
             "turn",
@@ -1096,7 +1096,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1023183508070588422,
-        "tweet_num": 24,
+        "tweet_num": 25,
         "text": [
             "When",
             "go",
@@ -1133,7 +1133,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 1022754504855322624,
-        "tweet_num": 25,
+        "tweet_num": 26,
         "text": [
             "Season",
             "started",
@@ -1158,7 +1158,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 810664647103827968,
-        "tweet_num": 26,
+        "tweet_num": 27,
         "text": [
             "I",
             "hope",
@@ -1200,7 +1200,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 796678645842608130,
-        "tweet_num": 27,
+        "tweet_num": 28,
         "text": [
             "She",
             "so",
@@ -1230,7 +1230,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 796676725207920640,
-        "tweet_num": 28,
+        "tweet_num": 29,
         "text": [
             "Can",
             "guess",
@@ -1265,7 +1265,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 795549534403358720,
-        "tweet_num": 29,
+        "tweet_num": 30,
         "text": [
             "Never",
             "lie",
@@ -1311,7 +1311,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 794080677755060224,
-        "tweet_num": 30,
+        "tweet_num": 31,
         "text": [
             "somethingdifferent",
             "somethingsimple",
@@ -1366,7 +1366,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 793722797193322496,
-        "tweet_num": 31,
+        "tweet_num": 32,
         "text": [
             "My",
             "life",
@@ -1426,7 +1426,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 793163858445828096,
-        "tweet_num": 32,
+        "tweet_num": 33,
         "text": [
             "Just",
             "posted",
@@ -1479,7 +1479,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 792904970853048320,
-        "tweet_num": 33,
+        "tweet_num": 34,
         "text": [
             "And",
             "walking",
@@ -1536,7 +1536,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 792491304181698560,
-        "tweet_num": 34,
+        "tweet_num": 35,
         "text": [
             "She",
             "told",
@@ -1563,7 +1563,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 792483912748597248,
-        "tweet_num": 35,
+        "tweet_num": 36,
         "text": [
             "Just",
             "posted",
@@ -1616,7 +1616,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 792473068581056512,
-        "tweet_num": 36,
+        "tweet_num": 37,
         "text": [
             "Waiting",
             "line",
@@ -1676,7 +1676,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 792453860627472384,
-        "tweet_num": 37,
+        "tweet_num": 38,
         "text": [
             "happyhallowen",
             "katanagirl",
@@ -1734,59 +1734,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 790281322438819840,
-        "tweet_num": 38,
-        "text": [
-            "Just",
-            "posted",
-            "photo"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 790055632443441152,
         "tweet_num": 39,
         "text": [
             "Just",
@@ -1839,8 +1786,61 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 789210824585936901,
+        "tweet_id": 790055632443441152,
         "tweet_num": 40,
+        "text": [
+            "Just",
+            "posted",
+            "photo"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 789210824585936901,
+        "tweet_num": 41,
         "text": [
             "The",
             "earth",
@@ -1886,7 +1886,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 789158230320701440,
-        "tweet_num": 41,
+        "tweet_num": 42,
         "text": [
             "Shes",
             "kind",
@@ -1919,7 +1919,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 787449747493847040,
-        "tweet_num": 42,
+        "tweet_num": 43,
         "text": [
             "shewasbrave",
             "foralittlebitanyway",
@@ -1975,7 +1975,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 787389067918921729,
-        "tweet_num": 43,
+        "tweet_num": 44,
         "text": [
             "I",
             "smiling",
@@ -2008,59 +2008,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 787386464690724864,
-        "tweet_num": 44,
-        "text": [
-            "Just",
-            "posted",
-            "photo"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 787383044948762624,
         "tweet_num": 45,
         "text": [
             "Just",
@@ -2113,7 +2060,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 787382634930397184,
+        "tweet_id": 787383044948762624,
         "tweet_num": 46,
         "text": [
             "Just",
@@ -2166,7 +2113,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 787381794370969600,
+        "tweet_id": 787382634930397184,
         "tweet_num": 47,
         "text": [
             "Just",
@@ -2219,19 +2166,12 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 787381685151207424,
+        "tweet_id": 787381794370969600,
         "tweet_num": 48,
         "text": [
             "Just",
             "posted",
-            "photo",
-            "Butchers",
-            "Family",
-            "Fun",
-            "Farm",
-            "amp",
-            "Corn",
-            "Maze"
+            "photo"
         ],
         "raw_emotion_scores": {},
         "top_emotions": [
@@ -2279,7 +2219,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 787378051072004096,
+        "tweet_id": 787381685151207424,
         "tweet_num": 49,
         "text": [
             "Just",
@@ -2339,12 +2279,12 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 787373186006519808,
+        "tweet_id": 787378051072004096,
         "tweet_num": 50,
         "text": [
             "Just",
             "posted",
-            "video",
+            "photo",
             "Butchers",
             "Family",
             "Fun",
@@ -2399,7 +2339,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 787373182311337984,
+        "tweet_id": 787373186006519808,
         "tweet_num": 51,
         "text": [
             "Just",
@@ -2459,8 +2399,68 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 787366265702711296,
+        "tweet_id": 787373182311337984,
         "tweet_num": 52,
+        "text": [
+            "Just",
+            "posted",
+            "video",
+            "Butchers",
+            "Family",
+            "Fun",
+            "Farm",
+            "amp",
+            "Corn",
+            "Maze"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 787366265702711296,
+        "tweet_num": 53,
         "text": [
             "Just",
             "posted",
@@ -2520,7 +2520,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 787365609436741632,
-        "tweet_num": 53,
+        "tweet_num": 54,
         "text": [
             "pumkinpatch",
             "pumkinpicking",
@@ -2579,7 +2579,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 786632705706430464,
-        "tweet_num": 54,
+        "tweet_num": 55,
         "text": [
             "I",
             "tell",
@@ -2639,7 +2639,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 786469386819338240,
-        "tweet_num": 55,
+        "tweet_num": 56,
         "text": [
             "Just",
             "posted",
@@ -2692,7 +2692,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 785528682886627328,
-        "tweet_num": 56,
+        "tweet_num": 57,
         "text": [
             "Silly",
             "face",
@@ -2751,7 +2751,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 784132122315456512,
-        "tweet_num": 57,
+        "tweet_num": 58,
         "text": [
             "I",
             "wish",
@@ -2784,59 +2784,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 784085308119875585,
-        "tweet_num": 58,
-        "text": [
-            "Just",
-            "posted",
-            "photo"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 784084795689230337,
         "tweet_num": 59,
         "text": [
             "Just",
@@ -2889,8 +2836,61 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 784083525305790464,
+        "tweet_id": 784084795689230337,
         "tweet_num": 60,
+        "text": [
+            "Just",
+            "posted",
+            "photo"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 784083525305790464,
+        "tweet_num": 61,
         "text": [
             "She",
             "said",
@@ -2949,59 +2949,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 783879478837710848,
-        "tweet_num": 61,
-        "text": [
-            "Just",
-            "posted",
-            "photo"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 783503377921613824,
         "tweet_num": 62,
         "text": [
             "Just",
@@ -3054,7 +3001,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 783431455896731649,
+        "tweet_id": 783503377921613824,
         "tweet_num": 63,
         "text": [
             "Just",
@@ -3107,7 +3054,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 781922479078043648,
+        "tweet_id": 783431455896731649,
         "tweet_num": 64,
         "text": [
             "Just",
@@ -3160,7 +3107,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 781586822711369728,
+        "tweet_id": 781922479078043648,
         "tweet_num": 65,
         "text": [
             "Just",
@@ -3213,7 +3160,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 781586449493811205,
+        "tweet_id": 781586822711369728,
         "tweet_num": 66,
         "text": [
             "Just",
@@ -3266,7 +3213,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 781032480497344512,
+        "tweet_id": 781586449493811205,
         "tweet_num": 67,
         "text": [
             "Just",
@@ -3319,7 +3266,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 780665276354465792,
+        "tweet_id": 781032480497344512,
         "tweet_num": 68,
         "text": [
             "Just",
@@ -3372,7 +3319,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 780665129407045632,
+        "tweet_id": 780665276354465792,
         "tweet_num": 69,
         "text": [
             "Just",
@@ -3425,34 +3372,8 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 780202610741608448,
+        "tweet_id": 780665129407045632,
         "tweet_num": 70,
-        "text": [
-            "I",
-            "really",
-            "love",
-            "picture",
-            "mygirls"
-        ],
-        "raw_emotion_scores": {
-            "joy": 1,
-            "positive": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.5
-            ],
-            [
-                "joy",
-                0.5
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 779516136518025221,
-        "tweet_num": 71,
         "text": [
             "Just",
             "posted",
@@ -3504,7 +3425,33 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 779052647114534912,
+        "tweet_id": 780202610741608448,
+        "tweet_num": 71,
+        "text": [
+            "I",
+            "really",
+            "love",
+            "picture",
+            "mygirls"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 779516136518025221,
         "tweet_num": 72,
         "text": [
             "Just",
@@ -3557,8 +3504,61 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 779021480403341312,
+        "tweet_id": 779052647114534912,
         "tweet_num": 73,
+        "text": [
+            "Just",
+            "posted",
+            "photo"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 779021480403341312,
+        "tweet_num": 74,
         "text": [
             "Autumn",
             "A",
@@ -3591,7 +3591,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 778293255595257856,
-        "tweet_num": 74,
+        "tweet_num": 75,
         "text": [
             "Just",
             "posted",
@@ -3644,7 +3644,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 778284995735683072,
-        "tweet_num": 75,
+        "tweet_num": 76,
         "text": [
             "Just",
             "posted",
@@ -3697,61 +3697,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 777267243499610112,
-        "tweet_num": 76,
-        "text": [
-            "Just",
-            "posted",
-            "photo",
-            "Dutch",
-            "Wonderland"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 777264908220133377,
         "tweet_num": 77,
         "text": [
             "Just",
@@ -3806,7 +3751,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 777264469747625984,
+        "tweet_id": 777264908220133377,
         "tweet_num": 78,
         "text": [
             "Just",
@@ -3861,7 +3806,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 777257726229479428,
+        "tweet_id": 777264469747625984,
         "tweet_num": 79,
         "text": [
             "Just",
@@ -3916,8 +3861,63 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 777238520926732290,
+        "tweet_id": 777257726229479428,
         "tweet_num": 80,
+        "text": [
+            "Just",
+            "posted",
+            "photo",
+            "Dutch",
+            "Wonderland"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 777238520926732290,
+        "tweet_num": 81,
         "text": [
             "Just",
             "posted",
@@ -3972,61 +3972,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 777238469454229504,
-        "tweet_num": 81,
-        "text": [
-            "Just",
-            "posted",
-            "photo",
-            "Dutch",
-            "Wonderland"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 777238223277924352,
         "tweet_num": 82,
         "text": [
             "Just",
@@ -4081,7 +4026,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 777238138255249408,
+        "tweet_id": 777238223277924352,
         "tweet_num": 83,
         "text": [
             "Just",
@@ -4136,8 +4081,63 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 777229902449967104,
+        "tweet_id": 777238138255249408,
         "tweet_num": 84,
+        "text": [
+            "Just",
+            "posted",
+            "photo",
+            "Dutch",
+            "Wonderland"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 777229902449967104,
+        "tweet_num": 85,
         "text": [
             "Just",
             "posted",
@@ -4192,7 +4192,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 776913731745906688,
-        "tweet_num": 85,
+        "tweet_num": 86,
         "text": [
             "Just",
             "posted",
@@ -4245,7 +4245,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 776877848569245697,
-        "tweet_num": 86,
+        "tweet_num": 87,
         "text": [
             "She",
             "think",
@@ -4277,7 +4277,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 776873307866103809,
-        "tweet_num": 87,
+        "tweet_num": 88,
         "text": [
             "Just",
             "posted",
@@ -4330,7 +4330,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 776848676165648384,
-        "tweet_num": 88,
+        "tweet_num": 89,
         "text": [
             "I",
             "told",
@@ -4354,7 +4354,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 776464840516919297,
-        "tweet_num": 89,
+        "tweet_num": 90,
         "text": [
             "Her",
             "heart",
@@ -4416,59 +4416,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 775590003594424321,
-        "tweet_num": 90,
-        "text": [
-            "Just",
-            "posted",
-            "photo"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 775492452220276736,
         "tweet_num": 91,
         "text": [
             "Just",
@@ -4521,7 +4468,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775375482535677953,
+        "tweet_id": 775492452220276736,
         "tweet_num": 92,
         "text": [
             "Just",
@@ -4574,8 +4521,61 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775136957521362944,
+        "tweet_id": 775375482535677953,
         "tweet_num": 93,
+        "text": [
+            "Just",
+            "posted",
+            "photo"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 775136957521362944,
+        "tweet_num": 94,
         "text": [
             "Just",
             "posted",
@@ -4628,7 +4628,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 775076396318142464,
-        "tweet_num": 94,
+        "tweet_num": 95,
         "text": [
             "Just",
             "posted",
@@ -4686,7 +4686,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 775075948853166080,
-        "tweet_num": 95,
+        "tweet_num": 96,
         "text": [
             "Just",
             "posted",
@@ -4743,7 +4743,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 775075825267929088,
-        "tweet_num": 96,
+        "tweet_num": 97,
         "text": [
             "Just",
             "posted",
@@ -4799,64 +4799,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 775075111208624128,
-        "tweet_num": 97,
-        "text": [
-            "Just",
-            "posted",
-            "video",
-            "Statue",
-            "Of",
-            "Liberty",
-            "Liberty",
-            "Island"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 775075097585541120,
         "tweet_num": 98,
         "text": [
             "Just",
@@ -4914,16 +4856,17 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775063361482612737,
+        "tweet_id": 775075097585541120,
         "tweet_num": 99,
         "text": [
             "Just",
             "posted",
-            "photo",
-            "Ellis",
-            "Island",
-            "Immigration",
-            "Museum"
+            "video",
+            "Statue",
+            "Of",
+            "Liberty",
+            "Liberty",
+            "Island"
         ],
         "raw_emotion_scores": {},
         "top_emotions": [
@@ -4971,7 +4914,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775044862597066752,
+        "tweet_id": 775063361482612737,
         "tweet_num": 100,
         "text": [
             "Just",
@@ -5028,117 +4971,8 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775043771822182400,
+        "tweet_id": 775044862597066752,
         "tweet_num": 101,
-        "text": [
-            "Just",
-            "posted",
-            "photo",
-            "Liberty",
-            "State",
-            "Park"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 775041640352321538,
-        "tweet_num": 102,
-        "text": [
-            "Just",
-            "posted",
-            "photo"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 775041270746054656,
-        "tweet_num": 103,
         "text": [
             "Just",
             "posted",
@@ -5194,7 +5028,116 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775040882571669504,
+        "tweet_id": 775043771822182400,
+        "tweet_num": 102,
+        "text": [
+            "Just",
+            "posted",
+            "photo",
+            "Liberty",
+            "State",
+            "Park"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 775041640352321538,
+        "tweet_num": 103,
+        "text": [
+            "Just",
+            "posted",
+            "photo"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 775041270746054656,
         "tweet_num": 104,
         "text": [
             "Just",
@@ -5251,15 +5194,16 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775040714765897729,
+        "tweet_id": 775040882571669504,
         "tweet_num": 105,
         "text": [
             "Just",
             "posted",
             "photo",
-            "Liberty",
-            "State",
-            "Park"
+            "Ellis",
+            "Island",
+            "Immigration",
+            "Museum"
         ],
         "raw_emotion_scores": {},
         "top_emotions": [
@@ -5307,7 +5251,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775040497605873669,
+        "tweet_id": 775040714765897729,
         "tweet_num": 106,
         "text": [
             "Just",
@@ -5363,7 +5307,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 775040280781287425,
+        "tweet_id": 775040497605873669,
         "tweet_num": 107,
         "text": [
             "Just",
@@ -5419,47 +5363,15 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 773130718436290560,
+        "tweet_id": 775040280781287425,
         "tweet_num": 108,
-        "text": [
-            "My",
-            "baby",
-            "her",
-            "first",
-            "day",
-            "shes",
-            "excited",
-            "prek",
-            "firstday",
-            "mybabynotababy",
-            "shesallsmiles"
-        ],
-        "raw_emotion_scores": {
-            "joy": 2,
-            "positive": 2,
-            "anticipation": 1,
-            "surprise": 1,
-            "trust": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.2857142857142857
-            ],
-            [
-                "joy",
-                0.2857142857142857
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 772979534538866688,
-        "tweet_num": 109,
         "text": [
             "Just",
             "posted",
-            "photo"
+            "photo",
+            "Liberty",
+            "State",
+            "Park"
         ],
         "raw_emotion_scores": {},
         "top_emotions": [
@@ -5507,7 +5419,42 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 772145951117045762,
+        "tweet_id": 773130718436290560,
+        "tweet_num": 109,
+        "text": [
+            "My",
+            "baby",
+            "her",
+            "first",
+            "day",
+            "shes",
+            "excited",
+            "prek",
+            "firstday",
+            "mybabynotababy",
+            "shesallsmiles"
+        ],
+        "raw_emotion_scores": {
+            "joy": 2,
+            "positive": 2,
+            "anticipation": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.2857142857142857
+            ],
+            [
+                "joy",
+                0.2857142857142857
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 772979534538866688,
         "tweet_num": 110,
         "text": [
             "Just",
@@ -5560,8 +5507,61 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 771809077240430592,
+        "tweet_id": 772145951117045762,
         "tweet_num": 111,
+        "text": [
+            "Just",
+            "posted",
+            "photo"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 771809077240430592,
+        "tweet_num": 112,
         "text": [
             "Naughty",
             "Boy",
@@ -5619,7 +5619,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 771750047138648064,
-        "tweet_num": 112,
+        "tweet_num": 113,
         "text": [
             "Because",
             "hard",
@@ -5660,7 +5660,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 771146825579593728,
-        "tweet_num": 113,
+        "tweet_num": 114,
         "text": [
             "Dont",
             "cry",
@@ -5710,7 +5710,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 764949731512619008,
-        "tweet_num": 114,
+        "tweet_num": 115,
         "text": [
             "Just",
             "posted",
@@ -5763,7 +5763,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 764699383703240705,
-        "tweet_num": 115,
+        "tweet_num": 116,
         "text": [
             "Just",
             "posted",
@@ -5816,7 +5816,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 762265885679771648,
-        "tweet_num": 116,
+        "tweet_num": 117,
         "text": [
             "Just",
             "posted",
@@ -5869,7 +5869,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 759935459900399616,
-        "tweet_num": 117,
+        "tweet_num": 118,
         "text": [
             "Just",
             "posted",
@@ -5922,63 +5922,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 759935215481520128,
-        "tweet_num": 118,
-        "text": [
-            "Just",
-            "posted",
-            "photo",
-            "Knobles",
-            "Grove",
-            "Amusement",
-            "Park"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 759935135932383236,
         "tweet_num": 119,
         "text": [
             "Just",
@@ -6035,7 +5978,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 759866402140479488,
+        "tweet_id": 759935135932383236,
         "tweet_num": 120,
         "text": [
             "Just",
@@ -6092,8 +6035,65 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 759815887427887104,
+        "tweet_id": 759866402140479488,
         "tweet_num": 121,
+        "text": [
+            "Just",
+            "posted",
+            "photo",
+            "Knobles",
+            "Grove",
+            "Amusement",
+            "Park"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 759815887427887104,
+        "tweet_num": 122,
         "text": [
             "knoebels",
             "sundayfunday",
@@ -6150,7 +6150,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 759806715068030976,
-        "tweet_num": 122,
+        "tweet_num": 123,
         "text": [
             "Just",
             "posted",
@@ -6203,7 +6203,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 759793371800072194,
-        "tweet_num": 123,
+        "tweet_num": 124,
         "text": [
             "babygirl",
             "notsobabyanymore",
@@ -6259,7 +6259,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 759475626231431168,
-        "tweet_num": 124,
+        "tweet_num": 125,
         "text": [
             "reading",
             "drink",
@@ -6283,7 +6283,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 759262726673821696,
-        "tweet_num": 125,
+        "tweet_num": 126,
         "text": [
             "Just",
             "finished",
@@ -6308,7 +6308,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 759144016143380482,
-        "tweet_num": 126,
+        "tweet_num": 127,
         "text": [
             "Just",
             "posted",
@@ -6361,7 +6361,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 759073023584571392,
-        "tweet_num": 127,
+        "tweet_num": 128,
         "text": [
             "She",
             "make",
@@ -6404,7 +6404,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 759072647401631744,
-        "tweet_num": 128,
+        "tweet_num": 129,
         "text": [
             "cheese",
             "evonnemoments",
@@ -6462,7 +6462,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 758800858142298113,
-        "tweet_num": 129,
+        "tweet_num": 130,
         "text": [
             "I",
             "guess",
@@ -6498,7 +6498,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 758403769055010816,
-        "tweet_num": 130,
+        "tweet_num": 131,
         "text": [
             "This",
             "made",
@@ -6530,7 +6530,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 755972412110413824,
-        "tweet_num": 131,
+        "tweet_num": 132,
         "text": [
             "I",
             "forgot",
@@ -6588,7 +6588,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 755971801335885824,
-        "tweet_num": 132,
+        "tweet_num": 133,
         "text": [
             "When",
             "the",
@@ -6647,7 +6647,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 755595040303579136,
-        "tweet_num": 133,
+        "tweet_num": 134,
         "text": [
             "My",
             "favorite",
@@ -6684,7 +6684,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 753055228124078080,
-        "tweet_num": 134,
+        "tweet_num": 135,
         "text": [
             "The",
             "moment",
@@ -6717,7 +6717,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 752639905570971652,
-        "tweet_num": 135,
+        "tweet_num": 136,
         "text": [
             "Botanically",
             "speaking",
@@ -6777,7 +6777,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 752528928229601280,
-        "tweet_num": 136,
+        "tweet_num": 137,
         "text": [
             "Theres",
             "always",
@@ -6817,7 +6817,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 748546188031438848,
-        "tweet_num": 137,
+        "tweet_num": 138,
         "text": [
             "Good",
             "people",
@@ -6854,7 +6854,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 748224895989886976,
-        "tweet_num": 138,
+        "tweet_num": 139,
         "text": [
             "WednesdayWisdom",
             "Be",
@@ -6879,7 +6879,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 748141379067445248,
-        "tweet_num": 139,
+        "tweet_num": 140,
         "text": [
             "randomfact",
             "The",
@@ -6911,7 +6911,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 740900207278362624,
-        "tweet_num": 140,
+        "tweet_num": 141,
         "text": [
             "I",
             "so",
@@ -6974,59 +6974,6 @@
     {
         "user_id": 458761512,
         "tweet_id": 738146060518842369,
-        "tweet_num": 141,
-        "text": [
-            "Just",
-            "posted",
-            "photo"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 738145653709279232,
         "tweet_num": 142,
         "text": [
             "Just",
@@ -7079,7 +7026,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 738144814567292932,
+        "tweet_id": 738145653709279232,
         "tweet_num": 143,
         "text": [
             "Just",
@@ -7132,7 +7079,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 737849959492550656,
+        "tweet_id": 738144814567292932,
         "tweet_num": 144,
         "text": [
             "Just",
@@ -7185,7 +7132,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 737055429516251136,
+        "tweet_id": 737849959492550656,
         "tweet_num": 145,
         "text": [
             "Just",
@@ -7238,7 +7185,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 735848815643774980,
+        "tweet_id": 737055429516251136,
         "tweet_num": 146,
         "text": [
             "Just",
@@ -7291,32 +7238,8 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 735661702214262785,
+        "tweet_id": 735848815643774980,
         "tweet_num": 147,
-        "text": [
-            "workout",
-            "done",
-            "teambeachbody",
-            "underconstruction",
-            "sweatlikeyoumeanit",
-            "today",
-            "such",
-            "productive"
-        ],
-        "raw_emotion_scores": {
-            "positive": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                1.0
-            ]
-        ]
-    },
-    {
-        "user_id": 458761512,
-        "tweet_id": 733123768680321024,
-        "tweet_num": 148,
         "text": [
             "Just",
             "posted",
@@ -7368,7 +7291,31 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 732667632189636609,
+        "tweet_id": 735661702214262785,
+        "tweet_num": 148,
+        "text": [
+            "workout",
+            "done",
+            "teambeachbody",
+            "underconstruction",
+            "sweatlikeyoumeanit",
+            "today",
+            "such",
+            "productive"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 733123768680321024,
         "tweet_num": 149,
         "text": [
             "Just",
@@ -7421,7 +7368,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 731869173966635008,
+        "tweet_id": 732667632189636609,
         "tweet_num": 150,
         "text": [
             "Just",
@@ -7474,7 +7421,7 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 731685860194852864,
+        "tweet_id": 731869173966635008,
         "tweet_num": 151,
         "text": [
             "Just",
@@ -7527,8 +7474,61 @@
     },
     {
         "user_id": 458761512,
-        "tweet_id": 728993027763646465,
+        "tweet_id": 731685860194852864,
         "tweet_num": 152,
+        "text": [
+            "Just",
+            "posted",
+            "photo"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 458761512,
+        "tweet_id": 728993027763646465,
+        "tweet_num": 153,
         "text": [
             "Sometimes",
             "just",
@@ -7589,7 +7589,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 726214251208122369,
-        "tweet_num": 153,
+        "tweet_num": 154,
         "text": [
             "Today",
             "I",
@@ -7624,7 +7624,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 726189745081032704,
-        "tweet_num": 154,
+        "tweet_num": 155,
         "text": [
             "Just",
             "posted",
@@ -7677,7 +7677,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 486856042106462208,
-        "tweet_num": 155,
+        "tweet_num": 156,
         "text": [
             "For",
             "sustainedenergy",
@@ -7733,7 +7733,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 486707862098280448,
-        "tweet_num": 156,
+        "tweet_num": 157,
         "text": [
             "I",
             "love",
@@ -7776,7 +7776,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 453908308601360384,
-        "tweet_num": 157,
+        "tweet_num": 158,
         "text": [
             "Very",
             "productive",
@@ -7807,7 +7807,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 452789958500450305,
-        "tweet_num": 158,
+        "tweet_num": 159,
         "text": [
             "Woke",
             "before",
@@ -7836,7 +7836,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 452681089262579712,
-        "tweet_num": 159,
+        "tweet_num": 160,
         "text": [
             "Advices",
             "colic",
@@ -7865,7 +7865,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 452509909561929728,
-        "tweet_num": 160,
+        "tweet_num": 161,
         "text": [
             "Got",
             "girl",
@@ -7914,7 +7914,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 452388259172470784,
-        "tweet_num": 161,
+        "tweet_num": 162,
         "text": [
             "Girls",
             "un",
@@ -7945,7 +7945,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 451659640099856384,
-        "tweet_num": 162,
+        "tweet_num": 163,
         "text": [
             "Another",
             "day",
@@ -8004,7 +8004,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 285868056192905216,
-        "tweet_num": 163,
+        "tweet_num": 164,
         "text": [
             "How",
             "I",
@@ -8032,7 +8032,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 285611998199283712,
-        "tweet_num": 164,
+        "tweet_num": 165,
         "text": [
             "Y",
             "I",
@@ -8070,7 +8070,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 284788151573164032,
-        "tweet_num": 165,
+        "tweet_num": 166,
         "text": [
             "a",
             "good",
@@ -8121,7 +8121,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 284635493587615744,
-        "tweet_num": 166,
+        "tweet_num": 167,
         "text": [
             "Whats",
             "done",
@@ -8176,7 +8176,7 @@
     {
         "user_id": 458761512,
         "tweet_id": 284631656160169984,
-        "tweet_num": 167,
+        "tweet_num": 168,
         "text": [
             "_DwightHoward_",
             "Some",

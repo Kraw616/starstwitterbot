@@ -1,73 +1,46 @@
 [
     {
         "user_id": 1304123753371258883,
-        "tweet_id": 1517304584187912192,
-        "tweet_num": 0,
+        "tweet_id": 1519139897826816003,
+        "tweet_num": 1,
         "text": [
-            "need",
-            "every",
-            "couple",
-            "month",
-            "unplug",
-            "detox",
-            "travel",
-            "last",
-            "thing",
-            "dont",
-            "need",
+            "im",
+            "ngl",
+            "hollywood",
+            "kenny",
             "to",
-            "be",
-            "is",
-            "crashing"
+            "are",
+            "first",
+            "artist",
+            "master",
+            "lil",
+            "tjay",
+            "flow",
+            "in",
+            "head",
+            "remix",
+            "visuals",
+            "go",
+            "crazy"
         ],
-        "raw_emotion_scores": {},
+        "raw_emotion_scores": {
+            "positive": 2,
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
         "top_emotions": [
             [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
                 "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
+                0.3333333333333333
             ]
         ]
     },
     {
         "user_id": 1304123753371258883,
         "tweet_id": 1516236867649380352,
-        "tweet_num": 1,
+        "tweet_num": 2,
         "text": [
             "get",
             "much",
@@ -123,7 +96,7 @@
     {
         "user_id": 1304123753371258883,
         "tweet_id": 1516116921346936836,
-        "tweet_num": 2,
+        "tweet_num": 3,
         "text": [
             "im",
             "constantly",
@@ -164,46 +137,6 @@
             [
                 "sadness",
                 0.2222222222222222
-            ]
-        ]
-    },
-    {
-        "user_id": 1304123753371258883,
-        "tweet_id": 1515832363686715406,
-        "tweet_num": 3,
-        "text": [
-            "listening",
-            "shenseea",
-            "so",
-            "refreshing",
-            "sun",
-            "come",
-            "really",
-            "gon",
-            "na",
-            "help",
-            "dealing",
-            "with",
-            "my",
-            "mental",
-            "battle",
-            "my",
-            "healing",
-            "process"
-        ],
-        "raw_emotion_scores": {
-            "positive": 3,
-            "anticipation": 2,
-            "joy": 2,
-            "surprise": 1,
-            "trust": 2,
-            "anger": 1,
-            "negative": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.25
             ]
         ]
     },

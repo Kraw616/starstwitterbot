@@ -1,8 +1,49 @@
 [
     {
         "user_id": 490665672,
+        "tweet_id": 1519052346218749952,
+        "tweet_num": 1,
+        "text": [
+            "To",
+            "person",
+            "reading",
+            "I",
+            "hope",
+            "tonight",
+            "treat",
+            "gently",
+            "that",
+            "tomorrow",
+            "look",
+            "brighter"
+        ],
+        "raw_emotion_scores": {
+            "positive": 3,
+            "anticipation": 3,
+            "joy": 2,
+            "surprise": 2,
+            "trust": 2,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.17647058823529413
+            ],
+            [
+                "anticipation",
+                0.17647058823529413
+            ]
+        ]
+    },
+    {
+        "user_id": 490665672,
         "tweet_id": 1514339693604876296,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "think",
             "start",
@@ -34,7 +75,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1513624046692352014,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "True",
             "af"
@@ -86,7 +127,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1513243996075737102,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "A",
             "hectic",
@@ -113,7 +154,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1511450198429638668,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "Ever",
             "wan",
@@ -148,7 +189,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1508907430029242373,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "Death",
             "not",
@@ -196,7 +237,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1503036573394292871,
-        "tweet_num": 5,
+        "tweet_num": 7,
         "text": [
             "Anxiety"
         ],
@@ -247,7 +288,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1492206054876356613,
-        "tweet_num": 6,
+        "tweet_num": 8,
         "text": [
             "You",
             "inspire",
@@ -275,7 +316,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1491559503413891072,
-        "tweet_num": 7,
+        "tweet_num": 9,
         "text": [
             "We",
             "often",
@@ -304,7 +345,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1485376062771154948,
-        "tweet_num": 8,
+        "tweet_num": 10,
         "text": [
             "I",
             "felt"
@@ -356,7 +397,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1467071226401234946,
-        "tweet_num": 9,
+        "tweet_num": 11,
         "text": [
             "I",
             "love",
@@ -384,7 +425,7 @@
     {
         "user_id": 490665672,
         "tweet_id": 1463988741094191113,
-        "tweet_num": 10,
+        "tweet_num": 12,
         "text": [
             "My",
             "bf",
@@ -413,57 +454,6 @@
             [
                 "anticipation",
                 0.25
-            ]
-        ]
-    },
-    {
-        "user_id": 490665672,
-        "tweet_id": 1459249212550529028,
-        "tweet_num": 11,
-        "text": [
-            "Hein"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
             ]
         ]
     }

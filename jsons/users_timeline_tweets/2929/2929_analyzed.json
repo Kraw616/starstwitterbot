@@ -1,8 +1,113 @@
 [
     {
         "user_id": 1003461884,
+        "tweet_id": 1519126156326449154,
+        "tweet_num": 1,
+        "text": [
+            "need",
+            "court",
+            "owl",
+            "the",
+            "batman",
+            "sequel"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 2,
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1003461884,
+        "tweet_id": 1519108836837179395,
+        "tweet_num": 2,
+        "text": [
+            "collecting",
+            "the",
+            "material",
+            "item",
+            "bring",
+            "joy"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1003461884,
+        "tweet_id": 1519102438590066689,
+        "tweet_num": 3,
+        "text": [
+            "thats",
+            "best",
+            "part",
+            "httpstcosggmtcIEl0"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1003461884,
         "tweet_id": 1518730215291301888,
-        "tweet_num": 0,
+        "tweet_num": 4,
         "text": [
             "a",
             "blessing",
@@ -40,7 +145,7 @@
     {
         "user_id": 1003461884,
         "tweet_id": 1518703435176198147,
-        "tweet_num": 1,
+        "tweet_num": 5,
         "text": [
             "larry",
             "david",
@@ -97,51 +202,8 @@
     },
     {
         "user_id": 1003461884,
-        "tweet_id": 1518557617123115008,
-        "tweet_num": 2,
-        "text": [
-            "have",
-            "obsession",
-            "sunglass",
-            "ill",
-            "buy",
-            "bunch",
-            "them",
-            "only",
-            "wear",
-            "one",
-            "pair",
-            "i",
-            "become",
-            "obsessed",
-            "the",
-            "next",
-            "pair",
-            "it",
-            "about",
-            "the",
-            "option"
-        ],
-        "raw_emotion_scores": {
-            "anger": 1,
-            "disgust": 1,
-            "fear": 1,
-            "negative": 2,
-            "sadness": 1,
-            "trust": 1,
-            "positive": 1
-        },
-        "top_emotions": [
-            [
-                "negative",
-                0.25
-            ]
-        ]
-    },
-    {
-        "user_id": 1003461884,
         "tweet_id": 1517361408127680512,
-        "tweet_num": 3,
+        "tweet_num": 6,
         "text": [
             "spring",
             "cleaning",

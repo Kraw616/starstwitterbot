@@ -1,8 +1,38 @@
 [
     {
         "user_id": 1515136971588481028,
+        "tweet_id": 1518957696661270530,
+        "tweet_num": 1,
+        "text": [
+            "My",
+            "mama",
+            "told",
+            "she",
+            "proud",
+            "me",
+            "I",
+            "left",
+            "for",
+            "school",
+            "morning"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.4
+            ]
+        ]
+    },
+    {
+        "user_id": 1515136971588481028,
         "tweet_id": 1518604161721544705,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "What",
             "song",
@@ -61,7 +91,7 @@
     {
         "user_id": 1515136971588481028,
         "tweet_id": 1518238679306805250,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "Top",
             "fave",
@@ -114,7 +144,7 @@
     {
         "user_id": 1515136971588481028,
         "tweet_id": 1517837658470371328,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "Peppermint",
             "ginger",
@@ -139,7 +169,7 @@
     {
         "user_id": 1515136971588481028,
         "tweet_id": 1515173768775221254,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "Florals",
             "For",

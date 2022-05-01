@@ -1,27 +1,29 @@
 [
     {
         "positive": 530,
-        "negative": 163,
+        "negative": 162,
         "fear": 120,
         "anger": 113,
-        "anticipation": 293,
+        "anticipation": 294,
         "trust": 285,
         "surprise": 129,
         "sadness": 76,
         "disgust": 53,
-        "joy": 250
+        "joy": 251
     },
     {
         "positive": 0.848,
-        "negative": 0.2608,
+        "negative": 0.2592,
         "fear": 0.192,
         "anger": 0.1808,
-        "anticipation": 0.4688,
+        "anticipation": 0.4704,
         "trust": 0.456,
         "surprise": 0.2064,
         "sadness": 0.1216,
         "disgust": 0.0848,
-        "joy": 0.4
+        "joy": 0.4016
     },
-    624
+    {
+        "num_tweets": 625
+    }
 ]

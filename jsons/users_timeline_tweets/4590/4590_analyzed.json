@@ -1,8 +1,247 @@
 [
     {
         "user_id": 1451347012599885824,
+        "tweet_id": 1519124419901276165,
+        "tweet_num": 1,
+        "text": [
+            "This",
+            "tweet",
+            "inspired",
+            "hellabrunette"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1451347012599885824,
+        "tweet_id": 1519124151994359808,
+        "tweet_num": 2,
+        "text": [
+            "Im",
+            "the",
+            "South",
+            "not",
+            "eat",
+            "chitlins",
+            "South"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1451347012599885824,
+        "tweet_id": 1519079667835285504,
+        "tweet_num": 3,
+        "text": [
+            "taco",
+            "a",
+            "side",
+            "tit",
+            "tonight",
+            "chill"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1451347012599885824,
+        "tweet_id": 1518954096937549824,
+        "tweet_num": 4,
+        "text": [
+            "Once",
+            "I",
+            "learn",
+            "regenerate",
+            "leg",
+            "like",
+            "salamander",
+            "all",
+            "for",
+            "bitch"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.16666666666666666
+            ],
+            [
+                "anger",
+                0.16666666666666666
+            ],
+            [
+                "positive",
+                0.16666666666666666
+            ],
+            [
+                "negative",
+                0.16666666666666666
+            ],
+            [
+                "sadness",
+                0.16666666666666666
+            ],
+            [
+                "disgust",
+                0.16666666666666666
+            ]
+        ]
+    },
+    {
+        "user_id": 1451347012599885824,
+        "tweet_id": 1518944416605609985,
+        "tweet_num": 5,
+        "text": [
+            "Found",
+            "guy"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1451347012599885824,
+        "tweet_id": 1518921537004396545,
+        "tweet_num": 6,
+        "text": [
+            "And",
+            "there",
+            "him",
+            "Nothing",
+            "else",
+            "matter"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1451347012599885824,
         "tweet_id": 1518736161207992320,
-        "tweet_num": 0,
+        "tweet_num": 7,
         "text": [
             "I",
             "a",
@@ -56,7 +295,7 @@
     {
         "user_id": 1451347012599885824,
         "tweet_id": 1518702088825487361,
-        "tweet_num": 1,
+        "tweet_num": 8,
         "text": [
             "When",
             "load",
@@ -86,7 +325,7 @@
     {
         "user_id": 1451347012599885824,
         "tweet_id": 1518631174737903623,
-        "tweet_num": 2,
+        "tweet_num": 9,
         "text": [
             "Booties",
             "belly",
@@ -105,7 +344,7 @@
     {
         "user_id": 1451347012599885824,
         "tweet_id": 1518608549265518598,
-        "tweet_num": 3,
+        "tweet_num": 10,
         "text": [
             "control",
             "withers",
@@ -148,7 +387,7 @@
     {
         "user_id": 1451347012599885824,
         "tweet_id": 1518582066463617024,
-        "tweet_num": 4,
+        "tweet_num": 11,
         "text": [
             "im",
             "blunt",
@@ -168,173 +407,6 @@
             [
                 "positive",
                 0.5
-            ]
-        ]
-    },
-    {
-        "user_id": 1451347012599885824,
-        "tweet_id": 1518411216867270656,
-        "tweet_num": 5,
-        "text": [
-            "Omfg",
-            "Pickle",
-            "duuude",
-            "lilroxie91"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1451347012599885824,
-        "tweet_id": 1518368635407978498,
-        "tweet_num": 6,
-        "text": [
-            "This",
-            "too",
-            "cuuuute"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1451347012599885824,
-        "tweet_id": 1518297382202621952,
-        "tweet_num": 7,
-        "text": [
-            "Hear",
-            "out",
-            "Twix",
-            "covered",
-            "coconut",
-            "flake"
-        ],
-        "raw_emotion_scores": {
-            "negative": 1
-        },
-        "top_emotions": [
-            [
-                "negative",
-                1.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1451347012599885824,
-        "tweet_id": 1518241910795780097,
-        "tweet_num": 8,
-        "text": [
-            "Lost",
-            "pool",
-            "flaming",
-            "desire",
-            "his",
-            "eye",
-            "Will",
-            "ever",
-            "find",
-            "way",
-            "erotify",
-            "lost"
-        ],
-        "raw_emotion_scores": {
-            "positive": 1,
-            "negative": 1,
-            "sadness": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.3333333333333333
-            ],
-            [
-                "negative",
-                0.3333333333333333
-            ],
-            [
-                "sadness",
-                0.3333333333333333
             ]
         ]
     }

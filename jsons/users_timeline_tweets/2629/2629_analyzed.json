@@ -1,8 +1,92 @@
 [
     {
         "user_id": 1517881173279711232,
+        "tweet_id": 1518927810852802562,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "wan",
+            "na",
+            "a",
+            "good",
+            "day"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.125
+            ],
+            [
+                "trust",
+                0.125
+            ],
+            [
+                "surprise",
+                0.125
+            ],
+            [
+                "positive",
+                0.125
+            ],
+            [
+                "negative",
+                0.125
+            ],
+            [
+                "sadness",
+                0.125
+            ],
+            [
+                "joy",
+                0.125
+            ],
+            [
+                "anticipation",
+                0.125
+            ]
+        ]
+    },
+    {
+        "user_id": 1517881173279711232,
+        "tweet_id": 1518927408526680065,
+        "tweet_num": 2,
+        "text": [
+            "Virgo",
+            "I",
+            "love",
+            "spicy",
+            "food"
+        ],
+        "raw_emotion_scores": {
+            "joy": 2,
+            "positive": 2,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.4
+            ],
+            [
+                "joy",
+                0.4
+            ]
+        ]
+    },
+    {
+        "user_id": 1517881173279711232,
         "tweet_id": 1518296213954732033,
-        "tweet_num": 0,
+        "tweet_num": 3,
         "text": [
             "I",
             "want"
@@ -54,7 +138,7 @@
     {
         "user_id": 1517881173279711232,
         "tweet_id": 1517917390658580481,
-        "tweet_num": 1,
+        "tweet_num": 4,
         "text": [
             "And",
             "a",
@@ -87,7 +171,7 @@
     {
         "user_id": 1517881173279711232,
         "tweet_id": 1517915962124771329,
-        "tweet_num": 2,
+        "tweet_num": 5,
         "text": [
             "A",
             "dream",
@@ -111,7 +195,7 @@
     {
         "user_id": 1517881173279711232,
         "tweet_id": 1517910039327125505,
-        "tweet_num": 3,
+        "tweet_num": 6,
         "text": [
             "This",
             "could",
@@ -166,7 +250,7 @@
     {
         "user_id": 1517881173279711232,
         "tweet_id": 1517909372587884545,
-        "tweet_num": 4,
+        "tweet_num": 7,
         "text": [
             "Makes",
             "sense",

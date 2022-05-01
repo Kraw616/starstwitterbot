@@ -1,8 +1,44 @@
 [
     {
         "user_id": 2573341350,
+        "tweet_id": 1518847727358005249,
+        "tweet_num": 1,
+        "text": [
+            "You",
+            "may",
+            "see",
+            "longawaited",
+            "progress",
+            "the",
+            "area",
+            "youve",
+            "More",
+            "Libra"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 2573341350,
         "tweet_id": 1518485324980121600,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "Someone",
             "may",
@@ -64,7 +100,7 @@
     {
         "user_id": 2573341350,
         "tweet_id": 1518122938397982720,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "Negative",
             "thinking",
@@ -124,7 +160,7 @@
     {
         "user_id": 2573341350,
         "tweet_id": 1517760545310478336,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "Sentimentality",
             "could",
@@ -154,7 +190,7 @@
     {
         "user_id": 2573341350,
         "tweet_id": 1517398160330526720,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "An",
             "old",
@@ -191,7 +227,7 @@
     {
         "user_id": 2573341350,
         "tweet_id": 1517035775434534912,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "Learning",
             "trust",
@@ -219,7 +255,7 @@
     {
         "user_id": 2573341350,
         "tweet_id": 1516673381415800838,
-        "tweet_num": 5,
+        "tweet_num": 7,
         "text": [
             "You",
             "could",
@@ -254,76 +290,6 @@
             [
                 "anticipation",
                 0.25
-            ]
-        ]
-    },
-    {
-        "user_id": 2573341350,
-        "tweet_id": 1516310995165085702,
-        "tweet_num": 6,
-        "text": [
-            "Words",
-            "heal",
-            "today",
-            "Something",
-            "may",
-            "need",
-            "be",
-            "said",
-            "yo",
-            "More",
-            "Libra"
-        ],
-        "raw_emotion_scores": {
-            "joy": 1,
-            "positive": 1,
-            "trust": 1
-        },
-        "top_emotions": [
-            [
-                "trust",
-                0.3333333333333333
-            ],
-            [
-                "positive",
-                0.3333333333333333
-            ],
-            [
-                "joy",
-                0.3333333333333333
-            ]
-        ]
-    },
-    {
-        "user_id": 2573341350,
-        "tweet_id": 1515948608050241539,
-        "tweet_num": 7,
-        "text": [
-            "Your",
-            "natural",
-            "ability",
-            "mediate",
-            "might",
-            "serve",
-            "especially",
-            "wel",
-            "More",
-            "Libra"
-        ],
-        "raw_emotion_scores": {
-            "positive": 2,
-            "anticipation": 1,
-            "trust": 2,
-            "negative": 1
-        },
-        "top_emotions": [
-            [
-                "trust",
-                0.3333333333333333
-            ],
-            [
-                "positive",
-                0.3333333333333333
             ]
         ]
     }

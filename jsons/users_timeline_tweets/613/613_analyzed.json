@@ -1,11 +1,10 @@
 [
     {
         "user_id": 1398873082593349639,
-        "tweet_id": 1518802675768635392,
-        "tweet_num": 0,
+        "tweet_id": 1518988746854522880,
+        "tweet_num": 1,
         "text": [
-            "Wordle",
-            "46"
+            "Downgrading"
         ],
         "raw_emotion_scores": {},
         "top_emotions": [
@@ -53,83 +52,36 @@
     },
     {
         "user_id": 1398873082593349639,
-        "tweet_id": 1518651591510822912,
-        "tweet_num": 1,
+        "tweet_id": 1518960799116832768,
+        "tweet_num": 2,
         "text": [
-            "We",
-            "lost",
-            "him"
+            "One",
+            "chance",
+            "grab"
         ],
         "raw_emotion_scores": {
-            "negative": 1,
-            "sadness": 1
+            "surprise": 1,
+            "anger": 1,
+            "negative": 1
         },
         "top_emotions": [
             [
-                "negative",
-                0.5
-            ],
-            [
-                "sadness",
-                0.5
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1518462638082359296,
-        "tweet_num": 2,
-        "text": [
-            "Manervouse",
-            "city"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
                 "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
+                0.3333333333333333
             ],
             [
                 "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
+                0.3333333333333333
             ],
             [
                 "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
+                0.3333333333333333
             ]
         ]
     },
     {
         "user_id": 1398873082593349639,
-        "tweet_id": 1518431996501929985,
+        "tweet_id": 1518802675768635392,
         "tweet_num": 3,
         "text": [
             "Wordle",
@@ -181,8 +133,136 @@
     },
     {
         "user_id": 1398873082593349639,
-        "tweet_id": 1518085569230041088,
+        "tweet_id": 1518651591510822912,
         "tweet_num": 4,
+        "text": [
+            "We",
+            "lost",
+            "him"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "sadness",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1518462638082359296,
+        "tweet_num": 5,
+        "text": [
+            "Manervouse",
+            "city"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1518431996501929985,
+        "tweet_num": 6,
+        "text": [
+            "Wordle",
+            "46"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1518085569230041088,
+        "tweet_num": 7,
         "text": [
             "Shuffling",
             "Wordle",
@@ -235,7 +315,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1517530093962379264,
-        "tweet_num": 5,
+        "tweet_num": 8,
         "text": [
             "Aiyooo",
             "need",
@@ -291,7 +371,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1517200128746024960,
-        "tweet_num": 6,
+        "tweet_num": 9,
         "text": [
             "For",
             "csk",
@@ -345,7 +425,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1517154030610382850,
-        "tweet_num": 7,
+        "tweet_num": 10,
         "text": [
             "One",
             "man",
@@ -365,7 +445,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1517145169526620164,
-        "tweet_num": 8,
+        "tweet_num": 11,
         "text": [
             "Finally",
             "got",
@@ -397,7 +477,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1516803864489447428,
-        "tweet_num": 9,
+        "tweet_num": 12,
         "text": [
             "Life",
             "suck"
@@ -415,7 +495,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1516574863464361988,
-        "tweet_num": 10,
+        "tweet_num": 13,
         "text": [
             "Wordle",
             "66"
@@ -467,7 +547,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1516488772388417537,
-        "tweet_num": 11,
+        "tweet_num": 14,
         "text": [
             "I",
             "miss",
@@ -520,162 +600,6 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1516218809933213699,
-        "tweet_num": 12,
-        "text": [
-            "Wordle",
-            "56"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1515930599554310148,
-        "tweet_num": 13,
-        "text": [
-            "Wordle",
-            "46"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1515524719616831493,
-        "tweet_num": 14,
-        "text": [
-            "Wordle",
-            "46"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1515159994890551298,
         "tweet_num": 15,
         "text": [
             "Wordle",
@@ -727,7 +651,7 @@
     },
     {
         "user_id": 1398873082593349639,
-        "tweet_id": 1514745466621251586,
+        "tweet_id": 1515930599554310148,
         "tweet_num": 16,
         "text": [
             "Wordle",
@@ -779,8 +703,164 @@
     },
     {
         "user_id": 1398873082593349639,
-        "tweet_id": 1514697927901724677,
+        "tweet_id": 1515524719616831493,
         "tweet_num": 17,
+        "text": [
+            "Wordle",
+            "46"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1515159994890551298,
+        "tweet_num": 18,
+        "text": [
+            "Wordle",
+            "56"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1514745466621251586,
+        "tweet_num": 19,
+        "text": [
+            "Wordle",
+            "46"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1514697927901724677,
+        "tweet_num": 20,
         "text": [
             "Every1",
             "talking",
@@ -839,7 +919,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1514459500895375361,
-        "tweet_num": 18,
+        "tweet_num": 21,
         "text": [
             "Wordle",
             "46"
@@ -891,7 +971,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513925918019842049,
-        "tweet_num": 19,
+        "tweet_num": 22,
         "text": [
             "Theeksh"
         ],
@@ -942,7 +1022,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513916083681386496,
-        "tweet_num": 20,
+        "tweet_num": 23,
         "text": [
             "legend"
         ],
@@ -993,7 +1073,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513785460878811137,
-        "tweet_num": 21,
+        "tweet_num": 24,
         "text": [
             "False"
         ],
@@ -1044,7 +1124,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513762080880402433,
-        "tweet_num": 22,
+        "tweet_num": 25,
         "text": [
             "One",
             "day",
@@ -1080,7 +1160,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513757729575223298,
-        "tweet_num": 23,
+        "tweet_num": 26,
         "text": [
             "Wordle",
             "66"
@@ -1132,7 +1212,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513206118515810304,
-        "tweet_num": 24,
+        "tweet_num": 27,
         "text": [
             "If",
             "kdb",
@@ -1186,7 +1266,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513200892576604161,
-        "tweet_num": 25,
+        "tweet_num": 28,
         "text": [
             "Foden",
             "cancelo",
@@ -1239,7 +1319,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513160496756637699,
-        "tweet_num": 26,
+        "tweet_num": 29,
         "text": [
             "Every",
             "one",
@@ -1297,162 +1377,6 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1513009456203788289,
-        "tweet_num": 27,
-        "text": [
-            "Wordle",
-            "66"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1512628758716424195,
-        "tweet_num": 28,
-        "text": [
-            "Wordle",
-            "46"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1512179437579632683,
-        "tweet_num": 29,
-        "text": [
-            "Wordle",
-            "66"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1511909315304591361,
         "tweet_num": 30,
         "text": [
             "Wordle",
@@ -1504,8 +1428,164 @@
     },
     {
         "user_id": 1398873082593349639,
-        "tweet_id": 1511906915260928005,
+        "tweet_id": 1512628758716424195,
         "tweet_num": 31,
+        "text": [
+            "Wordle",
+            "46"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1512179437579632683,
+        "tweet_num": 32,
+        "text": [
+            "Wordle",
+            "66"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1511909315304591361,
+        "tweet_num": 33,
+        "text": [
+            "Wordle",
+            "66"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1511906915260928005,
+        "tweet_num": 34,
         "text": [
             "Multiple",
             "pressure"
@@ -1523,7 +1603,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1511690953160986624,
-        "tweet_num": 32,
+        "tweet_num": 35,
         "text": [
             "Sogams"
         ],
@@ -1574,7 +1654,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1511602506274533376,
-        "tweet_num": 33,
+        "tweet_num": 36,
         "text": [
             "Thers",
             "no",
@@ -1630,141 +1710,6 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1511187796764999686,
-        "tweet_num": 34,
-        "text": [
-            "Wordle",
-            "56"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1510765701589450752,
-        "tweet_num": 35,
-        "text": [
-            "Wordle",
-            "66"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1510531918688710657,
-        "tweet_num": 36,
-        "text": [
-            "Fighter",
-            "jet",
-            "guy",
-            "movie",
-            "kill",
-            "box",
-            "beast",
-            "KGFChapter2"
-        ],
-        "raw_emotion_scores": {
-            "fear": 2,
-            "negative": 2,
-            "sadness": 1,
-            "anger": 1
-        },
-        "top_emotions": [
-            [
-                "fear",
-                0.3333333333333333
-            ],
-            [
-                "negative",
-                0.3333333333333333
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1510355904725544961,
         "tweet_num": 37,
         "text": [
             "Wordle",
@@ -1816,8 +1761,143 @@
     },
     {
         "user_id": 1398873082593349639,
-        "tweet_id": 1510115863633924096,
+        "tweet_id": 1510765701589450752,
         "tweet_num": 38,
+        "text": [
+            "Wordle",
+            "66"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1510531918688710657,
+        "tweet_num": 39,
+        "text": [
+            "Fighter",
+            "jet",
+            "guy",
+            "movie",
+            "kill",
+            "box",
+            "beast",
+            "KGFChapter2"
+        ],
+        "raw_emotion_scores": {
+            "fear": 2,
+            "negative": 2,
+            "sadness": 1,
+            "anger": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1510355904725544961,
+        "tweet_num": 40,
+        "text": [
+            "Wordle",
+            "56"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1398873082593349639,
+        "tweet_id": 1510115863633924096,
+        "tweet_num": 41,
         "text": [
             "staright",
             "Outta",
@@ -1853,7 +1933,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1509613329953656851,
-        "tweet_num": 39,
+        "tweet_num": 42,
         "text": [
             "Wordle",
             "66"
@@ -1905,7 +1985,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1509539027585667077,
-        "tweet_num": 40,
+        "tweet_num": 43,
         "text": [
             "Please",
             "dont",
@@ -1934,7 +2014,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1509465419697950722,
-        "tweet_num": 41,
+        "tweet_num": 44,
         "text": [
             "Max",
             "calmmmm"
@@ -1986,7 +2066,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1509404879353102339,
-        "tweet_num": 42,
+        "tweet_num": 45,
         "text": [
             "Not",
             "mooddddd",
@@ -2040,7 +2120,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1508876778432962566,
-        "tweet_num": 43,
+        "tweet_num": 46,
         "text": [
             "okies",
             "Wordle",
@@ -2093,7 +2173,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1508514017857343488,
-        "tweet_num": 44,
+        "tweet_num": 47,
         "text": [
             "Wordle",
             "46"
@@ -2145,7 +2225,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1508466061049356298,
-        "tweet_num": 45,
+        "tweet_num": 48,
         "text": [
             "Literally",
             "Wordle",
@@ -2198,7 +2278,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1508303550639603713,
-        "tweet_num": 46,
+        "tweet_num": 49,
         "text": [
             "Pre",
             "booked"
@@ -2250,7 +2330,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1507938864039571458,
-        "tweet_num": 47,
+        "tweet_num": 50,
         "text": [
             "Wordle",
             "X6"
@@ -2302,7 +2382,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1507733579890974723,
-        "tweet_num": 48,
+        "tweet_num": 51,
         "text": [
             "Trial",
             "match",
@@ -2355,7 +2435,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1507724310437277697,
-        "tweet_num": 49,
+        "tweet_num": 52,
         "text": [
             "Sachin",
             "uthappa",
@@ -2408,7 +2488,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1507566009212825603,
-        "tweet_num": 50,
+        "tweet_num": 53,
         "text": [
             "Wordle",
             "56"
@@ -2460,7 +2540,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1507369386184564740,
-        "tweet_num": 51,
+        "tweet_num": 54,
         "text": [
             "Taraaa",
             "enid",
@@ -2493,7 +2573,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1507111072037158914,
-        "tweet_num": 52,
+        "tweet_num": 55,
         "text": [
             "Wordle",
             "36"
@@ -2545,7 +2625,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1507006171168747528,
-        "tweet_num": 53,
+        "tweet_num": 56,
         "text": [
             "Unexpected",
             "taraaaaaa",
@@ -2598,7 +2678,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1506831285586587653,
-        "tweet_num": 54,
+        "tweet_num": 57,
         "text": [
             "Wordle",
             "36"
@@ -2650,7 +2730,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1506352666481348611,
-        "tweet_num": 55,
+        "tweet_num": 58,
         "text": [
             "Never",
             "ending",
@@ -2703,7 +2783,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1506339598426775553,
-        "tweet_num": 56,
+        "tweet_num": 59,
         "text": [
             "adminnnn",
             "da",
@@ -2757,7 +2837,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505984197571211264,
-        "tweet_num": 57,
+        "tweet_num": 60,
         "text": [
             "U",
             "deserves",
@@ -2783,7 +2863,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505982371924914182,
-        "tweet_num": 58,
+        "tweet_num": 61,
         "text": [
             "Damn",
             "fuckin",
@@ -2838,7 +2918,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505936196903481347,
-        "tweet_num": 59,
+        "tweet_num": 62,
         "text": [
             "Lipey",
             "complicated",
@@ -2857,7 +2937,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505810109875687427,
-        "tweet_num": 60,
+        "tweet_num": 63,
         "text": [
             "Ironic"
         ],
@@ -2908,7 +2988,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505797948013117440,
-        "tweet_num": 61,
+        "tweet_num": 64,
         "text": [
             "Caution",
             "Toofan",
@@ -2962,7 +3042,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505781850655973380,
-        "tweet_num": 62,
+        "tweet_num": 65,
         "text": [
             "Wordle",
             "36"
@@ -3014,7 +3094,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505770917120471041,
-        "tweet_num": 63,
+        "tweet_num": 66,
         "text": [
             "Embbbbbbb",
             "2",
@@ -3067,7 +3147,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505762559059652608,
-        "tweet_num": 64,
+        "tweet_num": 67,
         "text": [
             "Hot",
             "Traffic",
@@ -3121,7 +3201,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1505259366399692804,
-        "tweet_num": 65,
+        "tweet_num": 68,
         "text": [
             "Wordle",
             "46"
@@ -3173,7 +3253,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1504953377284759552,
-        "tweet_num": 66,
+        "tweet_num": 69,
         "text": [
             "Boommm",
             "Wordle",
@@ -3226,7 +3306,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1504592927107940367,
-        "tweet_num": 67,
+        "tweet_num": 70,
         "text": [
             "Wordle",
             "66"
@@ -3278,7 +3358,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1504454021628653573,
-        "tweet_num": 68,
+        "tweet_num": 71,
         "text": [
             "Feels",
             "Nelsondilpkumar",
@@ -3320,7 +3400,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1504382364201353216,
-        "tweet_num": 69,
+        "tweet_num": 72,
         "text": [
             "But",
             "missin",
@@ -3373,7 +3453,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1504379358303035393,
-        "tweet_num": 70,
+        "tweet_num": 73,
         "text": [
             "Wtf",
             "abh",
@@ -3427,7 +3507,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1504170186504507393,
-        "tweet_num": 71,
+        "tweet_num": 74,
         "text": [
             "Never",
             "get",
@@ -3480,7 +3560,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1503849486510014464,
-        "tweet_num": 72,
+        "tweet_num": 75,
         "text": [
             "Wordle",
             "56"
@@ -3532,7 +3612,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1503447407056474113,
-        "tweet_num": 73,
+        "tweet_num": 76,
         "text": [
             "Boom",
             "Wordle",
@@ -3585,7 +3665,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1503403640479895552,
-        "tweet_num": 74,
+        "tweet_num": 77,
         "text": [
             "I",
             "miss",
@@ -3639,7 +3719,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1503398633533714432,
-        "tweet_num": 75,
+        "tweet_num": 78,
         "text": [
             "Drinx",
             "speaking",
@@ -3670,7 +3750,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1503289965643374594,
-        "tweet_num": 76,
+        "tweet_num": 79,
         "text": [
             "Wtf",
             "thankin",
@@ -3699,7 +3779,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1503090707405320193,
-        "tweet_num": 77,
+        "tweet_num": 80,
         "text": [
             "Yesterday",
             "eye",
@@ -3721,7 +3801,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1502913630769082372,
-        "tweet_num": 78,
+        "tweet_num": 81,
         "text": [
             "Overrated"
         ],
@@ -3772,7 +3852,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1502897541423063045,
-        "tweet_num": 79,
+        "tweet_num": 82,
         "text": [
             "Wordle",
             "56"
@@ -3824,7 +3904,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1502645738525757440,
-        "tweet_num": 80,
+        "tweet_num": 83,
         "text": [
             "Gem",
             "missing",
@@ -3854,7 +3934,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1502136182674583552,
-        "tweet_num": 81,
+        "tweet_num": 84,
         "text": [
             "Podanga",
             "Wordle",
@@ -3907,7 +3987,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1501686977036374017,
-        "tweet_num": 82,
+        "tweet_num": 85,
         "text": [
             "Legend"
         ],
@@ -3958,7 +4038,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1501629396083302403,
-        "tweet_num": 83,
+        "tweet_num": 86,
         "text": [
             "Gup",
             "Wordle",
@@ -4011,7 +4091,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1501538487048151044,
-        "tweet_num": 84,
+        "tweet_num": 87,
         "text": [
             "Tri",
             "serieslast",
@@ -4034,7 +4114,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1501271281181679620,
-        "tweet_num": 85,
+        "tweet_num": 88,
         "text": [
             "Wordle",
             "56"
@@ -4086,7 +4166,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500939336144941058,
-        "tweet_num": 86,
+        "tweet_num": 89,
         "text": [
             "Wordle",
             "36"
@@ -4138,7 +4218,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500542172625440768,
-        "tweet_num": 87,
+        "tweet_num": 90,
         "text": [
             "My",
             "best",
@@ -4192,7 +4272,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500537482974167043,
-        "tweet_num": 88,
+        "tweet_num": 91,
         "text": [
             "Gooooalllll"
         ],
@@ -4243,7 +4323,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500534735830859776,
-        "tweet_num": 89,
+        "tweet_num": 92,
         "text": [
             "Cancelo",
             "Thats",
@@ -4298,7 +4378,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500534314131361794,
-        "tweet_num": 90,
+        "tweet_num": 93,
         "text": [
             "Gundooooo",
             "backk"
@@ -4350,7 +4430,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500516671080964097,
-        "tweet_num": 91,
+        "tweet_num": 94,
         "text": [
             "Yeahhh",
             "bitch"
@@ -4388,7 +4468,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500516413420621825,
-        "tweet_num": 92,
+        "tweet_num": 95,
         "text": [
             "Play",
             "Duddeeessss",
@@ -4422,7 +4502,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500357640362156032,
-        "tweet_num": 93,
+        "tweet_num": 96,
         "text": [
             "Wordle",
             "56"
@@ -4474,7 +4554,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1500089249130942465,
-        "tweet_num": 94,
+        "tweet_num": 97,
         "text": [
             "Single",
             "life",
@@ -4527,7 +4607,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1499839338925883392,
-        "tweet_num": 95,
+        "tweet_num": 98,
         "text": [
             "Hehe",
             "Wordle",
@@ -4580,7 +4660,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1499753450220883968,
-        "tweet_num": 96,
+        "tweet_num": 99,
         "text": [
             "Omg",
             "wattt"
@@ -4632,7 +4712,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1499387300823793668,
-        "tweet_num": 97,
+        "tweet_num": 100,
         "text": [
             "Fuckin",
             "night"
@@ -4684,7 +4764,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1499292085609910272,
-        "tweet_num": 98,
+        "tweet_num": 101,
         "text": [
             "Promiseeee"
         ],
@@ -4735,7 +4815,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1499169119215636480,
-        "tweet_num": 99,
+        "tweet_num": 102,
         "text": [
             "Wordle",
             "56"
@@ -4787,7 +4867,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1498908304117960705,
-        "tweet_num": 100,
+        "tweet_num": 103,
         "text": [
             "Rent",
             "free"
@@ -4839,7 +4919,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1498824404515508234,
-        "tweet_num": 101,
+        "tweet_num": 104,
         "text": [
             "Wordle",
             "66"
@@ -4891,7 +4971,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1498637533034336256,
-        "tweet_num": 102,
+        "tweet_num": 105,
         "text": [
             "Ada",
             "poda",
@@ -4945,7 +5025,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1498618550767869952,
-        "tweet_num": 103,
+        "tweet_num": 106,
         "text": [
             "Truth",
             "dare"
@@ -4968,7 +5048,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1498522605078257666,
-        "tweet_num": 104,
+        "tweet_num": 107,
         "text": [
             "Wordle",
             "56"
@@ -5020,7 +5100,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1498349771429273603,
-        "tweet_num": 105,
+        "tweet_num": 108,
         "text": [
             "Only",
             "positive",
@@ -5075,7 +5155,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1498075205154996225,
-        "tweet_num": 106,
+        "tweet_num": 109,
         "text": [
             "Wordle",
             "56"
@@ -5127,7 +5207,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1497961308032884736,
-        "tweet_num": 107,
+        "tweet_num": 110,
         "text": [
             "Horseeeee"
         ],
@@ -5178,7 +5258,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1497957560573329410,
-        "tweet_num": 108,
+        "tweet_num": 111,
         "text": [
             "High",
             "quality",
@@ -5231,7 +5311,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1497830401770811393,
-        "tweet_num": 109,
+        "tweet_num": 112,
         "text": [
             "Complete"
         ],
@@ -5282,7 +5362,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1497643693108449282,
-        "tweet_num": 110,
+        "tweet_num": 113,
         "text": [
             "Wordle",
             "46"
@@ -5334,7 +5414,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1497491608370962432,
-        "tweet_num": 111,
+        "tweet_num": 114,
         "text": [
             "Dont",
             "believe",
@@ -5388,7 +5468,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1497415937531604992,
-        "tweet_num": 112,
+        "tweet_num": 115,
         "text": [
             "Podanggg",
             "Wordle",
@@ -5441,7 +5521,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1497266337541885952,
-        "tweet_num": 113,
+        "tweet_num": 116,
         "text": [
             "Daryl",
             "dixon",
@@ -5494,7 +5574,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1496952504889733123,
-        "tweet_num": 114,
+        "tweet_num": 117,
         "text": [
             "Iam",
             "failure"
@@ -5527,7 +5607,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1496570531302510592,
-        "tweet_num": 115,
+        "tweet_num": 118,
         "text": [
             "Wordle",
             "56"
@@ -5579,7 +5659,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1496405945664303109,
-        "tweet_num": 116,
+        "tweet_num": 119,
         "text": [
             "Drinks",
             "icecream",
@@ -5618,7 +5698,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1496355320888979463,
-        "tweet_num": 117,
+        "tweet_num": 120,
         "text": [
             "Dont",
             "talk"
@@ -5636,7 +5716,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1496345928621604870,
-        "tweet_num": 118,
+        "tweet_num": 121,
         "text": [
             "Daryl",
             "Dixon",
@@ -5695,7 +5775,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1496283659908833280,
-        "tweet_num": 119,
+        "tweet_num": 122,
         "text": [
             "Ginger",
             "head"
@@ -5747,7 +5827,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1496220048301891585,
-        "tweet_num": 120,
+        "tweet_num": 123,
         "text": [
             "Wordle",
             "56"
@@ -5799,7 +5879,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495906690591784960,
-        "tweet_num": 121,
+        "tweet_num": 124,
         "text": [
             "Wordle",
             "36"
@@ -5851,7 +5931,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495767931862626307,
-        "tweet_num": 122,
+        "tweet_num": 125,
         "text": [
             "Judith"
         ],
@@ -5902,7 +5982,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495757339282264066,
-        "tweet_num": 123,
+        "tweet_num": 126,
         "text": [
             "Maggi",
             "not",
@@ -5928,7 +6008,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495738584011313152,
-        "tweet_num": 124,
+        "tweet_num": 127,
         "text": [
             "Mutin",
             "twd",
@@ -5970,7 +6050,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495676502201061377,
-        "tweet_num": 125,
+        "tweet_num": 128,
         "text": [
             "Watch",
             "bfre",
@@ -5994,7 +6074,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495637193117044736,
-        "tweet_num": 126,
+        "tweet_num": 129,
         "text": [
             "Watchn",
             "twd",
@@ -6048,7 +6128,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495636872713879553,
-        "tweet_num": 127,
+        "tweet_num": 130,
         "text": [
             "This",
             "bgm",
@@ -6103,7 +6183,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495632163122913280,
-        "tweet_num": 128,
+        "tweet_num": 131,
         "text": [
             "Maggie",
             "red",
@@ -6136,7 +6216,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495592150415056896,
-        "tweet_num": 129,
+        "tweet_num": 132,
         "text": [
             "Reoeated",
             "ah",
@@ -6190,7 +6270,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495532497203089408,
-        "tweet_num": 130,
+        "tweet_num": 133,
         "text": [
             "Daryl",
             "rick",
@@ -6233,7 +6313,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495449652686049280,
-        "tweet_num": 131,
+        "tweet_num": 134,
         "text": [
             "so",
             "kiddo"
@@ -6285,7 +6365,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495448967575863296,
-        "tweet_num": 132,
+        "tweet_num": 135,
         "text": [
             "origin",
             "cheems"
@@ -6337,7 +6417,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495317629568884736,
-        "tweet_num": 133,
+        "tweet_num": 136,
         "text": [
             "Gold"
         ],
@@ -6388,7 +6468,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495117149982978050,
-        "tweet_num": 134,
+        "tweet_num": 137,
         "text": [
             "Spurs",
             "deserved"
@@ -6406,7 +6486,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1495111773413773313,
-        "tweet_num": 135,
+        "tweet_num": 138,
         "text": [
             "disallowed"
         ],
@@ -6443,7 +6523,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494946578112516104,
-        "tweet_num": 136,
+        "tweet_num": 139,
         "text": [
             "That",
             "convo"
@@ -6495,7 +6575,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494756916999847939,
-        "tweet_num": 137,
+        "tweet_num": 140,
         "text": [
             "Damn",
             "Wordle",
@@ -6548,7 +6628,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494722608499101697,
-        "tweet_num": 138,
+        "tweet_num": 141,
         "text": [
             "Semma",
             "game",
@@ -6573,7 +6653,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494713002557276163,
-        "tweet_num": 139,
+        "tweet_num": 142,
         "text": [
             "Pant",
             "chirp"
@@ -6596,7 +6676,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494553862115512320,
-        "tweet_num": 140,
+        "tweet_num": 143,
         "text": [
             "th",
             "scene",
@@ -6625,7 +6705,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494548977940791298,
-        "tweet_num": 141,
+        "tweet_num": 144,
         "text": [
             "Sound"
         ],
@@ -6676,7 +6756,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494527531734552581,
-        "tweet_num": 142,
+        "tweet_num": 145,
         "text": [
             "Mumbai",
             "look",
@@ -6732,7 +6812,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494395379613196290,
-        "tweet_num": 143,
+        "tweet_num": 146,
         "text": [
             "Yayyy",
             "Wordle",
@@ -6785,7 +6865,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1494063626344271872,
-        "tweet_num": 144,
+        "tweet_num": 147,
         "text": [
             "Wordle",
             "46"
@@ -6837,7 +6917,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1493673723274022912,
-        "tweet_num": 145,
+        "tweet_num": 148,
         "text": [
             "Toughyyy",
             "Wordle",
@@ -6890,7 +6970,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1493574087678910467,
-        "tweet_num": 146,
+        "tweet_num": 149,
         "text": [
             "Only",
             "watching",
@@ -6945,7 +7025,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1493521444021542912,
-        "tweet_num": 147,
+        "tweet_num": 150,
         "text": [
             "starc",
             "even",
@@ -7000,7 +7080,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1493454059822407682,
-        "tweet_num": 148,
+        "tweet_num": 151,
         "text": [
             "Wordle",
             "56"
@@ -7052,7 +7132,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1493009825982128129,
-        "tweet_num": 149,
+        "tweet_num": 152,
         "text": [
             "Wordle",
             "56"
@@ -7104,7 +7184,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492886312038199296,
-        "tweet_num": 150,
+        "tweet_num": 153,
         "text": [
             "Thambi",
             "thambi"
@@ -7156,7 +7236,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492818974240698368,
-        "tweet_num": 151,
+        "tweet_num": 154,
         "text": [
             "Gud",
             "buy"
@@ -7208,7 +7288,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492801554553839617,
-        "tweet_num": 152,
+        "tweet_num": 155,
         "text": [
             "True",
             "s",
@@ -7250,7 +7330,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492801185538969601,
-        "tweet_num": 153,
+        "tweet_num": 156,
         "text": [
             "Ll",
             "happen",
@@ -7269,7 +7349,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492568014809485314,
-        "tweet_num": 154,
+        "tweet_num": 157,
         "text": [
             "Streak",
             "back",
@@ -7302,7 +7382,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492521165339824130,
-        "tweet_num": 155,
+        "tweet_num": 158,
         "text": [
             "Everyteam",
             "csk",
@@ -7355,7 +7435,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492508377087234050,
-        "tweet_num": 156,
+        "tweet_num": 159,
         "text": [
             "Never",
             "this",
@@ -7382,7 +7462,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492507298857553922,
-        "tweet_num": 157,
+        "tweet_num": 160,
         "text": [
             "Wtffff",
             "cskkk"
@@ -7434,7 +7514,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492454354749571073,
-        "tweet_num": 158,
+        "tweet_num": 161,
         "text": [
             "Worst",
             "buy"
@@ -7486,7 +7566,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492454308175958016,
-        "tweet_num": 159,
+        "tweet_num": 162,
         "text": [
             "Woest",
             "buy",
@@ -7521,7 +7601,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492453946916409345,
-        "tweet_num": 160,
+        "tweet_num": 163,
         "text": [
             "Srh",
             "stopp",
@@ -7576,7 +7656,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492452294075375617,
-        "tweet_num": 161,
+        "tweet_num": 164,
         "text": [
             "Target",
             "value",
@@ -7633,7 +7713,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492445430629617666,
-        "tweet_num": 162,
+        "tweet_num": 165,
         "text": [
             "Commentary",
             "doin",
@@ -7691,7 +7771,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492444994996555776,
-        "tweet_num": 163,
+        "tweet_num": 166,
         "text": [
             "Confusion",
             "bid",
@@ -7744,7 +7824,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492444899655835650,
-        "tweet_num": 164,
+        "tweet_num": 167,
         "text": [
             "Charu",
             "sharma",
@@ -7768,7 +7848,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492438841621237762,
-        "tweet_num": 165,
+        "tweet_num": 168,
         "text": [
             "Ada",
             "po",
@@ -7826,7 +7906,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492419010457001986,
-        "tweet_num": 166,
+        "tweet_num": 169,
         "text": [
             "This",
             "mind",
@@ -7874,7 +7954,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492410780137840644,
-        "tweet_num": 167,
+        "tweet_num": 170,
         "text": [
             "Match",
             "winner",
@@ -7908,7 +7988,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492407709022388226,
-        "tweet_num": 168,
+        "tweet_num": 171,
         "text": [
             "Finally",
             "thanx",
@@ -7933,7 +8013,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492405261994127362,
-        "tweet_num": 169,
+        "tweet_num": 172,
         "text": [
             "Dc",
             "goin",
@@ -7988,7 +8068,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492397510131798018,
-        "tweet_num": 170,
+        "tweet_num": 173,
         "text": [
             "Captain"
         ],
@@ -8039,7 +8119,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492395462401216513,
-        "tweet_num": 171,
+        "tweet_num": 174,
         "text": [
             "Csk",
             "edhachum",
@@ -8095,7 +8175,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492393872273543172,
-        "tweet_num": 172,
+        "tweet_num": 175,
         "text": [
             "Boult",
             "rr",
@@ -8148,7 +8228,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492390222960623616,
-        "tweet_num": 173,
+        "tweet_num": 176,
         "text": [
             "Cskkk",
             "deii",
@@ -8201,7 +8281,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492211282052673539,
-        "tweet_num": 174,
+        "tweet_num": 177,
         "text": [
             "Nytimes",
             "starting",
@@ -8257,7 +8337,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492206901504856064,
-        "tweet_num": 175,
+        "tweet_num": 178,
         "text": [
             "Never",
             "expect",
@@ -8287,7 +8367,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492181562967748609,
-        "tweet_num": 176,
+        "tweet_num": 179,
         "text": [
             "Movie",
             "night"
@@ -8339,7 +8419,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1492144142905790468,
-        "tweet_num": 177,
+        "tweet_num": 180,
         "text": [
             "Gon",
             "na",
@@ -8387,7 +8467,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491927238077411328,
-        "tweet_num": 178,
+        "tweet_num": 181,
         "text": [
             "Da",
             "watt"
@@ -8439,7 +8519,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491926699600060420,
-        "tweet_num": 179,
+        "tweet_num": 182,
         "text": [
             "Dont",
             "Move",
@@ -8492,7 +8572,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491925321880256512,
-        "tweet_num": 180,
+        "tweet_num": 183,
         "text": [
             "Wordle",
             "56"
@@ -8544,7 +8624,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491782058577784832,
-        "tweet_num": 181,
+        "tweet_num": 184,
         "text": [
             "Drgrant"
         ],
@@ -8595,7 +8675,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491781989971595282,
-        "tweet_num": 182,
+        "tweet_num": 185,
         "text": [
             "Omg",
             "a",
@@ -8622,7 +8702,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491773500599586816,
-        "tweet_num": 183,
+        "tweet_num": 186,
         "text": [
             "Adhana",
             "unmai",
@@ -8682,7 +8762,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491662557471395841,
-        "tweet_num": 184,
+        "tweet_num": 187,
         "text": [
             "Mahaan",
             "Enjoyed",
@@ -8749,7 +8829,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491481653738278912,
-        "tweet_num": 185,
+        "tweet_num": 188,
         "text": [
             "Got",
             "dead",
@@ -8802,7 +8882,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491480550082637824,
-        "tweet_num": 186,
+        "tweet_num": 189,
         "text": [
             "Sweettt",
             "Wordle",
@@ -8855,7 +8935,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491434927564668930,
-        "tweet_num": 187,
+        "tweet_num": 190,
         "text": [
             "Always",
             "ultimate",
@@ -8901,7 +8981,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491430588947247110,
-        "tweet_num": 188,
+        "tweet_num": 191,
         "text": [
             "Addicted",
             "faloodaaaaa"
@@ -8953,7 +9033,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491129451920650240,
-        "tweet_num": 189,
+        "tweet_num": 192,
         "text": [
             "Famous",
             "shit",
@@ -8983,7 +9063,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491119644010496001,
-        "tweet_num": 190,
+        "tweet_num": 193,
         "text": [
             "Orgasmic"
         ],
@@ -9034,7 +9114,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491118568775483393,
-        "tweet_num": 191,
+        "tweet_num": 194,
         "text": [
             "Nice",
             "one",
@@ -9088,7 +9168,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491101852422660096,
-        "tweet_num": 192,
+        "tweet_num": 195,
         "text": [
             "Rbk",
             "kido",
@@ -9142,7 +9222,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491101196442308608,
-        "tweet_num": 193,
+        "tweet_num": 196,
         "text": [
             "Sandwich",
             "fruit",
@@ -9198,7 +9278,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491069398140207106,
-        "tweet_num": 194,
+        "tweet_num": 197,
         "text": [
             "Please",
             "stop",
@@ -9217,7 +9297,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1491045445480910854,
-        "tweet_num": 195,
+        "tweet_num": 198,
         "text": [
             "City"
         ],
@@ -9268,7 +9348,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490758399235035139,
-        "tweet_num": 196,
+        "tweet_num": 199,
         "text": [
             "Thug",
             "Wordle",
@@ -9321,7 +9401,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490758105994383366,
-        "tweet_num": 197,
+        "tweet_num": 200,
         "text": [
             "Life",
             "suck"
@@ -9339,7 +9419,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490714595689852933,
-        "tweet_num": 198,
+        "tweet_num": 201,
         "text": [
             "Goa",
             "know",
@@ -9396,7 +9476,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490714302679904258,
-        "tweet_num": 199,
+        "tweet_num": 202,
         "text": [
             "My",
             "life",
@@ -9451,7 +9531,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490669716704169988,
-        "tweet_num": 200,
+        "tweet_num": 203,
         "text": [
             "Hopeee",
             "ani",
@@ -9505,7 +9585,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490423830208139266,
-        "tweet_num": 201,
+        "tweet_num": 204,
         "text": [
             "One",
             "waste",
@@ -9532,7 +9612,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490380772573790213,
-        "tweet_num": 202,
+        "tweet_num": 205,
         "text": [
             "Tougher",
             "manu"
@@ -9584,7 +9664,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490380340157825026,
-        "tweet_num": 203,
+        "tweet_num": 206,
         "text": [
             "Oh",
             "wasa",
@@ -9637,7 +9717,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1490030324285259777,
-        "tweet_num": 204,
+        "tweet_num": 207,
         "text": [
             "Wordle",
             "46"
@@ -9689,7 +9769,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489754437027467265,
-        "tweet_num": 205,
+        "tweet_num": 208,
         "text": [
             "No",
             "way"
@@ -9741,7 +9821,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489672968951107585,
-        "tweet_num": 206,
+        "tweet_num": 209,
         "text": [
             "Whole",
             "night",
@@ -9801,7 +9881,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489671177517686789,
-        "tweet_num": 207,
+        "tweet_num": 210,
         "text": [
             "Wordle",
             "26"
@@ -9853,7 +9933,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489631695804395522,
-        "tweet_num": 208,
+        "tweet_num": 211,
         "text": [
             "Online",
             "clearance",
@@ -9877,7 +9957,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489607004473593856,
-        "tweet_num": 209,
+        "tweet_num": 212,
         "text": [
             "Eeeyep"
         ],
@@ -9928,7 +10008,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489595327111827463,
-        "tweet_num": 210,
+        "tweet_num": 213,
         "text": [
             "Overrated",
             "workout",
@@ -9985,7 +10065,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489476973055201281,
-        "tweet_num": 211,
+        "tweet_num": 214,
         "text": [
             "Only",
             "dravid",
@@ -10026,7 +10106,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489463494533550083,
-        "tweet_num": 212,
+        "tweet_num": 215,
         "text": [
             "Thats",
             "speech",
@@ -10057,7 +10137,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489461220826501122,
-        "tweet_num": 213,
+        "tweet_num": 216,
         "text": [
             "Netflix"
         ],
@@ -10108,7 +10188,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489333941924286467,
-        "tweet_num": 214,
+        "tweet_num": 217,
         "text": [
             "Woowy",
             "Wordle",
@@ -10161,7 +10241,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489100308319924228,
-        "tweet_num": 215,
+        "tweet_num": 218,
         "text": [
             "Ola",
             "anna",
@@ -10195,7 +10275,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1489015712798498817,
-        "tweet_num": 216,
+        "tweet_num": 219,
         "text": [
             "Wordle",
             "46"
@@ -10247,7 +10327,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488855223149862917,
-        "tweet_num": 217,
+        "tweet_num": 220,
         "text": [
             "Lovin",
             "zombie",
@@ -10283,7 +10363,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488731834036809729,
-        "tweet_num": 218,
+        "tweet_num": 221,
         "text": [
             "Glenn",
             "twd"
@@ -10335,7 +10415,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488603194015973377,
-        "tweet_num": 219,
+        "tweet_num": 222,
         "text": [
             "Wordle",
             "56"
@@ -10387,7 +10467,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488412673830121473,
-        "tweet_num": 220,
+        "tweet_num": 223,
         "text": [
             "Legend"
         ],
@@ -10438,7 +10518,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488369332165902338,
-        "tweet_num": 221,
+        "tweet_num": 224,
         "text": [
             "Wordle",
             "46"
@@ -10490,7 +10570,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488352074438156288,
-        "tweet_num": 222,
+        "tweet_num": 225,
         "text": [
             "I",
             "look",
@@ -10544,7 +10624,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488165616083431427,
-        "tweet_num": 223,
+        "tweet_num": 226,
         "text": [
             "Andha",
             "bgm",
@@ -10599,7 +10679,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488055058675961857,
-        "tweet_num": 224,
+        "tweet_num": 227,
         "text": [
             "Thot",
             "come",
@@ -10623,7 +10703,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488051313342443522,
-        "tweet_num": 225,
+        "tweet_num": 228,
         "text": [
             "Vikram",
             "singer",
@@ -10676,7 +10756,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1488008058223890434,
-        "tweet_num": 226,
+        "tweet_num": 229,
         "text": [
             "Never",
             "get",
@@ -10732,7 +10812,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487867888442642434,
-        "tweet_num": 227,
+        "tweet_num": 230,
         "text": [
             "Shoulder",
             "touch",
@@ -10786,7 +10866,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487858695400611840,
-        "tweet_num": 228,
+        "tweet_num": 231,
         "text": [
             "Yeah",
             "yep",
@@ -10811,7 +10891,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487792425540415490,
-        "tweet_num": 229,
+        "tweet_num": 232,
         "text": [
             "I",
             "luv",
@@ -10867,7 +10947,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487791486007603200,
-        "tweet_num": 230,
+        "tweet_num": 233,
         "text": [
             "I",
             "luv",
@@ -10895,7 +10975,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487790669707964416,
-        "tweet_num": 231,
+        "tweet_num": 234,
         "text": [
             "Stfu"
         ],
@@ -10946,7 +11026,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487789810475749378,
-        "tweet_num": 232,
+        "tweet_num": 235,
         "text": [
             "Servin",
             "the",
@@ -10972,7 +11052,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487788910810140674,
-        "tweet_num": 233,
+        "tweet_num": 236,
         "text": [
             "Tennis",
             "not",
@@ -11029,7 +11109,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487787904311373824,
-        "tweet_num": 234,
+        "tweet_num": 237,
         "text": [
             "Noooo",
             "Not",
@@ -11086,7 +11166,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487787499401342980,
-        "tweet_num": 235,
+        "tweet_num": 238,
         "text": [
             "Rafa",
             "calm",
@@ -11110,7 +11190,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487787311890718721,
-        "tweet_num": 236,
+        "tweet_num": 239,
         "text": [
             "Dis",
             "gurl"
@@ -11162,7 +11242,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487786147745234945,
-        "tweet_num": 237,
+        "tweet_num": 240,
         "text": [
             "Ohhhh",
             "Medvedev",
@@ -11222,7 +11302,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487784654090682375,
-        "tweet_num": 238,
+        "tweet_num": 241,
         "text": [
             "But",
             "luv",
@@ -11275,7 +11355,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487783504070856706,
-        "tweet_num": 239,
+        "tweet_num": 242,
         "text": [
             "Finalllllllyyyyyy"
         ],
@@ -11326,7 +11406,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487780748799410177,
-        "tweet_num": 240,
+        "tweet_num": 243,
         "text": [
             "Ash",
             "jumping",
@@ -11382,7 +11462,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487780199056183298,
-        "tweet_num": 241,
+        "tweet_num": 244,
         "text": [
             "Commentary",
             "curse",
@@ -11426,7 +11506,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487772679000129536,
-        "tweet_num": 242,
+        "tweet_num": 245,
         "text": [
             "Thats",
             "Come",
@@ -11484,7 +11564,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487766752054300673,
-        "tweet_num": 243,
+        "tweet_num": 246,
         "text": [
             "Ohhhh",
             "u",
@@ -11543,7 +11623,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487763459743760386,
-        "tweet_num": 244,
+        "tweet_num": 247,
         "text": [
             "Only",
             "nadal",
@@ -11601,7 +11681,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487761275392180225,
-        "tweet_num": 245,
+        "tweet_num": 248,
         "text": [
             "This",
             "set"
@@ -11653,7 +11733,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487514725214679041,
-        "tweet_num": 246,
+        "tweet_num": 249,
         "text": [
             "Hmmm",
             "Wordle",
@@ -11706,7 +11786,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487299116077965313,
-        "tweet_num": 247,
+        "tweet_num": 250,
         "text": [
             "wooowwww"
         ],
@@ -11757,7 +11837,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487287276287651840,
-        "tweet_num": 248,
+        "tweet_num": 251,
         "text": [
             "Killinnn"
         ],
@@ -11808,7 +11888,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487283261168500739,
-        "tweet_num": 249,
+        "tweet_num": 252,
         "text": [
             "TheWalkingDead",
             "sanctuary",
@@ -11843,7 +11923,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487066786461745161,
-        "tweet_num": 250,
+        "tweet_num": 253,
         "text": [
             "Miss",
             "u"
@@ -11895,7 +11975,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1487034996795731969,
-        "tweet_num": 251,
+        "tweet_num": 254,
         "text": [
             "Wtf",
             "worst",
@@ -11949,7 +12029,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1486920932979470339,
-        "tweet_num": 252,
+        "tweet_num": 255,
         "text": [
             "dis",
             "video"
@@ -12001,7 +12081,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1486919266125623298,
-        "tweet_num": 253,
+        "tweet_num": 256,
         "text": [
             "Thalaivar",
             "reaction",
@@ -12054,7 +12134,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1486782858639273985,
-        "tweet_num": 254,
+        "tweet_num": 257,
         "text": [
             "Fluck",
             "Wordle",
@@ -12107,7 +12187,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1486692091644104705,
-        "tweet_num": 255,
+        "tweet_num": 258,
         "text": [
             "To",
             "RCBTweets",
@@ -12160,7 +12240,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1486691289269628930,
-        "tweet_num": 256,
+        "tweet_num": 259,
         "text": [
             "We",
             "used",
@@ -12213,7 +12293,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1486079985689690113,
-        "tweet_num": 257,
+        "tweet_num": 260,
         "text": [
             "Wordle",
             "46"
@@ -12265,7 +12345,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1486031695094902785,
-        "tweet_num": 258,
+        "tweet_num": 261,
         "text": [
             "Late",
             "night",
@@ -12321,7 +12401,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485917163043311621,
-        "tweet_num": 259,
+        "tweet_num": 262,
         "text": [
             "Seriously"
         ],
@@ -12372,7 +12452,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485888672062853120,
-        "tweet_num": 260,
+        "tweet_num": 263,
         "text": [
             "Gold"
         ],
@@ -12423,7 +12503,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485827545287491584,
-        "tweet_num": 261,
+        "tweet_num": 264,
         "text": [
             "Thug",
             "life"
@@ -12475,7 +12555,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485815011193012225,
-        "tweet_num": 262,
+        "tweet_num": 265,
         "text": [
             "Hard",
             "day",
@@ -12495,7 +12575,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485733042580688898,
-        "tweet_num": 263,
+        "tweet_num": 266,
         "text": [
             "Series",
             "fuck",
@@ -12516,7 +12596,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485695743642206208,
-        "tweet_num": 264,
+        "tweet_num": 267,
         "text": [
             "Fuck",
             "Wordle",
@@ -12569,7 +12649,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485692911291613184,
-        "tweet_num": 265,
+        "tweet_num": 268,
         "text": [
             "Morning",
             "fight",
@@ -12598,7 +12678,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485618583719714820,
-        "tweet_num": 266,
+        "tweet_num": 269,
         "text": [
             "Vettori",
             "Fleming",
@@ -12627,7 +12707,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485457919403765763,
-        "tweet_num": 267,
+        "tweet_num": 270,
         "text": [
             "Wordle",
             "56"
@@ -12679,7 +12759,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485293119906402306,
-        "tweet_num": 268,
+        "tweet_num": 271,
         "text": [
             "die",
             "hero",
@@ -12718,7 +12798,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485292741827633154,
-        "tweet_num": 269,
+        "tweet_num": 272,
         "text": [
             "Boom",
             "pch"
@@ -12770,7 +12850,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485292482133106694,
-        "tweet_num": 270,
+        "tweet_num": 273,
         "text": [
             "Chahal"
         ],
@@ -12821,7 +12901,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485291248768679936,
-        "tweet_num": 271,
+        "tweet_num": 274,
         "text": [
             "Chin",
             "lad",
@@ -12863,7 +12943,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485245255871959040,
-        "tweet_num": 272,
+        "tweet_num": 275,
         "text": [
             "Stop",
             "open",
@@ -12918,7 +12998,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485171295851479041,
-        "tweet_num": 273,
+        "tweet_num": 276,
         "text": [
             "Loves",
             "banter",
@@ -12972,7 +13052,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485168060155633664,
-        "tweet_num": 274,
+        "tweet_num": 277,
         "text": [
             "Swiggy",
             "charge"
@@ -13024,7 +13104,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1485114500210921472,
-        "tweet_num": 275,
+        "tweet_num": 278,
         "text": [
             "Wordle",
             "46"
@@ -13076,7 +13156,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484970526774743041,
-        "tweet_num": 276,
+        "tweet_num": 279,
         "text": [
             "Our",
             "wining",
@@ -13131,7 +13211,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484963906871193601,
-        "tweet_num": 277,
+        "tweet_num": 280,
         "text": [
             "Ooohh",
             "Post"
@@ -13183,7 +13263,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484962618695503874,
-        "tweet_num": 278,
+        "tweet_num": 281,
         "text": [
             "Game",
             "on"
@@ -13235,7 +13315,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484937323687002113,
-        "tweet_num": 279,
+        "tweet_num": 282,
         "text": [
             "Edhey"
         ],
@@ -13286,7 +13366,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484932342703484930,
-        "tweet_num": 280,
+        "tweet_num": 283,
         "text": [
             "Anyone",
             "saw",
@@ -13309,7 +13389,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484778550817615877,
-        "tweet_num": 281,
+        "tweet_num": 284,
         "text": [
             "Dont",
             "drink",
@@ -13362,7 +13442,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484722557039562754,
-        "tweet_num": 282,
+        "tweet_num": 285,
         "text": [
             "Enjoy",
             "climate",
@@ -13382,7 +13462,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484622829056577536,
-        "tweet_num": 283,
+        "tweet_num": 286,
         "text": [
             "Wordle",
             "66"
@@ -13434,7 +13514,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484502504716988418,
-        "tweet_num": 284,
+        "tweet_num": 287,
         "text": [
             "All",
             "Hail",
@@ -13487,7 +13567,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484385095754878976,
-        "tweet_num": 285,
+        "tweet_num": 288,
         "text": [
             "Im",
             "fine",
@@ -13517,7 +13597,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484376687357808641,
-        "tweet_num": 286,
+        "tweet_num": 289,
         "text": [
             "God",
             "Level"
@@ -13569,7 +13649,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1484303872877228032,
-        "tweet_num": 287,
+        "tweet_num": 290,
         "text": [
             "Wordle",
             "36"
@@ -13621,7 +13701,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1483895878377439232,
-        "tweet_num": 288,
+        "tweet_num": 291,
         "text": [
             "Wordle",
             "56"
@@ -13673,7 +13753,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1483892661807644672,
-        "tweet_num": 289,
+        "tweet_num": 292,
         "text": [
             "Im",
             "bruce"
@@ -13725,7 +13805,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1483892070490439681,
-        "tweet_num": 290,
+        "tweet_num": 293,
         "text": [
             "Batman",
             "waitin"
@@ -13777,7 +13857,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1483793213689266179,
-        "tweet_num": 291,
+        "tweet_num": 294,
         "text": [
             "Virat"
         ],
@@ -13828,7 +13908,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1483792191864541184,
-        "tweet_num": 292,
+        "tweet_num": 295,
         "text": [
             "Hard",
             "hitt"
@@ -13880,7 +13960,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1483787523323162624,
-        "tweet_num": 293,
+        "tweet_num": 296,
         "text": [
             "Wide",
             "length",
@@ -13939,7 +14019,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1483635522816049152,
-        "tweet_num": 294,
+        "tweet_num": 297,
         "text": [
             "Wordle",
             "36"
@@ -13991,7 +14071,7 @@
     {
         "user_id": 1398873082593349639,
         "tweet_id": 1483288557397868545,
-        "tweet_num": 295,
+        "tweet_num": 298,
         "text": [
             "Embrace",
             "chaos"
@@ -14018,109 +14098,6 @@
             [
                 "sadness",
                 0.25
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1483161691332354050,
-        "tweet_num": 296,
-        "text": [
-            "Wordle",
-            "46"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1398873082593349639,
-        "tweet_id": 1483139391430168578,
-        "tweet_num": 297,
-        "text": [
-            "thuggg"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
             ]
         ]
     }

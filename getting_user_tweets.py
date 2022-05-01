@@ -32,7 +32,7 @@ def main():
 
             results = []
 
-            tweet_number = 0
+            tweet_number = 1
 
             user_name = user['user_name']
             user_id = user['id']

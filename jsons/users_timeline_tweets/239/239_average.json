@@ -1,6 +1,6 @@
 [
     {
-        "positive": 14,
+        "positive": 13,
         "negative": 3,
         "fear": 2,
         "anger": 2,
@@ -12,7 +12,7 @@
         "joy": 8
     },
     {
-        "positive": 0.875,
+        "positive": 0.8125,
         "negative": 0.1875,
         "fear": 0.125,
         "anger": 0.125,
@@ -23,5 +23,7 @@
         "disgust": 0.0625,
         "joy": 0.5
     },
-    15
+    {
+        "num_tweets": 16
+    }
 ]

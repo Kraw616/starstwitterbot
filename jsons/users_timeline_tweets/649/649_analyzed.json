@@ -1,8 +1,82 @@
 [
     {
         "user_id": 1517375601618964480,
+        "tweet_id": 1519125572651302919,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "would",
+            "answered",
+            "in",
+            "day",
+            "time"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1517375601618964480,
+        "tweet_id": 1519050670317449216,
+        "tweet_num": 2,
+        "text": [
+            "The",
+            "accuracy"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1517375601618964480,
         "tweet_id": 1518672424526614528,
-        "tweet_num": 0,
+        "tweet_num": 3,
         "text": [
             "That",
             "redirect",
@@ -36,7 +110,7 @@
     {
         "user_id": 1517375601618964480,
         "tweet_id": 1518638174888771592,
-        "tweet_num": 1,
+        "tweet_num": 4,
         "text": [
             "Exactly",
             "Still",
@@ -93,7 +167,7 @@
     {
         "user_id": 1517375601618964480,
         "tweet_id": 1517399724294389762,
-        "tweet_num": 2,
+        "tweet_num": 5,
         "text": [
             "Shes",
             "wicked",

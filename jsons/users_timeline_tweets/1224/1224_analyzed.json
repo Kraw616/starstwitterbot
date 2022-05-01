@@ -2,7 +2,7 @@
     {
         "user_id": 1158615130260869120,
         "tweet_id": 1481943607556911105,
-        "tweet_num": 0,
+        "tweet_num": 1,
         "text": [
             "I",
             "not",
@@ -35,7 +35,7 @@
     {
         "user_id": 1158615130260869120,
         "tweet_id": 1481599446509096965,
-        "tweet_num": 1,
+        "tweet_num": 2,
         "text": [
             "Other",
             "hot",
@@ -56,7 +56,7 @@
     {
         "user_id": 1158615130260869120,
         "tweet_id": 1450718428109623299,
-        "tweet_num": 2,
+        "tweet_num": 3,
         "text": [
             "Same",
             "birthday",
@@ -84,150 +84,6 @@
             [
                 "anticipation",
                 0.25
-            ]
-        ]
-    },
-    {
-        "user_id": 1158615130260869120,
-        "tweet_id": 1443158873448271872,
-        "tweet_num": 3,
-        "text": [
-            "Some",
-            "terazi",
-            "burcu",
-            "problem"
-        ],
-        "raw_emotion_scores": {
-            "fear": 1,
-            "negative": 1,
-            "sadness": 1
-        },
-        "top_emotions": [
-            [
-                "fear",
-                0.3333333333333333
-            ],
-            [
-                "negative",
-                0.3333333333333333
-            ],
-            [
-                "sadness",
-                0.3333333333333333
-            ]
-        ]
-    },
-    {
-        "user_id": 1158615130260869120,
-        "tweet_id": 1442079216506376195,
-        "tweet_num": 4,
-        "text": [
-            "I",
-            "live",
-            "Spain",
-            "without"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1158615130260869120,
-        "tweet_id": 1436393582756237327,
-        "tweet_num": 5,
-        "text": [
-            "Baby",
-            "have",
-            "got",
-            "pain",
-            "my",
-            "story"
-        ],
-        "raw_emotion_scores": {
-            "fear": 1,
-            "negative": 1,
-            "sadness": 1
-        },
-        "top_emotions": [
-            [
-                "fear",
-                0.3333333333333333
-            ],
-            [
-                "negative",
-                0.3333333333333333
-            ],
-            [
-                "sadness",
-                0.3333333333333333
-            ]
-        ]
-    },
-    {
-        "user_id": 1158615130260869120,
-        "tweet_id": 1421070827450212360,
-        "tweet_num": 6,
-        "text": [
-            "True",
-            "friendship"
-        ],
-        "raw_emotion_scores": {
-            "joy": 1,
-            "positive": 1,
-            "trust": 1
-        },
-        "top_emotions": [
-            [
-                "trust",
-                0.3333333333333333
-            ],
-            [
-                "positive",
-                0.3333333333333333
-            ],
-            [
-                "joy",
-                0.3333333333333333
             ]
         ]
     }

@@ -1,8 +1,44 @@
 [
     {
         "user_id": 2767968869,
+        "tweet_id": 1518939281141624832,
+        "tweet_num": 1,
+        "text": [
+            "You",
+            "may",
+            "see",
+            "longawaited",
+            "progress",
+            "the",
+            "area",
+            "youve",
+            "More",
+            "Libra"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 2767968869,
         "tweet_id": 1518576895779950593,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "Someone",
             "may",
@@ -64,7 +100,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1518214500138115072,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "Negative",
             "thinking",
@@ -124,7 +160,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1517852117616058369,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "Sentimentality",
             "could",
@@ -154,7 +190,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1517489725761744896,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "An",
             "old",
@@ -191,7 +227,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1517127318996602882,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "Learning",
             "trust",
@@ -219,7 +255,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1516764927150546948,
-        "tweet_num": 5,
+        "tweet_num": 7,
         "text": [
             "You",
             "could",
@@ -260,7 +296,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1516402540711055362,
-        "tweet_num": 6,
+        "tweet_num": 8,
         "text": [
             "Words",
             "heal",
@@ -297,7 +333,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1516040156926554112,
-        "tweet_num": 7,
+        "tweet_num": 9,
         "text": [
             "Your",
             "natural",
@@ -330,7 +366,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1515677767030894594,
-        "tweet_num": 8,
+        "tweet_num": 10,
         "text": [
             "Someone",
             "have",
@@ -375,7 +411,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1515315357531062278,
-        "tweet_num": 9,
+        "tweet_num": 11,
         "text": [
             "Heightened",
             "sensitivity",
@@ -405,7 +441,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1514952978498666498,
-        "tweet_num": 10,
+        "tweet_num": 12,
         "text": [
             "Unhealthy",
             "attachment",
@@ -430,7 +466,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1514590619582156802,
-        "tweet_num": 11,
+        "tweet_num": 13,
         "text": [
             "An",
             "unclear",
@@ -485,7 +521,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1514228209348341761,
-        "tweet_num": 12,
+        "tweet_num": 14,
         "text": [
             "Choosing",
             "different",
@@ -513,7 +549,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1513865845784526848,
-        "tweet_num": 13,
+        "tweet_num": 15,
         "text": [
             "Your",
             "workload",
@@ -574,7 +610,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1513503445197631488,
-        "tweet_num": 14,
+        "tweet_num": 16,
         "text": [
             "Misinformation",
             "lead",
@@ -604,7 +640,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1513141047743840257,
-        "tweet_num": 15,
+        "tweet_num": 17,
         "text": [
             "Youve",
             "likely",
@@ -664,7 +700,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1512778666454835202,
-        "tweet_num": 16,
+        "tweet_num": 18,
         "text": [
             "What",
             "say",
@@ -724,7 +760,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1512416284545204224,
-        "tweet_num": 17,
+        "tweet_num": 19,
         "text": [
             "A",
             "disagreement",
@@ -754,7 +790,7 @@
     {
         "user_id": 2767968869,
         "tweet_id": 1512053891650662400,
-        "tweet_num": 18,
+        "tweet_num": 20,
         "text": [
             "A",
             "sense",
@@ -776,32 +812,6 @@
             [
                 "positive",
                 0.6666666666666666
-            ]
-        ]
-    },
-    {
-        "user_id": 2767968869,
-        "tweet_id": 1511691524500701185,
-        "tweet_num": 19,
-        "text": [
-            "Responsibility",
-            "be",
-            "unclear",
-            "today",
-            "A",
-            "normally",
-            "easygoing",
-            "gro",
-            "More",
-            "Libra"
-        ],
-        "raw_emotion_scores": {
-            "positive": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                1.0
             ]
         ]
     }

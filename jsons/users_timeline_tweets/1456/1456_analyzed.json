@@ -2,7 +2,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1516550002176184324,
-        "tweet_num": 0,
+        "tweet_num": 1,
         "text": [
             "show",
             "love",
@@ -31,7 +31,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1503073653520437248,
-        "tweet_num": 1,
+        "tweet_num": 2,
         "text": [
             "i",
             "look",
@@ -85,7 +85,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1502121299484692482,
-        "tweet_num": 2,
+        "tweet_num": 3,
         "text": [
             "love",
             "love"
@@ -108,7 +108,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1494387511224782863,
-        "tweet_num": 3,
+        "tweet_num": 4,
         "text": [
             "just4you"
         ],
@@ -159,7 +159,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1493439115429556233,
-        "tweet_num": 4,
+        "tweet_num": 5,
         "text": [
             "love",
             "loved"
@@ -182,7 +182,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1477373524738142212,
-        "tweet_num": 5,
+        "tweet_num": 6,
         "text": [
             "the",
             "bos",
@@ -235,7 +235,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1475334135522623490,
-        "tweet_num": 6,
+        "tweet_num": 7,
         "text": [
             "xoxo"
         ],
@@ -286,7 +286,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1469476710588375042,
-        "tweet_num": 7,
+        "tweet_num": 8,
         "text": [
             "workin",
             "a",
@@ -339,7 +339,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1457061308390543360,
-        "tweet_num": 8,
+        "tweet_num": 9,
         "text": [
             "fuck"
         ],
@@ -390,7 +390,7 @@
     {
         "user_id": 1090789155401916417,
         "tweet_id": 1456465004165668866,
-        "tweet_num": 9,
+        "tweet_num": 10,
         "text": [
             "would"
         ],
@@ -435,6 +435,38 @@
             [
                 "joy",
                 0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1090789155401916417,
+        "tweet_id": 1456101503710547973,
+        "tweet_num": 11,
+        "text": [
+            "love",
+            "for",
+            "drive",
+            "love",
+            "bc",
+            "drive",
+            "crazy"
+        ],
+        "raw_emotion_scores": {
+            "joy": 2,
+            "positive": 2,
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
             ]
         ]
     }

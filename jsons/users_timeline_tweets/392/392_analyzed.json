@@ -1,8 +1,41 @@
 [
     {
         "user_id": 320480122,
+        "tweet_id": 1519012614873006080,
+        "tweet_num": 1,
+        "text": [
+            "My",
+            "trip",
+            "DC",
+            "No",
+            "word",
+            "pure",
+            "dopamine"
+        ],
+        "raw_emotion_scores": {
+            "surprise": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "surprise",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 320480122,
         "tweet_id": 1518563752232239106,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "My",
             "French",
@@ -60,7 +93,7 @@
     {
         "user_id": 320480122,
         "tweet_id": 1518411756514729985,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "Why",
             "Gods",
@@ -104,7 +137,7 @@
     {
         "user_id": 320480122,
         "tweet_id": 1518368661353996290,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "Brunch",
             "view",
@@ -124,7 +157,7 @@
     {
         "user_id": 320480122,
         "tweet_id": 1518218580378140673,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "Ok",
             "I",
@@ -176,7 +209,7 @@
     {
         "user_id": 320480122,
         "tweet_id": 1518127693476335616,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "Could",
             "really",
@@ -212,183 +245,6 @@
             [
                 "positive",
                 0.2857142857142857
-            ]
-        ]
-    },
-    {
-        "user_id": 320480122,
-        "tweet_id": 1518036785250586626,
-        "tweet_num": 5,
-        "text": [
-            "DC",
-            "An",
-            "experience"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 320480122,
-        "tweet_id": 1517998719517528064,
-        "tweet_num": 6,
-        "text": [
-            "My",
-            "future"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 320480122,
-        "tweet_id": 1517983189175877633,
-        "tweet_num": 7,
-        "text": [
-            "I",
-            "dont",
-            "like",
-            "be",
-            "premature",
-            "I",
-            "feel",
-            "like",
-            "Ive",
-            "met",
-            "man",
-            "I",
-            "wan",
-            "na",
-            "spend",
-            "rest",
-            "my",
-            "life",
-            "For",
-            "many",
-            "reason",
-            "But",
-            "imma",
-            "chill",
-            "got",
-            "ta",
-            "let",
-            "get"
-        ],
-        "raw_emotion_scores": {
-            "surprise": 1,
-            "fear": 1,
-            "negative": 1,
-            "sadness": 1,
-            "positive": 2
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.3333333333333333
-            ]
-        ]
-    },
-    {
-        "user_id": 320480122,
-        "tweet_id": 1517981439240847360,
-        "tweet_num": 8,
-        "text": [
-            "This",
-            "trip",
-            "DC",
-            "been",
-            "life",
-            "changing",
-            "thus",
-            "far"
-        ],
-        "raw_emotion_scores": {
-            "surprise": 1
-        },
-        "top_emotions": [
-            [
-                "surprise",
-                1.0
             ]
         ]
     }

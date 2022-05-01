@@ -1,77 +1,58 @@
 [
     {
         "user_id": 1351216309451812866,
-        "tweet_id": 1518489869974052864,
-        "tweet_num": 0,
-        "text": [
-            "bat",
-            "blurred",
-            "hahaha"
-        ],
-        "raw_emotion_scores": {
-            "negative": 1
-        },
-        "top_emotions": [
-            [
-                "negative",
-                1.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1351216309451812866,
-        "tweet_id": 1518323732938321921,
+        "tweet_id": 1519130344099770368,
         "tweet_num": 1,
         "text": [
-            "funny",
-            "say",
-            "I",
-            "miss",
-            "and",
-            "I",
-            "love",
-            "where",
-            "fact",
-            "he",
-            "is",
-            "one",
-            "planned",
-            "breakup",
-            "HAHAHAHAAH"
+            "GoodMorning"
         ],
-        "raw_emotion_scores": {
-            "joy": 1,
-            "positive": 1,
-            "trust": 1,
-            "negative": 1,
-            "sadness": 1
-        },
+        "raw_emotion_scores": {},
         "top_emotions": [
             [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
                 "trust",
-                0.2
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
             ],
             [
                 "positive",
-                0.2
+                0.0
             ],
             [
                 "negative",
-                0.2
+                0.0
             ],
             [
                 "sadness",
-                0.2
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
             ],
             [
                 "joy",
-                0.2
+                0.0
             ]
         ]
     },
     {
         "user_id": 1351216309451812866,
-        "tweet_id": 1518319669987270656,
+        "tweet_id": 1519099768667918336,
         "tweet_num": 2,
         "text": [
             "GoodMorning"
@@ -122,7 +103,7 @@
     },
     {
         "user_id": 1351216309451812866,
-        "tweet_id": 1518245432563929088,
+        "tweet_id": 1518992103585423360,
         "tweet_num": 3,
         "text": [
             "GoodNight"
@@ -173,8 +154,180 @@
     },
     {
         "user_id": 1351216309451812866,
-        "tweet_id": 1517680227245199360,
+        "tweet_id": 1518489869974052864,
         "tweet_num": 4,
+        "text": [
+            "bat",
+            "blurred",
+            "hahaha"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1351216309451812866,
+        "tweet_id": 1518323732938321921,
+        "tweet_num": 5,
+        "text": [
+            "funny",
+            "say",
+            "I",
+            "miss",
+            "and",
+            "I",
+            "love",
+            "where",
+            "fact",
+            "he",
+            "is",
+            "one",
+            "planned",
+            "breakup",
+            "HAHAHAHAAH"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "trust": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 1351216309451812866,
+        "tweet_id": 1518319669987270656,
+        "tweet_num": 6,
+        "text": [
+            "GoodMorning"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1351216309451812866,
+        "tweet_id": 1518245432563929088,
+        "tweet_num": 7,
+        "text": [
+            "GoodNight"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1351216309451812866,
+        "tweet_id": 1517680227245199360,
+        "tweet_num": 8,
         "text": [
             "Good",
             "Morning"
@@ -226,7 +379,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1517292577313067008,
-        "tweet_num": 5,
+        "tweet_num": 9,
         "text": [
             "Good",
             "Morning"
@@ -278,7 +431,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1517177736669777929,
-        "tweet_num": 6,
+        "tweet_num": 10,
         "text": [
             "Hey",
             "Im",
@@ -297,7 +450,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1517121181811240961,
-        "tweet_num": 7,
+        "tweet_num": 11,
         "text": [
             "IG",
             "saw",
@@ -350,7 +503,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1517090991227891712,
-        "tweet_num": 8,
+        "tweet_num": 12,
         "text": [
             "SelfLove"
         ],
@@ -401,7 +554,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1516987887773880320,
-        "tweet_num": 9,
+        "tweet_num": 13,
         "text": [
             "Thirstday"
         ],
@@ -452,7 +605,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1516931464960507907,
-        "tweet_num": 10,
+        "tweet_num": 14,
         "text": [
             "Good",
             "Morning",
@@ -507,7 +660,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1516584257409339396,
-        "tweet_num": 11,
+        "tweet_num": 15,
         "text": [
             "Why",
             "Im",
@@ -564,7 +717,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1516222414819979267,
-        "tweet_num": 12,
+        "tweet_num": 16,
         "text": [
             "ang",
             "sarap",
@@ -622,7 +775,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1516214631953436672,
-        "tweet_num": 13,
+        "tweet_num": 17,
         "text": [
             "GoodMorning"
         ],
@@ -673,7 +826,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1516070466707877888,
-        "tweet_num": 14,
+        "tweet_num": 18,
         "text": [
             "side",
             "view",
@@ -726,7 +879,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1515772405322436612,
-        "tweet_num": 15,
+        "tweet_num": 19,
         "text": [
             "thingz"
         ],
@@ -777,7 +930,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1515676447217631237,
-        "tweet_num": 16,
+        "tweet_num": 20,
         "text": [
             "GoodEvening"
         ],
@@ -828,7 +981,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1515518496758587396,
-        "tweet_num": 17,
+        "tweet_num": 21,
         "text": [
             "suck",
             "eggs"
@@ -846,7 +999,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1515427371309928454,
-        "tweet_num": 18,
+        "tweet_num": 22,
         "text": [
             "GoodMorning"
         ],
@@ -897,7 +1050,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1515330628123734019,
-        "tweet_num": 19,
+        "tweet_num": 23,
         "text": [
             "Good",
             "Evening"
@@ -949,7 +1102,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1515149272722812931,
-        "tweet_num": 20,
+        "tweet_num": 24,
         "text": [
             "Proof",
             "life"
@@ -1001,7 +1154,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1515135993447260162,
-        "tweet_num": 21,
+        "tweet_num": 25,
         "text": [
             "GoodMorning"
         ],
@@ -1052,7 +1205,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514939330397028354,
-        "tweet_num": 22,
+        "tweet_num": 26,
         "text": [
             "oh",
             "boiii",
@@ -1108,7 +1261,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514938726614372352,
-        "tweet_num": 23,
+        "tweet_num": 27,
         "text": [
             "Fingerin"
         ],
@@ -1159,7 +1312,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514812014459117571,
-        "tweet_num": 24,
+        "tweet_num": 28,
         "text": [
             "Wtf",
             "I",
@@ -1213,7 +1366,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514742081930989569,
-        "tweet_num": 25,
+        "tweet_num": 29,
         "text": [
             "GoodMorning"
         ],
@@ -1264,7 +1417,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514675624106885121,
-        "tweet_num": 26,
+        "tweet_num": 30,
         "text": [
             "GoodMorning"
         ],
@@ -1315,7 +1468,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514567145358704645,
-        "tweet_num": 27,
+        "tweet_num": 31,
         "text": [
             "Enough",
             "choke"
@@ -1343,7 +1496,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514422750051377155,
-        "tweet_num": 28,
+        "tweet_num": 32,
         "text": [
             "Thiccc",
             "thigh",
@@ -1396,7 +1549,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514385956752683009,
-        "tweet_num": 29,
+        "tweet_num": 33,
         "text": [
             "Good",
             "Morning"
@@ -1448,7 +1601,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514212493052178436,
-        "tweet_num": 30,
+        "tweet_num": 34,
         "text": [
             "sarap",
             "mag",
@@ -1501,7 +1654,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514212422831140865,
-        "tweet_num": 31,
+        "tweet_num": 35,
         "text": [
             "Good",
             "Evening"
@@ -1553,7 +1706,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514138540271042562,
-        "tweet_num": 32,
+        "tweet_num": 36,
         "text": [
             "Cumshot",
             "holy",
@@ -1572,7 +1725,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514115478431567876,
-        "tweet_num": 33,
+        "tweet_num": 37,
         "text": [
             "horny",
             "week",
@@ -1625,7 +1778,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1514025254854701057,
-        "tweet_num": 34,
+        "tweet_num": 38,
         "text": [
             "Good",
             "Morning"
@@ -1677,7 +1830,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1513670503512248321,
-        "tweet_num": 35,
+        "tweet_num": 39,
         "text": [
             "HardMorning"
         ],
@@ -1728,7 +1881,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1513583039829327872,
-        "tweet_num": 36,
+        "tweet_num": 40,
         "text": [
             "GoodMorning"
         ],
@@ -1779,7 +1932,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1513497116017975301,
-        "tweet_num": 37,
+        "tweet_num": 41,
         "text": [
             "one",
             "night",
@@ -1832,7 +1985,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1513470913592774656,
-        "tweet_num": 38,
+        "tweet_num": 42,
         "text": [
             "GoodEvening",
             "Pink",
@@ -1886,7 +2039,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1513254932962455555,
-        "tweet_num": 39,
+        "tweet_num": 43,
         "text": [
             "Good",
             "Morning"
@@ -1938,7 +2091,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1513171725608898561,
-        "tweet_num": 40,
+        "tweet_num": 44,
         "text": [
             "Soon",
             "I",
@@ -1993,7 +2146,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1513130247423549441,
-        "tweet_num": 41,
+        "tweet_num": 45,
         "text": [
             "Good",
             "Evening"
@@ -2045,7 +2198,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1513086778403536897,
-        "tweet_num": 42,
+        "tweet_num": 46,
         "text": [
             "I",
             "say",
@@ -2098,7 +2251,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1512926382237442050,
-        "tweet_num": 43,
+        "tweet_num": 47,
         "text": [
             "GoodMorning"
         ],
@@ -2149,7 +2302,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1512701353524572162,
-        "tweet_num": 44,
+        "tweet_num": 48,
         "text": [
             "thank",
             "po",
@@ -2204,7 +2357,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1512563796488851458,
-        "tweet_num": 45,
+        "tweet_num": 49,
         "text": [
             "GoodMorning"
         ],
@@ -2255,7 +2408,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1512262797912027140,
-        "tweet_num": 46,
+        "tweet_num": 50,
         "text": [
             "side",
             "fck",
@@ -2308,7 +2461,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1512258560289243141,
-        "tweet_num": 47,
+        "tweet_num": 51,
         "text": [
             "Guys",
             "helping",
@@ -2353,7 +2506,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1512028947164192774,
-        "tweet_num": 48,
+        "tweet_num": 52,
         "text": [
             "GoodEvening"
         ],
@@ -2404,7 +2557,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1511886905817763840,
-        "tweet_num": 49,
+        "tweet_num": 53,
         "text": [
             "naked",
             "rn"
@@ -2456,7 +2609,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1511427176146812931,
-        "tweet_num": 50,
+        "tweet_num": 54,
         "text": [
             "hit",
             "different"
@@ -2479,7 +2632,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1511424835007938561,
-        "tweet_num": 51,
+        "tweet_num": 55,
         "text": [
             "GoodMorning"
         ],
@@ -2530,7 +2683,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1511184967505969153,
-        "tweet_num": 52,
+        "tweet_num": 56,
         "text": [
             "I",
             "want",
@@ -2583,7 +2736,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1511130241657614337,
-        "tweet_num": 53,
+        "tweet_num": 57,
         "text": [
             "GoodMorning"
         ],
@@ -2634,7 +2787,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1510973716842225676,
-        "tweet_num": 54,
+        "tweet_num": 58,
         "text": [
             "yes",
             "pleaseee"
@@ -2686,7 +2839,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1510934793760178176,
-        "tweet_num": 55,
+        "tweet_num": 59,
         "text": [
             "Good",
             "Eveninggg"
@@ -2738,7 +2891,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1510816354865389572,
-        "tweet_num": 56,
+        "tweet_num": 60,
         "text": [
             "jab"
         ],
@@ -2755,7 +2908,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1510777532920262656,
-        "tweet_num": 57,
+        "tweet_num": 61,
         "text": [
             "GoodMorning"
         ],
@@ -2806,7 +2959,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1510459894885138437,
-        "tweet_num": 58,
+        "tweet_num": 62,
         "text": [
             "Load",
             "felt",
@@ -2859,7 +3012,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1510407528244719616,
-        "tweet_num": 59,
+        "tweet_num": 63,
         "text": [
             "GoodMorning"
         ],
@@ -2910,7 +3063,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1510082912267694081,
-        "tweet_num": 60,
+        "tweet_num": 64,
         "text": [
             "Horny",
             "atm"
@@ -2962,7 +3115,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1510034967770038273,
-        "tweet_num": 61,
+        "tweet_num": 65,
         "text": [
             "Good",
             "Morning"
@@ -3014,7 +3167,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1509823811876945922,
-        "tweet_num": 62,
+        "tweet_num": 66,
         "text": [
             "feel",
             "good"
@@ -3052,7 +3205,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1509806923390283781,
-        "tweet_num": 63,
+        "tweet_num": 67,
         "text": [
             "I",
             "deserve",
@@ -3089,7 +3242,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1509790611003645952,
-        "tweet_num": 64,
+        "tweet_num": 68,
         "text": [
             "installed",
             "TG"
@@ -3141,7 +3294,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1509741700566368263,
-        "tweet_num": 65,
+        "tweet_num": 69,
         "text": [
             "Where",
             "go"
@@ -3193,7 +3346,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1509673535660523523,
-        "tweet_num": 66,
+        "tweet_num": 70,
         "text": [
             "GoodMorning"
         ],
@@ -3244,7 +3397,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1509323780438786048,
-        "tweet_num": 67,
+        "tweet_num": 71,
         "text": [
             "GoodMorning"
         ],
@@ -3295,7 +3448,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1508928753577361410,
-        "tweet_num": 68,
+        "tweet_num": 72,
         "text": [
             "GoodMorning",
             "po"
@@ -3347,7 +3500,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1508547887650979840,
-        "tweet_num": 69,
+        "tweet_num": 73,
         "text": [
             "Good",
             "Morning",
@@ -3400,7 +3553,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1508079966764023812,
-        "tweet_num": 70,
+        "tweet_num": 74,
         "text": [
             "GoodEveninggg"
         ],
@@ -3451,7 +3604,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1508073382155554823,
-        "tweet_num": 71,
+        "tweet_num": 75,
         "text": [
             "cum",
             "over"
@@ -3503,7 +3656,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1507687780004298755,
-        "tweet_num": 72,
+        "tweet_num": 76,
         "text": [
             "GoodEveninggggg"
         ],
@@ -3554,7 +3707,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1507343761654759425,
-        "tweet_num": 73,
+        "tweet_num": 77,
         "text": [
             "GoodEveninggg"
         ],
@@ -3605,7 +3758,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1507170874491019269,
-        "tweet_num": 74,
+        "tweet_num": 78,
         "text": [
             "workout",
             "done",
@@ -3659,7 +3812,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1507133529909792768,
-        "tweet_num": 75,
+        "tweet_num": 79,
         "text": [
             "Good",
             "Morning"
@@ -3711,7 +3864,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1507041572839641088,
-        "tweet_num": 76,
+        "tweet_num": 80,
         "text": [
             "Hello"
         ],
@@ -3762,7 +3915,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1506787302223544326,
-        "tweet_num": 77,
+        "tweet_num": 81,
         "text": [
             "GoodMorning"
         ],
@@ -3813,7 +3966,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1506238811977953290,
-        "tweet_num": 78,
+        "tweet_num": 82,
         "text": [
             "Good",
             "Eveninggg"
@@ -3865,7 +4018,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1505969010139365376,
-        "tweet_num": 79,
+        "tweet_num": 83,
         "text": [
             "Good",
             "Night"
@@ -3917,7 +4070,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1505868001827954689,
-        "tweet_num": 80,
+        "tweet_num": 84,
         "text": [
             "GoodEveningggg"
         ],
@@ -3968,7 +4121,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1504940766107672579,
-        "tweet_num": 81,
+        "tweet_num": 85,
         "text": [
             "GoodMorning"
         ],
@@ -4019,7 +4172,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1504604254811860992,
-        "tweet_num": 82,
+        "tweet_num": 86,
         "text": [
             "GoodMorning"
         ],
@@ -4070,7 +4223,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1503372506866266114,
-        "tweet_num": 83,
+        "tweet_num": 87,
         "text": [
             "When",
             "give",
@@ -4114,7 +4267,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1503357558652047367,
-        "tweet_num": 84,
+        "tweet_num": 88,
         "text": [
             "suck",
             "babe"
@@ -4132,7 +4285,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1503323083914227714,
-        "tweet_num": 85,
+        "tweet_num": 89,
         "text": [
             "Where",
             "Mirabel"
@@ -4184,7 +4337,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1501919888944005122,
-        "tweet_num": 86,
+        "tweet_num": 90,
         "text": [
             "GoodNight",
             "httpstcoZFSheKdqgo"
@@ -4236,7 +4389,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1501791501160161283,
-        "tweet_num": 87,
+        "tweet_num": 91,
         "text": [
             "GoodAfternoon"
         ],
@@ -4287,7 +4440,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1501715765409775616,
-        "tweet_num": 88,
+        "tweet_num": 92,
         "text": [
             "GoodMorninggg"
         ],
@@ -4338,7 +4491,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1501571147821088772,
-        "tweet_num": 89,
+        "tweet_num": 93,
         "text": [
             "Its",
             "good",
@@ -4369,7 +4522,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1500451976437710851,
-        "tweet_num": 90,
+        "tweet_num": 94,
         "text": [
             "Side",
             "fck"
@@ -4421,7 +4574,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1500246897688477697,
-        "tweet_num": 91,
+        "tweet_num": 95,
         "text": [
             "GoodMorning"
         ],
@@ -4472,7 +4625,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1500157866699005953,
-        "tweet_num": 92,
+        "tweet_num": 96,
         "text": [
             "GoodNighttt"
         ],
@@ -4523,7 +4676,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1500126958965112834,
-        "tweet_num": 93,
+        "tweet_num": 97,
         "text": [
             "new",
             "beginning"
@@ -4575,7 +4728,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1500069139045826560,
-        "tweet_num": 94,
+        "tweet_num": 98,
         "text": [
             "GoodEveninggg"
         ],
@@ -4626,7 +4779,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1499875183783739392,
-        "tweet_num": 95,
+        "tweet_num": 99,
         "text": [
             "GoodMorning"
         ],
@@ -4677,7 +4830,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1499790496549736449,
-        "tweet_num": 96,
+        "tweet_num": 100,
         "text": [
             "GoodNight"
         ],
@@ -4728,7 +4881,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1499190853465960448,
-        "tweet_num": 97,
+        "tweet_num": 101,
         "text": [
             "GoodMorning"
         ],
@@ -4779,7 +4932,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1499036226875445251,
-        "tweet_num": 98,
+        "tweet_num": 102,
         "text": [
             "Jable",
             "u"
@@ -4831,7 +4984,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1498655763447033857,
-        "tweet_num": 99,
+        "tweet_num": 103,
         "text": [
             "Hornieee",
             "me"
@@ -4883,7 +5036,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1498431841736736768,
-        "tweet_num": 100,
+        "tweet_num": 104,
         "text": [
             "GoodMorninggg"
         ],
@@ -4934,7 +5087,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1497714994615517186,
-        "tweet_num": 101,
+        "tweet_num": 105,
         "text": [
             "GoodMorning",
             "sunshine"
@@ -4957,7 +5110,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1497469167813144576,
-        "tweet_num": 102,
+        "tweet_num": 106,
         "text": [
             "Hornieee"
         ],
@@ -5008,7 +5161,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1497361073691045890,
-        "tweet_num": 103,
+        "tweet_num": 107,
         "text": [
             "GoodMorninggg"
         ],
@@ -5059,7 +5212,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1497223971086893056,
-        "tweet_num": 104,
+        "tweet_num": 108,
         "text": [
             "GoodEveningggggg"
         ],
@@ -5110,7 +5263,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1496991341426798613,
-        "tweet_num": 105,
+        "tweet_num": 109,
         "text": [
             "GoodMorninggg"
         ],
@@ -5161,7 +5314,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1496822234001801221,
-        "tweet_num": 106,
+        "tweet_num": 110,
         "text": [
             "GoodEve"
         ],
@@ -5212,7 +5365,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1496535138511224834,
-        "tweet_num": 107,
+        "tweet_num": 111,
         "text": [
             "GoodNight",
             "Pipols"
@@ -5264,7 +5417,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1496468439317499904,
-        "tweet_num": 108,
+        "tweet_num": 112,
         "text": [
             "pillow",
             "fight",
@@ -5298,7 +5451,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1496278184442347520,
-        "tweet_num": 109,
+        "tweet_num": 113,
         "text": [
             "GoodMorning",
             "Pillow",
@@ -5319,7 +5472,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1496099376636530691,
-        "tweet_num": 110,
+        "tweet_num": 114,
         "text": [
             "GoodEveninggg"
         ],
@@ -5370,7 +5523,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1496018573046972417,
-        "tweet_num": 111,
+        "tweet_num": 115,
         "text": [
             "ShowernotGrower"
         ],
@@ -5421,7 +5574,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1495415757148389378,
-        "tweet_num": 112,
+        "tweet_num": 116,
         "text": [
             "Better",
             "Days"
@@ -5473,7 +5626,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1495104565074853891,
-        "tweet_num": 113,
+        "tweet_num": 117,
         "text": [
             "Night",
             "Ebribadi"
@@ -5525,7 +5678,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1494471659691995167,
-        "tweet_num": 114,
+        "tweet_num": 118,
         "text": [
             "GoodMorning"
         ],
@@ -5576,7 +5729,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1494120066048135175,
-        "tweet_num": 115,
+        "tweet_num": 119,
         "text": [
             "GoodMorning"
         ],
@@ -5627,7 +5780,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1494001441077297155,
-        "tweet_num": 116,
+        "tweet_num": 120,
         "text": [
             "GoodNighttt"
         ],
@@ -5678,7 +5831,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1493933958744055808,
-        "tweet_num": 117,
+        "tweet_num": 121,
         "text": [
             "GoodEveningggggg"
         ],
@@ -5729,7 +5882,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1493092100753137668,
-        "tweet_num": 118,
+        "tweet_num": 122,
         "text": [
             "I",
             "say"
@@ -5781,7 +5934,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1493030889143496706,
-        "tweet_num": 119,
+        "tweet_num": 123,
         "text": [
             "GoodMorninggg"
         ],
@@ -5832,7 +5985,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1490194316513640448,
-        "tweet_num": 120,
+        "tweet_num": 124,
         "text": [
             "Naked"
         ],
@@ -5883,7 +6036,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1487381198985101312,
-        "tweet_num": 121,
+        "tweet_num": 125,
         "text": [
             "just",
             "give",
@@ -5926,7 +6079,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1487010201257406468,
-        "tweet_num": 122,
+        "tweet_num": 126,
         "text": [
             "notimeforshittyarguments"
         ],
@@ -5977,7 +6130,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1486541477647839237,
-        "tweet_num": 123,
+        "tweet_num": 127,
         "text": [
             "GoodMorning"
         ],
@@ -6028,7 +6181,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1485948345226956800,
-        "tweet_num": 124,
+        "tweet_num": 128,
         "text": [
             "Good",
             "Evening"
@@ -6080,7 +6233,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1485674373931409408,
-        "tweet_num": 125,
+        "tweet_num": 129,
         "text": [
             "Grabing",
             "d",
@@ -6135,7 +6288,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1485590553706205189,
-        "tweet_num": 126,
+        "tweet_num": 130,
         "text": [
             "I",
             "say",
@@ -6188,7 +6341,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1485276448969551876,
-        "tweet_num": 127,
+        "tweet_num": 131,
         "text": [
             "WILLING",
             "PA",
@@ -6249,7 +6402,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1485274242534891521,
-        "tweet_num": 128,
+        "tweet_num": 132,
         "text": [
             "Hello",
             "the",
@@ -6304,7 +6457,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1484859433171955723,
-        "tweet_num": 129,
+        "tweet_num": 133,
         "text": [
             "TransparencyAccountability",
             "amp",
@@ -6362,7 +6515,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1484349287697825794,
-        "tweet_num": 130,
+        "tweet_num": 134,
         "text": [
             "MorningWood"
         ],
@@ -6413,7 +6566,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1484063472476647431,
-        "tweet_num": 131,
+        "tweet_num": 135,
         "text": [
             "I",
             "wish"
@@ -6465,7 +6618,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1482530419253731332,
-        "tweet_num": 132,
+        "tweet_num": 136,
         "text": [
             "GoodMorning"
         ],
@@ -6516,7 +6669,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1482171083084103680,
-        "tweet_num": 133,
+        "tweet_num": 137,
         "text": [
             "GoodMorning"
         ],
@@ -6567,7 +6720,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1481454143176790016,
-        "tweet_num": 134,
+        "tweet_num": 138,
         "text": [
             "GoodMorning"
         ],
@@ -6618,7 +6771,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1481266790236057602,
-        "tweet_num": 135,
+        "tweet_num": 139,
         "text": [
             "self",
             "sufficient"
@@ -6670,7 +6823,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1481178423489822722,
-        "tweet_num": 136,
+        "tweet_num": 140,
         "text": [
             "Its",
             "alright",
@@ -6725,7 +6878,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1479436532184653824,
-        "tweet_num": 137,
+        "tweet_num": 141,
         "text": [
             "GoodEvening"
         ],
@@ -6776,7 +6929,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1478388485040099328,
-        "tweet_num": 138,
+        "tweet_num": 142,
         "text": [
             "My",
             "Safe",
@@ -6829,7 +6982,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1478191402693828608,
-        "tweet_num": 139,
+        "tweet_num": 143,
         "text": [
             "GoodMorning"
         ],
@@ -6880,7 +7033,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1477814475357298688,
-        "tweet_num": 140,
+        "tweet_num": 144,
         "text": [
             "Good",
             "Morning"
@@ -6932,7 +7085,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1477029322192191489,
-        "tweet_num": 141,
+        "tweet_num": 145,
         "text": [
             "GoodMorning"
         ],
@@ -6983,7 +7136,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1476736245715795970,
-        "tweet_num": 142,
+        "tweet_num": 146,
         "text": [
             "GoodMorning"
         ],
@@ -7034,7 +7187,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1474211696088530944,
-        "tweet_num": 143,
+        "tweet_num": 147,
         "text": [
             "GoodMorning"
         ],
@@ -7085,7 +7238,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1474026578602446855,
-        "tweet_num": 144,
+        "tweet_num": 148,
         "text": [
             "GoodEvening",
             "suggest",
@@ -7107,7 +7260,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1473517445033848833,
-        "tweet_num": 145,
+        "tweet_num": 149,
         "text": [
             "You",
             "dont",
@@ -7162,7 +7315,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1470963837708890114,
-        "tweet_num": 146,
+        "tweet_num": 150,
         "text": [
             "I",
             "say",
@@ -7215,7 +7368,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1468394276392685569,
-        "tweet_num": 147,
+        "tweet_num": 151,
         "text": [
             "GoodMorning"
         ],
@@ -7266,7 +7419,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1466787738473345028,
-        "tweet_num": 148,
+        "tweet_num": 152,
         "text": [
             "GoodNighttt"
         ],
@@ -7317,7 +7470,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1465939545547886592,
-        "tweet_num": 149,
+        "tweet_num": 153,
         "text": [
             "Ang",
             "Ganda",
@@ -7347,7 +7500,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1465862547043598341,
-        "tweet_num": 150,
+        "tweet_num": 154,
         "text": [
             "GoodMorning",
             "December"
@@ -7399,7 +7552,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1465653862153424899,
-        "tweet_num": 151,
+        "tweet_num": 155,
         "text": [
             "Just",
             "Once",
@@ -7452,7 +7605,7 @@
     {
         "user_id": 1351216309451812866,
         "tweet_id": 1465155556474175488,
-        "tweet_num": 152,
+        "tweet_num": 156,
         "text": [
             "GoodMorning"
         ],

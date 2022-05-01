@@ -1,8 +1,48 @@
 [
     {
         "user_id": 741936804,
+        "tweet_id": 1519121257396121601,
+        "tweet_num": 1,
+        "text": [
+            "Today",
+            "shit",
+            "I",
+            "gave",
+            "let",
+            "be",
+            "bad",
+            "day",
+            "and",
+            "just",
+            "got",
+            "drunk"
+        ],
+        "raw_emotion_scores": {
+            "anger": 2,
+            "disgust": 2,
+            "negative": 2,
+            "fear": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "disgust",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 741936804,
         "tweet_id": 1518808162677182471,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "Why",
             "woman",
@@ -61,7 +101,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1518740231142486016,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "My",
             "year",
@@ -121,7 +161,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1518671597565063175,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "I",
             "really",
@@ -151,7 +191,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1518452858282299393,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "The",
             "universe",
@@ -175,7 +215,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1517862153990164485,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "Everyone",
             "I",
@@ -216,7 +256,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1517649371139133440,
-        "tweet_num": 5,
+        "tweet_num": 7,
         "text": [
             "At",
             "point",
@@ -253,7 +293,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1517252890829770752,
-        "tweet_num": 6,
+        "tweet_num": 8,
         "text": [
             "I",
             "got",
@@ -286,7 +326,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1516965927505612802,
-        "tweet_num": 7,
+        "tweet_num": 9,
         "text": [
             "I",
             "love",
@@ -314,7 +354,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1516917571005693953,
-        "tweet_num": 8,
+        "tweet_num": 10,
         "text": [
             "The",
             "Father",
@@ -371,7 +411,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1516826702709669890,
-        "tweet_num": 9,
+        "tweet_num": 11,
         "text": [
             "Ive",
             "this",
@@ -397,7 +437,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1516810482283335688,
-        "tweet_num": 10,
+        "tweet_num": 12,
         "text": [
             "The",
             "next",
@@ -444,7 +484,7 @@
     {
         "user_id": 741936804,
         "tweet_id": 1516566195247489028,
-        "tweet_num": 11,
+        "tweet_num": 13,
         "text": [
             "Being",
             "drunk",
@@ -479,72 +519,6 @@
             [
                 "anticipation",
                 0.25
-            ]
-        ]
-    },
-    {
-        "user_id": 741936804,
-        "tweet_id": 1516458418630012939,
-        "tweet_num": 12,
-        "text": [
-            "I",
-            "gave",
-            "hour",
-            "cry",
-            "let",
-            "be",
-            "sad",
-            "pitiful",
-            "Now",
-            "time",
-            "start",
-            "picking",
-            "the",
-            "piece"
-        ],
-        "raw_emotion_scores": {
-            "negative": 1,
-            "sadness": 1,
-            "anticipation": 2
-        },
-        "top_emotions": [
-            [
-                "anticipation",
-                0.5
-            ]
-        ]
-    },
-    {
-        "user_id": 741936804,
-        "tweet_id": 1516174743950569482,
-        "tweet_num": 13,
-        "text": [
-            "The",
-            "hardest",
-            "part",
-            "all",
-            "favorite",
-            "thing",
-            "remind",
-            "of"
-        ],
-        "raw_emotion_scores": {
-            "joy": 1,
-            "positive": 1,
-            "trust": 1
-        },
-        "top_emotions": [
-            [
-                "trust",
-                0.3333333333333333
-            ],
-            [
-                "positive",
-                0.3333333333333333
-            ],
-            [
-                "joy",
-                0.3333333333333333
             ]
         ]
     }

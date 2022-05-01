@@ -1,8 +1,95 @@
 [
     {
         "user_id": 1112345318,
+        "tweet_id": 1519126410144755713,
+        "tweet_num": 1,
+        "text": [
+            "Missing",
+            "My",
+            "Boo",
+            "Presence"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1112345318,
+        "tweet_id": 1518976115066474498,
+        "tweet_num": 2,
+        "text": [
+            "Future",
+            "x",
+            "MY",
+            "savage",
+            "gone",
+            "forever",
+            "HIT"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "anger",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1112345318,
         "tweet_id": 1518300955799953410,
-        "tweet_num": 0,
+        "tweet_num": 3,
         "text": [
             "Its",
             "MY",
@@ -58,7 +145,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1518067668946927618,
-        "tweet_num": 1,
+        "tweet_num": 4,
         "text": [
             "Rylo",
             "Rodriguez",
@@ -113,7 +200,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1518015418392363010,
-        "tweet_num": 2,
+        "tweet_num": 5,
         "text": [
             "Its",
             "crazy",
@@ -170,7 +257,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1517558592018210818,
-        "tweet_num": 3,
+        "tweet_num": 6,
         "text": [
             "Idc",
             "idc",
@@ -227,7 +314,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1515874559630659588,
-        "tweet_num": 4,
+        "tweet_num": 7,
         "text": [
             "GO",
             "WHERE",
@@ -283,7 +370,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1515078310409211925,
-        "tweet_num": 5,
+        "tweet_num": 8,
         "text": [
             "amp",
             "make",
@@ -337,7 +424,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1515078261855985670,
-        "tweet_num": 6,
+        "tweet_num": 9,
         "text": [
             "One",
             "thing",
@@ -359,7 +446,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1514428429474664452,
-        "tweet_num": 7,
+        "tweet_num": 10,
         "text": [
             "ATP",
             "I",
@@ -384,7 +471,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1514428377888923657,
-        "tweet_num": 8,
+        "tweet_num": 11,
         "text": [
             "THE",
             "ULTIMATUM",
@@ -407,7 +494,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1513643858411798532,
-        "tweet_num": 9,
+        "tweet_num": 12,
         "text": [
             "Business",
             "Is",
@@ -460,7 +547,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1512201834986938369,
-        "tweet_num": 10,
+        "tweet_num": 13,
         "text": [
             "Want",
             "something",
@@ -499,7 +586,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1511685446966857735,
-        "tweet_num": 11,
+        "tweet_num": 14,
         "text": [
             "LETS",
             "GET",
@@ -553,7 +640,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1511685416902090767,
-        "tweet_num": 12,
+        "tweet_num": 15,
         "text": [
             "I",
             "wont",
@@ -587,7 +674,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1511685246063976452,
-        "tweet_num": 13,
+        "tweet_num": 16,
         "text": [
             "I",
             "woke",
@@ -623,7 +710,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1511639381861404675,
-        "tweet_num": 14,
+        "tweet_num": 17,
         "text": [
             "I",
             "literally",
@@ -678,7 +765,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1511638702208036867,
-        "tweet_num": 15,
+        "tweet_num": 18,
         "text": [
             "Now",
             "ha",
@@ -731,7 +818,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1511638638706188290,
-        "tweet_num": 16,
+        "tweet_num": 19,
         "text": [
             "I",
             "hate",
@@ -772,7 +859,7 @@
     {
         "user_id": 1112345318,
         "tweet_id": 1511543929853947910,
-        "tweet_num": 17,
+        "tweet_num": 20,
         "text": [
             "NO",
             "STRESS",
@@ -820,111 +907,6 @@
             [
                 "joy",
                 0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1112345318,
-        "tweet_id": 1511368602406076424,
-        "tweet_num": 18,
-        "text": [
-            "My",
-            "niece",
-            "really",
-            "want",
-            "to",
-            "get",
-            "and",
-            "cook",
-            "breakfast"
-        ],
-        "raw_emotion_scores": {
-            "positive": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                1.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1112345318,
-        "tweet_id": 1509706662692765705,
-        "tweet_num": 19,
-        "text": [
-            "TSOUL",
-            "BEST",
-            "OF",
-            "ME"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 1112345318,
-        "tweet_id": 1509256622467657730,
-        "tweet_num": 20,
-        "text": [
-            "Just",
-            "love",
-            "talking",
-            "my",
-            "guy"
-        ],
-        "raw_emotion_scores": {
-            "joy": 1,
-            "positive": 1
-        },
-        "top_emotions": [
-            [
-                "positive",
-                0.5
-            ],
-            [
-                "joy",
-                0.5
             ]
         ]
     }

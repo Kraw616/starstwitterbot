@@ -1,8 +1,47 @@
 [
     {
         "user_id": 159855452,
+        "tweet_id": 1518891700047204352,
+        "tweet_num": 1,
+        "text": [
+            "The",
+            "muntaris",
+            "curse"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 159855452,
         "tweet_id": 1516483585351450627,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "This",
             "why",
@@ -30,7 +69,7 @@
     {
         "user_id": 159855452,
         "tweet_id": 1512186668576821250,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "Love",
             "u",
@@ -83,7 +122,7 @@
     {
         "user_id": 159855452,
         "tweet_id": 1512149201605783553,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "Bacot"
         ],
@@ -134,7 +173,7 @@
     {
         "user_id": 159855452,
         "tweet_id": 1511526597882707971,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "Hebrews"
         ],
@@ -185,7 +224,7 @@
     {
         "user_id": 159855452,
         "tweet_id": 1511526402654629888,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "Hows",
             "moses",
@@ -239,62 +278,10 @@
     {
         "user_id": 159855452,
         "tweet_id": 1510703490490077184,
-        "tweet_num": 5,
+        "tweet_num": 7,
         "text": [
             "Me",
             "rn"
-        ],
-        "raw_emotion_scores": {},
-        "top_emotions": [
-            [
-                "fear",
-                0.0
-            ],
-            [
-                "anger",
-                0.0
-            ],
-            [
-                "anticip",
-                0.0
-            ],
-            [
-                "trust",
-                0.0
-            ],
-            [
-                "surprise",
-                0.0
-            ],
-            [
-                "positive",
-                0.0
-            ],
-            [
-                "negative",
-                0.0
-            ],
-            [
-                "sadness",
-                0.0
-            ],
-            [
-                "disgust",
-                0.0
-            ],
-            [
-                "joy",
-                0.0
-            ]
-        ]
-    },
-    {
-        "user_id": 159855452,
-        "tweet_id": 1510575981215744009,
-        "tweet_num": 6,
-        "text": [
-            "Gotham",
-            "vibe"
         ],
         "raw_emotion_scores": {},
         "top_emotions": [

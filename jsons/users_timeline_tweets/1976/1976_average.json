@@ -1,27 +1,29 @@
 [
     {
-        "positive": 3,
+        "positive": 1,
         "negative": 0,
         "fear": 0,
         "anger": 0,
-        "anticipation": 1,
+        "anticipation": 0,
         "trust": 1,
         "surprise": 0,
         "sadness": 0,
         "disgust": 0,
-        "joy": 2
+        "joy": 0
     },
     {
-        "positive": 0.75,
+        "positive": 0.3333333333333333,
         "negative": 0.0,
         "fear": 0.0,
         "anger": 0.0,
-        "anticipation": 0.25,
-        "trust": 0.25,
+        "anticipation": 0.0,
+        "trust": 0.3333333333333333,
         "surprise": 0.0,
         "sadness": 0.0,
         "disgust": 0.0,
-        "joy": 0.5
+        "joy": 0.0
     },
-    3
+    {
+        "num_tweets": 3
+    }
 ]

@@ -1,8 +1,63 @@
 [
     {
         "user_id": 1003284178522333184,
+        "tweet_id": 1518988616420237314,
+        "tweet_num": 1,
+        "text": [
+            "perro",
+            "abandonado",
+            "hittin",
+            "different",
+            "today"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1003284178522333184,
         "tweet_id": 1518300829211574272,
-        "tweet_num": 0,
+        "tweet_num": 2,
         "text": [
             "I",
             "want",
@@ -34,7 +89,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1517677961146773504,
-        "tweet_num": 1,
+        "tweet_num": 3,
         "text": [
             "drunk"
         ],
@@ -85,7 +140,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1517250343171674113,
-        "tweet_num": 2,
+        "tweet_num": 4,
         "text": [
             "feel",
             "song",
@@ -106,7 +161,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1516808352763985925,
-        "tweet_num": 3,
+        "tweet_num": 5,
         "text": [
             "fluffy",
             "baby",
@@ -130,7 +185,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1515872850686746629,
-        "tweet_num": 4,
+        "tweet_num": 6,
         "text": [
             "moooonnnn"
         ],
@@ -181,7 +236,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1515741010478997513,
-        "tweet_num": 5,
+        "tweet_num": 7,
         "text": [
             "happy",
             "easterrr"
@@ -214,7 +269,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1514663236972466177,
-        "tweet_num": 6,
+        "tweet_num": 8,
         "text": [
             "I",
             "want",
@@ -270,7 +325,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1510797778426945537,
-        "tweet_num": 7,
+        "tweet_num": 9,
         "text": [
             "Fernando",
             "finishing",
@@ -323,7 +378,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1510707920530518024,
-        "tweet_num": 8,
+        "tweet_num": 10,
         "text": [
             "never"
         ],
@@ -374,7 +429,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1508596437789065224,
-        "tweet_num": 9,
+        "tweet_num": 11,
         "text": [
             "I",
             "know",
@@ -427,7 +482,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1508499488289312770,
-        "tweet_num": 10,
+        "tweet_num": 12,
         "text": [
             "cry",
             "amp",
@@ -451,7 +506,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1508185422563794944,
-        "tweet_num": 11,
+        "tweet_num": 13,
         "text": [
             "I",
             "made",
@@ -505,7 +560,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1508125887736262666,
-        "tweet_num": 12,
+        "tweet_num": 14,
         "text": [
             "getting",
             "ready",
@@ -533,7 +588,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1507894519727104000,
-        "tweet_num": 13,
+        "tweet_num": 15,
         "text": [
             "baby",
             "can",
@@ -567,7 +622,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1507564477746761739,
-        "tweet_num": 14,
+        "tweet_num": 16,
         "text": [
             "I",
             "want",
@@ -621,7 +676,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1507185753809469442,
-        "tweet_num": 15,
+        "tweet_num": 17,
         "text": [
             "junior",
             "h",
@@ -677,7 +732,7 @@
     {
         "user_id": 1003284178522333184,
         "tweet_id": 1506989229020172297,
-        "tweet_num": 16,
+        "tweet_num": 18,
         "text": [
             "obsessed",
             "my",
@@ -697,51 +752,6 @@
             [
                 "disgust",
                 0.5
-            ]
-        ]
-    },
-    {
-        "user_id": 1003284178522333184,
-        "tweet_id": 1506372151225552899,
-        "tweet_num": 17,
-        "text": [
-            "chicken",
-            "tender",
-            "sub",
-            "hit"
-        ],
-        "raw_emotion_scores": {
-            "fear": 1,
-            "joy": 1,
-            "positive": 1,
-            "trust": 1,
-            "anger": 1,
-            "negative": 1
-        },
-        "top_emotions": [
-            [
-                "fear",
-                0.16666666666666666
-            ],
-            [
-                "anger",
-                0.16666666666666666
-            ],
-            [
-                "trust",
-                0.16666666666666666
-            ],
-            [
-                "positive",
-                0.16666666666666666
-            ],
-            [
-                "negative",
-                0.16666666666666666
-            ],
-            [
-                "joy",
-                0.16666666666666666
             ]
         ]
     }
