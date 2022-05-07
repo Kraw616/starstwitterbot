@@ -1,0 +1,105 @@
+[
+    {
+        "user_id": 1247762494556237824,
+        "tweet_id": 1522039198672379905,
+        "tweet_num": 1,
+        "text": [
+            "every",
+            "wednesday",
+            "I",
+            "b",
+            "fighting",
+            "my",
+            "life",
+            "find",
+            "sum",
+            "eat",
+            "this",
+            "house"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "negative": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1247762494556237824,
+        "tweet_id": 1522017452888150016,
+        "tweet_num": 2,
+        "text": [
+            "bruhh",
+            "fundamental",
+            "nursing",
+            "really",
+            "aint",
+            "danmm",
+            "joke",
+            "tf"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1247762494556237824,
+        "tweet_id": 1522008314544021505,
+        "tweet_num": 3,
+        "text": [
+            "had",
+            "one",
+            "tired",
+            "reacting",
+            "my",
+            "story",
+            "he",
+            "cussed",
+            "out",
+            "blocked"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "anger": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.5
+            ],
+            [
+                "negative",
+                0.5
+            ]
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "user_id": 827138431310557184,
+        "tweet_id": 1504579905157275664,
+        "tweet_num": 1,
+        "text": [
+            "Shittt"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 827138431310557184,
+        "tweet_id": 1463398704069632004,
+        "tweet_num": 2,
+        "text": [
+            "Be",
+            "honest",
+            "loyal",
+            "you"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 2,
+            "joy": 2,
+            "positive": 2,
+            "sadness": 1,
+            "trust": 2,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.16666666666666666
+            ],
+            [
+                "trust",
+                0.16666666666666666
+            ],
+            [
+                "positive",
+                0.16666666666666666
+            ],
+            [
+                "joy",
+                0.16666666666666666
+            ]
+        ]
+    }
+]

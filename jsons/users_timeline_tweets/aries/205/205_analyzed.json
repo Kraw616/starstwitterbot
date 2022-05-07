@@ -1,0 +1,56 @@
+[
+    {
+        "user_id": 1090656195482996736,
+        "tweet_id": 1511868140766085120,
+        "tweet_num": 1,
+        "text": [
+            "Today",
+            "Im",
+            "celebrating",
+            "birthday"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "joy": 2,
+            "positive": 2,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.2857142857142857
+            ],
+            [
+                "joy",
+                0.2857142857142857
+            ],
+            [
+                "anticipation",
+                0.2857142857142857
+            ]
+        ]
+    },
+    {
+        "user_id": 1090656195482996736,
+        "tweet_id": 1489152724876906496,
+        "tweet_num": 2,
+        "text": [
+            "Do",
+            "remember",
+            "you",
+            "joined",
+            "Twitter",
+            "I",
+            "MyTwitterAnniversary"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

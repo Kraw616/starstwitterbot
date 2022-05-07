@@ -1,0 +1,82 @@
+[
+    {
+        "user_id": 3034949265,
+        "tweet_id": 1508829903579488258,
+        "tweet_num": 1,
+        "text": [
+            "Niggas",
+            "like",
+            "up",
+            "searching",
+            "perfect",
+            "guy",
+            "no",
+            "one",
+            "perfect",
+            "they",
+            "cant",
+            "meet",
+            "the",
+            "requirement"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "joy": 2,
+            "positive": 2,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 3034949265,
+        "tweet_id": 1499039544875831307,
+        "tweet_num": 2,
+        "text": [
+            "The",
+            "world",
+            "focus",
+            "on",
+            "negative",
+            "the",
+            "positive",
+            "thats",
+            "sad"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

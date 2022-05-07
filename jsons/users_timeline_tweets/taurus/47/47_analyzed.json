@@ -1,0 +1,112 @@
+[
+    {
+        "user_id": 564906240,
+        "tweet_id": 1512144097280241665,
+        "tweet_num": 1,
+        "text": [
+            "My",
+            "grandpa",
+            "used",
+            "tell",
+            "all",
+            "time",
+            "in",
+            "gene"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 564906240,
+        "tweet_id": 1512143555015458817,
+        "tweet_num": 2,
+        "text": [
+            "That",
+            "Rod",
+            "Wave",
+            "hitting"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 564906240,
+        "tweet_id": 1511520383958147072,
+        "tweet_num": 3,
+        "text": [
+            "Crazy",
+            "go",
+            "year",
+            "telling",
+            "somebody",
+            "you",
+            "love",
+            "to",
+            "even",
+            "speaking",
+            "anymore"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    }
+]

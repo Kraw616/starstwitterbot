@@ -1,0 +1,40 @@
+[
+    {
+        "user_id": 1037792312699564032,
+        "tweet_id": 1487636733453819907,
+        "tweet_num": 1,
+        "text": [
+            "This",
+            "kid",
+            "saw",
+            "evil",
+            "eye",
+            "necklace",
+            "said",
+            "eye",
+            "fell",
+            "Dont",
+            "know",
+            "to",
+            "feel",
+            "that"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 2,
+            "sadness": 2
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.2857142857142857
+            ],
+            [
+                "sadness",
+                0.2857142857142857
+            ]
+        ]
+    }
+]

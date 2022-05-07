@@ -1,0 +1,54 @@
+[
+    {
+        "user_id": 1129566582018007040,
+        "tweet_id": 1520830574985838592,
+        "tweet_num": 1,
+        "text": [
+            "My",
+            "due",
+            "date",
+            "coming",
+            "I",
+            "no",
+            "idea",
+            "to",
+            "expect"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                0.4
+            ]
+        ]
+    },
+    {
+        "user_id": 1129566582018007040,
+        "tweet_id": 1514274885450665986,
+        "tweet_num": 2,
+        "text": [
+            "guy",
+            "so",
+            "immature"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "anticipation",
+                0.5
+            ]
+        ]
+    }
+]

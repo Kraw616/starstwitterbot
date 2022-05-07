@@ -1,0 +1,54 @@
+[
+    {
+        "user_id": 1398361054451798017,
+        "tweet_id": 1467585258833039379,
+        "tweet_num": 1,
+        "text": [
+            "The",
+            "case",
+            "the",
+            "confident",
+            "dog",
+            "developed",
+            "PTSD",
+            "Gill",
+            "Straker",
+            "Jacqui",
+            "Winship"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.16666666666666666
+            ],
+            [
+                "trust",
+                0.16666666666666666
+            ],
+            [
+                "positive",
+                0.16666666666666666
+            ],
+            [
+                "negative",
+                0.16666666666666666
+            ],
+            [
+                "sadness",
+                0.16666666666666666
+            ],
+            [
+                "joy",
+                0.16666666666666666
+            ]
+        ]
+    }
+]

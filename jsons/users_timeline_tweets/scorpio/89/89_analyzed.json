@@ -1,0 +1,98 @@
+[
+    {
+        "user_id": 85782172,
+        "tweet_id": 27013237366,
+        "tweet_num": 1,
+        "text": [
+            "Go",
+            "Green",
+            "Go",
+            "Clean",
+            "the",
+            "next",
+            "Generation",
+            "Go",
+            "India",
+            "Go"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 85782172,
+        "tweet_id": 5226562028,
+        "tweet_num": 2,
+        "text": [
+            "Working",
+            "save",
+            "the",
+            "rainy",
+            "day"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "trust": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ]
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "user_id": 1377984032533700616,
+        "tweet_id": 1385520193015672838,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "wish",
+            "common",
+            "sense",
+            "common"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1377984032533700616,
+        "tweet_id": 1385268160031428615,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "wish",
+            "could",
+            "subtitle",
+            "real",
+            "life",
+            "bc",
+            "I",
+            "really",
+            "cant",
+            "hear",
+            "anything",
+            "anyone",
+            "saying",
+            "me"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    }
+]

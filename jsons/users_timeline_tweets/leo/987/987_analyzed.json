@@ -1,0 +1,51 @@
+[
+    {
+        "user_id": 77666727,
+        "tweet_id": 1516390911357423617,
+        "tweet_num": 1,
+        "text": [
+            "Good",
+            "Morning",
+            "World",
+            "Have",
+            "fabulous",
+            "day",
+            "lift",
+            "spirit"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 77666727,
+        "tweet_id": 1515735165020119041,
+        "tweet_num": 2,
+        "text": [
+            "Have",
+            "blessed",
+            "Easter",
+            "everyone"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    }
+]

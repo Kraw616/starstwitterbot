@@ -1,0 +1,82 @@
+[
+    {
+        "user_id": 1274006178792644609,
+        "tweet_id": 1516473655739494402,
+        "tweet_num": 1,
+        "text": [
+            "You",
+            "got",
+            "touchin",
+            "your",
+            "body"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1274006178792644609,
+        "tweet_id": 1296388413055172608,
+        "tweet_num": 2,
+        "text": [
+            "This",
+            "a",
+            "fucking",
+            "truth"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    }
+]

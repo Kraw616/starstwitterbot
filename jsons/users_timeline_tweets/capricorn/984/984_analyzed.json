@@ -1,0 +1,68 @@
+[
+    {
+        "user_id": 4212331527,
+        "tweet_id": 1505031099164110848,
+        "tweet_num": 1,
+        "text": [
+            "man",
+            "a",
+            "virgo",
+            "this",
+            "so",
+            "accurate"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 4212331527,
+        "tweet_id": 1503656819033583621,
+        "tweet_num": 2,
+        "text": [
+            "want",
+            "so",
+            "bad"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    }
+]

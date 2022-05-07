@@ -1,0 +1,153 @@
+[
+    {
+        "user_id": 1445791699612016645,
+        "tweet_id": 1506626486396145671,
+        "tweet_num": 1,
+        "text": [
+            "Wow",
+            "science",
+            "figured",
+            "how",
+            "give",
+            "a",
+            "hairy",
+            "gummy",
+            "bear"
+        ],
+        "raw_emotion_scores": {
+            "disgust": 1,
+            "negative": 1,
+            "anger": 1,
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "disgust",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1445791699612016645,
+        "tweet_id": 1489844317111865344,
+        "tweet_num": 2,
+        "text": [
+            "My",
+            "toxic",
+            "trait",
+            "wanting",
+            "check",
+            "on",
+            "people",
+            "then",
+            "avoiding",
+            "I",
+            "wont",
+            "bother"
+        ],
+        "raw_emotion_scores": {
+            "disgust": 1,
+            "negative": 3,
+            "sadness": 1,
+            "fear": 1,
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.42857142857142855
+            ]
+        ]
+    },
+    {
+        "user_id": 1445791699612016645,
+        "tweet_id": 1478620094301417472,
+        "tweet_num": 3,
+        "text": [
+            "Presidential",
+            "Candidate",
+            "America",
+            "stop",
+            "scared",
+            "let",
+            "woman",
+            "take",
+            "power",
+            "She",
+            "do",
+            "wonderful",
+            "thing"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1445791699612016645,
+        "tweet_id": 1461564779156447234,
+        "tweet_num": 4,
+        "text": [
+            "I",
+            "need",
+            "help",
+            "rn",
+            "Adele",
+            "I",
+            "love",
+            "mama",
+            "hug",
+            "love",
+            "across",
+            "internet",
+            "Adele30"
+        ],
+        "raw_emotion_scores": {
+            "joy": 3,
+            "positive": 3,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.42857142857142855
+            ],
+            [
+                "joy",
+                0.42857142857142855
+            ]
+        ]
+    }
+]

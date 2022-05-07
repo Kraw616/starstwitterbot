@@ -1,0 +1,73 @@
+[
+    {
+        "user_id": 1440470086607794189,
+        "tweet_id": 1520291666460090368,
+        "tweet_num": 1,
+        "text": [
+            "to",
+            "patient"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "anticipation",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1440470086607794189,
+        "tweet_id": 1448124029064392710,
+        "tweet_num": 2,
+        "text": [
+            "cant",
+            "give",
+            "now",
+            "I",
+            "got",
+            "much",
+            "lose"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.16666666666666666
+            ],
+            [
+                "anger",
+                0.16666666666666666
+            ],
+            [
+                "surprise",
+                0.16666666666666666
+            ],
+            [
+                "negative",
+                0.16666666666666666
+            ],
+            [
+                "sadness",
+                0.16666666666666666
+            ],
+            [
+                "disgust",
+                0.16666666666666666
+            ]
+        ]
+    }
+]

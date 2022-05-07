@@ -1,0 +1,97 @@
+[
+    {
+        "user_id": 1498335126081650696,
+        "tweet_id": 1520464916053909512,
+        "tweet_num": 1,
+        "text": [
+            "Six",
+            "hundred",
+            "rating",
+            "chess",
+            "when",
+            "miss",
+            "mate",
+            "one",
+            "eventually",
+            "lose",
+            "game"
+        ],
+        "raw_emotion_scores": {
+            "anger": 2,
+            "fear": 2,
+            "negative": 2,
+            "sadness": 2,
+            "positive": 1,
+            "trust": 1,
+            "disgust": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.16666666666666666
+            ],
+            [
+                "anger",
+                0.16666666666666666
+            ],
+            [
+                "negative",
+                0.16666666666666666
+            ],
+            [
+                "sadness",
+                0.16666666666666666
+            ]
+        ]
+    },
+    {
+        "user_id": 1498335126081650696,
+        "tweet_id": 1516443699194081283,
+        "tweet_num": 2,
+        "text": [
+            "Ive",
+            "got",
+            "rule",
+            "dont",
+            "use",
+            "trust",
+            "if",
+            "dont",
+            "like",
+            "smth",
+            "let",
+            "me",
+            "know"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.6666666666666666
+            ]
+        ]
+    },
+    {
+        "user_id": 1498335126081650696,
+        "tweet_id": 1513953445677617153,
+        "tweet_num": 3,
+        "text": [
+            "Welltake",
+            "account",
+            "please"
+        ],
+        "raw_emotion_scores": {
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                1.0
+            ]
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "user_id": 265007460,
+        "tweet_id": 57220593384308736,
+        "tweet_num": 1,
+        "text": [
+            "Guess",
+            "ill",
+            "play",
+            "around",
+            "here",
+            "a",
+            "little",
+            "find",
+            "of",
+            "friend"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.125
+            ],
+            [
+                "anger",
+                0.125
+            ],
+            [
+                "trust",
+                0.125
+            ],
+            [
+                "positive",
+                0.125
+            ],
+            [
+                "negative",
+                0.125
+            ],
+            [
+                "sadness",
+                0.125
+            ],
+            [
+                "disgust",
+                0.125
+            ],
+            [
+                "joy",
+                0.125
+            ]
+        ]
+    }
+]

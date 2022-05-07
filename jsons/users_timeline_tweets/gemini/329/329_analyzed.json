@@ -1,0 +1,93 @@
+[
+    {
+        "user_id": 1519453397749051392,
+        "tweet_id": 1520287785994919943,
+        "tweet_num": 1,
+        "text": [
+            "Bruno",
+            "Saucedo",
+            "you",
+            "wan",
+            "na",
+            "hang",
+            "talk",
+            "hit",
+            "up",
+            "or",
+            "come",
+            "thru"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 2,
+            "sadness": 1,
+            "positive": 1,
+            "anger": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1519453397749051392,
+        "tweet_id": 1519635287172911104,
+        "tweet_num": 2,
+        "text": [
+            "The",
+            "best",
+            "feeling",
+            "ever",
+            "being",
+            "unbothered",
+            "ppl",
+            "are",
+            "damn",
+            "bothered",
+            "you",
+            "the",
+            "fact",
+            "your",
+            "unbothered",
+            "And",
+            "cute",
+            "it"
+        ],
+        "raw_emotion_scores": {
+            "anger": 2,
+            "anticipation": 1,
+            "disgust": 2,
+            "fear": 1,
+            "joy": 1,
+            "negative": 2,
+            "positive": 2,
+            "sadness": 1,
+            "surprise": 1,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.13333333333333333
+            ],
+            [
+                "trust",
+                0.13333333333333333
+            ],
+            [
+                "positive",
+                0.13333333333333333
+            ],
+            [
+                "negative",
+                0.13333333333333333
+            ],
+            [
+                "disgust",
+                0.13333333333333333
+            ]
+        ]
+    }
+]

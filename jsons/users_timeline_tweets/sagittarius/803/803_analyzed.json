@@ -1,0 +1,81 @@
+[
+    {
+        "user_id": 812005263880372224,
+        "tweet_id": 1520213842231545856,
+        "tweet_num": 1,
+        "text": [
+            "At",
+            "point",
+            "the",
+            "semester",
+            "I",
+            "only",
+            "afford",
+            "eat",
+            "meal",
+            "day"
+        ],
+        "raw_emotion_scores": {
+            "positive": 2
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 812005263880372224,
+        "tweet_id": 1520210521307455492,
+        "tweet_num": 2,
+        "text": [
+            "It",
+            "truly",
+            "anger",
+            "that",
+            "certain",
+            "black",
+            "men",
+            "taken",
+            "angry",
+            "black",
+            "woman",
+            "stereotype",
+            "created",
+            "white",
+            "supremacist",
+            "ideology",
+            "used",
+            "not",
+            "to",
+            "abandon",
+            "to",
+            "BASH",
+            "woman",
+            "their",
+            "race",
+            "the",
+            "name",
+            "their",
+            "preference"
+        ],
+        "raw_emotion_scores": {
+            "anger": 2,
+            "negative": 6,
+            "sadness": 3,
+            "disgust": 1,
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1,
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.35294117647058826
+            ]
+        ]
+    }
+]

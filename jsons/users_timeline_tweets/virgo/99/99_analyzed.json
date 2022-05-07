@@ -1,0 +1,91 @@
+[
+    {
+        "user_id": 1520835512252182528,
+        "tweet_id": 1521465979867443201,
+        "tweet_num": 1,
+        "text": [
+            "Flashback",
+            "me",
+            "you",
+            "the",
+            "future"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1520835512252182528,
+        "tweet_id": 1521331094062342145,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "come",
+            "the",
+            "land",
+            "plenty",
+            "If",
+            "I",
+            "cant",
+            "get",
+            "none",
+            "It",
+            "wont",
+            "any"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "anticipation",
+                0.5
+            ]
+        ]
+    }
+]

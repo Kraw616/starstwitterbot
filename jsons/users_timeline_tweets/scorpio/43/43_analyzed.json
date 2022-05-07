@@ -1,0 +1,107 @@
+[
+    {
+        "user_id": 1520560669950717952,
+        "tweet_id": 1520941436031709185,
+        "tweet_num": 1,
+        "text": [
+            "showing",
+            "physical",
+            "affection",
+            "gtgt"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1520560669950717952,
+        "tweet_id": 1520934524732989441,
+        "tweet_num": 2,
+        "text": [
+            "well",
+            "see",
+            "ig"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1520560669950717952,
+        "tweet_id": 1520933172233523201,
+        "tweet_num": 3,
+        "text": [
+            "see",
+            "too",
+            "much",
+            "believe",
+            "half",
+            "time"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    }
+]

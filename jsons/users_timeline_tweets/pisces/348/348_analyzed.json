@@ -1,0 +1,96 @@
+[
+    {
+        "user_id": 1154173272969351169,
+        "tweet_id": 1517153907532713985,
+        "tweet_num": 1,
+        "text": [
+            "At",
+            "end",
+            "the",
+            "day",
+            "only",
+            "you",
+            "rely"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1154173272969351169,
+        "tweet_id": 1499509650357735435,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "actually",
+            "deserve",
+            "best",
+            "very",
+            "best"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

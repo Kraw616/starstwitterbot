@@ -1,0 +1,87 @@
+[
+    {
+        "user_id": 2901444766,
+        "tweet_id": 1520393613238312960,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "love",
+            "SOME",
+            "yall",
+            "men",
+            "prove",
+            "you",
+            "dont",
+            "know",
+            "consent",
+            "personal",
+            "space"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 2,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 2901444766,
+        "tweet_id": 1515169275627122688,
+        "tweet_num": 2,
+        "text": [
+            "Did",
+            "other",
+            "black",
+            "people",
+            "grow",
+            "saying",
+            "people",
+            "long",
+            "hair",
+            "butter"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1,
+            "anticipation": 2,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                0.2857142857142857
+            ]
+        ]
+    },
+    {
+        "user_id": 2901444766,
+        "tweet_id": 1494159108051714052,
+        "tweet_num": 3,
+        "text": [
+            "Ugh",
+            "Jesus",
+            "gross"
+        ],
+        "raw_emotion_scores": {
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "disgust",
+                0.5
+            ]
+        ]
+    }
+]

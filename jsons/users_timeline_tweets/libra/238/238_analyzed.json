@@ -1,0 +1,57 @@
+[
+    {
+        "user_id": 1476058689228398594,
+        "tweet_id": 1521481975831445505,
+        "tweet_num": 1,
+        "text": [
+            "Its",
+            "fault",
+            "someone",
+            "around",
+            "feel",
+            "inadequate",
+            "Live",
+            "your",
+            "life"
+        ],
+        "raw_emotion_scores": {
+            "negative": 2,
+            "sadness": 2
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "sadness",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1476058689228398594,
+        "tweet_id": 1521289739692908545,
+        "tweet_num": 2,
+        "text": [
+            "Lets",
+            "trip",
+            "community",
+            "dck"
+        ],
+        "raw_emotion_scores": {
+            "surprise": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    }
+]

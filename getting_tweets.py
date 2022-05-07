@@ -1,6 +1,5 @@
 import tweepy
-from lib import gemini
-from lib import libra
+from lib import getter
 
 import pandas as pd
 
@@ -18,11 +17,28 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
 
 df = pd.read_csv('accounts.csv')
 
+sign = 'aquarius'
+
+'''
+'libra'
+'gemini'
+'aries'
+'taurus'
+'cancer'
+'leo'
+'virgo'
+'scorpio'
+'sagittarius'	
+'capricorn'
+'aquarius'	
+'pisces'
+'''
+
 
 def main():
 
-    # gemini.main(client, df)
-    libra.main(client, df)
+    getter.main(client, df, sign)
+    # libra.main(client, df)
 
 
 main()

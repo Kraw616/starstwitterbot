@@ -1,0 +1,61 @@
+[
+    {
+        "user_id": 1415802895195324420,
+        "tweet_id": 1454061630380298241,
+        "tweet_num": 1,
+        "text": [
+            "Ive",
+            "unlocked",
+            "Halloween",
+            "Ragdoll",
+            "about",
+            "He",
+            "too",
+            "cute"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1415802895195324420,
+        "tweet_id": 1454061387714551814,
+        "tweet_num": 2,
+        "text": [
+            "Ive",
+            "unlocked",
+            "Halloween",
+            "Pumpkin",
+            "about",
+            "This",
+            "game",
+            "so",
+            "fun"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

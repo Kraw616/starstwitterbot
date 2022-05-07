@@ -1,0 +1,97 @@
+[
+    {
+        "user_id": 1293218451516006400,
+        "tweet_id": 1517258660677832705,
+        "tweet_num": 1,
+        "text": [
+            "q",
+            "castre",
+            "q",
+            "Reneo",
+            "se",
+            "califique",
+            "en",
+            "equipo",
+            "Im",
+            "literally",
+            "gon",
+            "na",
+            "get",
+            "violenttttttt"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1293218451516006400,
+        "tweet_id": 1514127457992916994,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "sunk",
+            "a",
+            "depression",
+            "only",
+            "Hamlet",
+            "could",
+            "recognize"
+        ],
+        "raw_emotion_scores": {
+            "disgust": 1,
+            "fear": 1,
+            "negative": 2,
+            "sadness": 2
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "user_id": 1104837350822211584,
+        "tweet_id": 1507372361749831687,
+        "tweet_num": 1,
+        "text": [
+            "Thats",
+            "the",
+            "vibe"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1104837350822211584,
+        "tweet_id": 1465397321017999360,
+        "tweet_num": 2,
+        "text": [
+            "Yo",
+            "I",
+            "thought",
+            "I",
+            "the",
+            "weird",
+            "one"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "disgust",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

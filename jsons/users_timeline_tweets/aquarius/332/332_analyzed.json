@@ -1,0 +1,56 @@
+[
+    {
+        "user_id": 90232829,
+        "tweet_id": 463597733837025280,
+        "tweet_num": 1,
+        "text": [
+            "What",
+            "the",
+            "problem",
+            "the",
+            "site"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 90232829,
+        "tweet_id": 5744089987,
+        "tweet_num": 2,
+        "text": [
+            "Support",
+            "Arashi",
+            "Fan",
+            "add",
+            "twibbon",
+            "your",
+            "avatar"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

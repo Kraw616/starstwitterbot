@@ -1,0 +1,152 @@
+[
+    {
+        "user_id": 1049283164,
+        "tweet_id": 1325494127518048261,
+        "tweet_num": 1,
+        "text": [
+            "My",
+            "heart",
+            "hurt",
+            "My",
+            "family",
+            "always",
+            "said",
+            "I",
+            "be",
+            "Jeopardy",
+            "This",
+            "truly",
+            "one",
+            "my",
+            "favorite",
+            "game",
+            "show"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1049283164,
+        "tweet_id": 1325252667560456193,
+        "tweet_num": 2,
+        "text": [
+            "Andy",
+            "please",
+            "dont",
+            "judge",
+            "lifted",
+            "truck",
+            "owner",
+            "Lol"
+        ],
+        "raw_emotion_scores": {
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1049283164,
+        "tweet_id": 1287086349284081664,
+        "tweet_num": 3,
+        "text": [
+            "As",
+            "momI",
+            "know",
+            "I",
+            "shouldnt",
+            "laughing",
+            "Im",
+            "cry",
+            "real",
+            "tear",
+            "cause",
+            "thats",
+            "hilarious"
+        ],
+        "raw_emotion_scores": {
+            "joy": 2,
+            "positive": 3,
+            "negative": 1,
+            "sadness": 1,
+            "trust": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1049283164,
+        "tweet_id": 1276882688754900992,
+        "tweet_num": 4,
+        "text": [
+            "Announcement",
+            "via",
+            "wordpressdotcom"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

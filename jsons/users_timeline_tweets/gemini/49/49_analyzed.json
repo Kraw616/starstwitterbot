@@ -1,0 +1,37 @@
+[
+    {
+        "user_id": 1211787689684434944,
+        "tweet_id": 1476210787987300357,
+        "tweet_num": 1,
+        "text": [
+            "happy",
+            "birthday",
+            "the",
+            "love",
+            "my",
+            "life",
+            "I",
+            "LOVE",
+            "YOU",
+            "SO",
+            "MUCH"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "joy": 3,
+            "positive": 3,
+            "trust": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3
+            ],
+            [
+                "joy",
+                0.3
+            ]
+        ]
+    }
+]

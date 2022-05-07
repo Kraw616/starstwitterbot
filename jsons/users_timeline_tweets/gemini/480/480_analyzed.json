@@ -1,0 +1,206 @@
+[
+    {
+        "user_id": 1422767622815244291,
+        "tweet_id": 1521695054632349696,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "sit",
+            "my",
+            "self"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1422767622815244291,
+        "tweet_id": 1515619890077454339,
+        "tweet_num": 2,
+        "text": [
+            "A",
+            "mistake",
+            "repeated",
+            "than",
+            "is",
+            "decision",
+            "Paulo",
+            "Coelho"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "sadness",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1422767622815244291,
+        "tweet_id": 1512277122013794308,
+        "tweet_num": 3,
+        "text": [
+            "We",
+            "cant",
+            "learn",
+            "without",
+            "pain",
+            "Aristotle"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1422767622815244291,
+        "tweet_id": 1499262505759088643,
+        "tweet_num": 4,
+        "text": [
+            "The",
+            "quieter",
+            "become",
+            "more",
+            "hear"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1422767622815244291,
+        "tweet_id": 1427230785199767562,
+        "tweet_num": 5,
+        "text": [
+            "With",
+            "realization",
+            "one",
+            "potential",
+            "selfconfidence",
+            "one",
+            "ability",
+            "one",
+            "build",
+            "better",
+            "world",
+            "Dalai",
+            "Lama"
+        ],
+        "raw_emotion_scores": {
+            "positive": 2
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "user_id": 1423233708606242817,
+        "tweet_id": 1522082413328879618,
+        "tweet_num": 1,
+        "text": [
+            "Be",
+            "real",
+            "me",
+            "be",
+            "gone"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1423233708606242817,
+        "tweet_id": 1521930789168074753,
+        "tweet_num": 2,
+        "text": [
+            "Hey",
+            "I",
+            "wanted",
+            "remind",
+            "that",
+            "God",
+            "got",
+            "youll",
+            "fine"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1423233708606242817,
+        "tweet_id": 1521771557206507523,
+        "tweet_num": 3,
+        "text": [
+            "Im",
+            "difficult",
+            "Im",
+            "about",
+            "minding",
+            "own",
+            "business"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                1.0
+            ]
+        ]
+    }
+]

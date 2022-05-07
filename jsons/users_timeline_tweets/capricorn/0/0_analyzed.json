@@ -1,0 +1,126 @@
+[
+    {
+        "user_id": 783734717740744704,
+        "tweet_id": 1514335064741527562,
+        "tweet_num": 1,
+        "text": [
+            "Why",
+            "student",
+            "to",
+            "correct",
+            "UNM",
+            "administrative",
+            "error",
+            "This",
+            "ridiculous",
+            "Graduates",
+            "not",
+            "delayed",
+            "the",
+            "school",
+            "incompetent"
+        ],
+        "raw_emotion_scores": {
+            "trust": 2,
+            "negative": 4,
+            "sadness": 2,
+            "anger": 2,
+            "disgust": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.36363636363636365
+            ]
+        ]
+    },
+    {
+        "user_id": 783734717740744704,
+        "tweet_id": 1505019065240211462,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "dont",
+            "know",
+            "I",
+            "expected",
+            "follow"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 783734717740744704,
+        "tweet_id": 1500002437955940357,
+        "tweet_num": 3,
+        "text": [
+            "Does",
+            "anyone",
+            "want",
+            "just",
+            "run",
+            "away",
+            "Feels",
+            "like",
+            "escaping",
+            "would",
+            "solve",
+            "my",
+            "problem"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 783734717740744704,
+        "tweet_id": 1496728404187512832,
+        "tweet_num": 4,
+        "text": [
+            "Has",
+            "anxiety",
+            "gotten",
+            "worse",
+            "is",
+            "existing",
+            "actually",
+            "embarrassing"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "fear": 2,
+            "negative": 3,
+            "sadness": 2
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

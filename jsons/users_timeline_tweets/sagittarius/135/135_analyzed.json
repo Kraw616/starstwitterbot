@@ -1,0 +1,121 @@
+[
+    {
+        "user_id": 1119434536746659842,
+        "tweet_id": 1516120897626779652,
+        "tweet_num": 1,
+        "text": [
+            "So",
+            "the",
+            "big",
+            "day",
+            "well",
+            "see",
+            "it",
+            "actually",
+            "happens"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1119434536746659842,
+        "tweet_id": 1510111893414948866,
+        "tweet_num": 2,
+        "text": [
+            "Is",
+            "another",
+            "joke",
+            "If",
+            "announce",
+            "tomorrow",
+            "pls"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "anticipation",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1119434536746659842,
+        "tweet_id": 1496562917805891591,
+        "tweet_num": 3,
+        "text": [
+            "Is",
+            "gap",
+            "trying",
+            "be",
+            "luxury",
+            "brand"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

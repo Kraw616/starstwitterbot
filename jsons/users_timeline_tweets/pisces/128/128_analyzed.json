@@ -1,0 +1,83 @@
+[
+    {
+        "user_id": 1443053720514797568,
+        "tweet_id": 1515425050677108741,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "like",
+            "mmm",
+            "I",
+            "pay",
+            "this",
+            "rent",
+            "chill",
+            "however",
+            "I",
+            "want",
+            "lol",
+            "you",
+            "feel",
+            "uncomfortable",
+            "dont",
+            "come",
+            "unannounced"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ],
+            [
+                "anticipation",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 1443053720514797568,
+        "tweet_id": 1514131559598764034,
+        "tweet_num": 2,
+        "text": [
+            "miss",
+            "a",
+            "late",
+            "night",
+            "sneaky",
+            "link"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "sadness",
+                0.5
+            ]
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "user_id": 881114033352359936,
+        "tweet_id": 1505861891557494785,
+        "tweet_num": 1,
+        "text": [
+            "an",
+            "air",
+            "sign",
+            "also",
+            "got",
+            "cup",
+            "my",
+            "weekly",
+            "reading"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 881114033352359936,
+        "tweet_id": 1502612705999753216,
+        "tweet_num": 2,
+        "text": [
+            "look",
+            "the",
+            "row",
+            "you",
+            "see"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.5
+            ],
+            [
+                "negative",
+                0.5
+            ]
+        ]
+    }
+]

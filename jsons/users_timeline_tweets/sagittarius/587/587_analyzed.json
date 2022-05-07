@@ -1,0 +1,78 @@
+[
+    {
+        "user_id": 1267184208319066112,
+        "tweet_id": 1519680837859647489,
+        "tweet_num": 1,
+        "text": [
+            "Less",
+            "feeling",
+            "money"
+        ],
+        "raw_emotion_scores": {
+            "anger": 2,
+            "anticipation": 2,
+            "disgust": 1,
+            "fear": 1,
+            "joy": 2,
+            "negative": 1,
+            "positive": 2,
+            "sadness": 1,
+            "surprise": 2,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.125
+            ],
+            [
+                "trust",
+                0.125
+            ],
+            [
+                "surprise",
+                0.125
+            ],
+            [
+                "positive",
+                0.125
+            ],
+            [
+                "joy",
+                0.125
+            ],
+            [
+                "anticipation",
+                0.125
+            ]
+        ]
+    },
+    {
+        "user_id": 1267184208319066112,
+        "tweet_id": 1518620332990599168,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "accept",
+            "flaw",
+            "I",
+            "dont",
+            "accept",
+            "lie",
+            "disloyal",
+            "shit"
+        ],
+        "raw_emotion_scores": {
+            "negative": 3,
+            "sadness": 2,
+            "anger": 2,
+            "disgust": 2
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

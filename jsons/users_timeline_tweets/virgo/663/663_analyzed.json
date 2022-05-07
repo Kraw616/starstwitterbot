@@ -1,0 +1,92 @@
+[
+    {
+        "user_id": 1520815453932822529,
+        "tweet_id": 1520826284854685696,
+        "tweet_num": 1,
+        "text": [
+            "Your",
+            "trigger",
+            "your",
+            "problem",
+            "Dont",
+            "expect",
+            "rest",
+            "the",
+            "world",
+            "tip",
+            "toe",
+            "around"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "anticipation": 1,
+            "positive": 2,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1520815453932822529,
+        "tweet_id": 1520819785071792128,
+        "tweet_num": 2,
+        "text": [
+            "Happy",
+            "Beltane",
+            "those",
+            "the",
+            "Northern",
+            "Hemisphere"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

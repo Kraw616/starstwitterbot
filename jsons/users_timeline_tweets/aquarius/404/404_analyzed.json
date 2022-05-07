@@ -1,0 +1,45 @@
+[
+    {
+        "user_id": 1393232092293566467,
+        "tweet_id": 1482608595418382339,
+        "tweet_num": 1,
+        "text": [
+            "couldnt",
+            "agree",
+            "XD"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1393232092293566467,
+        "tweet_id": 1481552765520613378,
+        "tweet_num": 2,
+        "text": [
+            "agreed",
+            "though",
+            "XD"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    }
+]

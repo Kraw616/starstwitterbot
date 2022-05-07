@@ -1,0 +1,173 @@
+[
+    {
+        "user_id": 1323741161215983619,
+        "tweet_id": 1506751781577109510,
+        "tweet_num": 1,
+        "text": [
+            "For",
+            "record",
+            "cowboy4lifex",
+            "I",
+            "actually",
+            "made",
+            "bill",
+            "a",
+            "tip",
+            "today",
+            "serving"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1323741161215983619,
+        "tweet_id": 1490822435628744711,
+        "tweet_num": 2,
+        "text": [
+            "Sooo",
+            "somewhere",
+            "there",
+            "people",
+            "eating",
+            "McSpaghetti",
+            "they",
+            "sell",
+            "chicken",
+            "wing"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1323741161215983619,
+        "tweet_id": 1489240298169507840,
+        "tweet_num": 3,
+        "text": [
+            "YouAreNotHighClassIf",
+            "come",
+            "a",
+            "restaurant",
+            "your",
+            "designer",
+            "bag",
+            "clothes",
+            "order",
+            "expensive",
+            "wine",
+            "tip",
+            "server",
+            "like",
+            "dont",
+            "make",
+            "buck",
+            "hour",
+            "just",
+            "waited",
+            "you",
+            "hand",
+            "foot"
+        ],
+        "raw_emotion_scores": {
+            "positive": 2,
+            "fear": 1,
+            "negative": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.4
+            ]
+        ]
+    },
+    {
+        "user_id": 1323741161215983619,
+        "tweet_id": 1355631997574668289,
+        "tweet_num": 4,
+        "text": [
+            "Please",
+            "vote",
+            "Wolf",
+            "Conservation",
+            "Center",
+            "share",
+            "grant"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 3,
+            "joy": 3,
+            "negative": 1,
+            "positive": 3,
+            "sadness": 1,
+            "surprise": 1,
+            "trust": 3
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.1875
+            ],
+            [
+                "positive",
+                0.1875
+            ],
+            [
+                "joy",
+                0.1875
+            ],
+            [
+                "anticipation",
+                0.1875
+            ]
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "user_id": 1022692738544807936,
+        "tweet_id": 1517748803012415489,
+        "tweet_num": 1,
+        "text": [
+            "This",
+            "my",
+            "favorite",
+            "song"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1022692738544807936,
+        "tweet_id": 1515101781059022848,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "love",
+            "pink",
+            "lemonade",
+            "fresh",
+            "mint",
+            "lemon",
+            "piece",
+            "it"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "disgust",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1022692738544807936,
+        "tweet_id": 1515101667947024386,
+        "tweet_num": 3,
+        "text": [
+            "Bitch",
+            "Im",
+            "crazy"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ]
+        ]
+    }
+]

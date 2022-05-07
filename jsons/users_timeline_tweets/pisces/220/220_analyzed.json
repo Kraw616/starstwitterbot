@@ -1,0 +1,133 @@
+[
+    {
+        "user_id": 63905314,
+        "tweet_id": 1288098839052857349,
+        "tweet_num": 1,
+        "text": [
+            "Mayor",
+            "Jacob",
+            "Frey",
+            "Justice",
+            "George",
+            "Floyd",
+            "Sign",
+            "Petition",
+            "via",
+            "Change"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 63905314,
+        "tweet_id": 1270152763725557763,
+        "tweet_num": 2,
+        "text": [
+            "Department",
+            "Homeland",
+            "Security",
+            "Declare",
+            "KKK",
+            "terrorist",
+            "organization",
+            "Sign",
+            "Petition",
+            "via",
+            "Change"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "surprise": 2,
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.18181818181818182
+            ]
+        ]
+    },
+    {
+        "user_id": 63905314,
+        "tweet_id": 1270152688219688960,
+        "tweet_num": 3,
+        "text": [
+            "Julius",
+            "Jones",
+            "innocent",
+            "Dont",
+            "let",
+            "be",
+            "executed",
+            "state",
+            "Oklahoma",
+            "Sign",
+            "the",
+            "Petition",
+            "via",
+            "Change"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    }
+]

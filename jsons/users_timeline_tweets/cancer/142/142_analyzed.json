@@ -1,0 +1,68 @@
+[
+    {
+        "user_id": 1425605487207321606,
+        "tweet_id": 1521615401498685444,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "wan",
+            "na",
+            "them"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1425605487207321606,
+        "tweet_id": 1518853405204262912,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "deserve",
+            "be",
+            "treated",
+            "like"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "user_id": 298870841,
+        "tweet_id": 1514324936017559558,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "love",
+            "see"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 298870841,
+        "tweet_id": 1505849838033850372,
+        "tweet_num": 2,
+        "text": [
+            "Rich",
+            "rising",
+            "beloved"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

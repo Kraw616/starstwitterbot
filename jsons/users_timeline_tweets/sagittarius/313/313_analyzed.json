@@ -1,0 +1,70 @@
+[
+    {
+        "user_id": 1479994496213467138,
+        "tweet_id": 1501217105542369287,
+        "tweet_num": 1,
+        "text": [
+            "All",
+            "shit",
+            "desensitizing",
+            "dehumanizingwe",
+            "got",
+            "ta",
+            "stop",
+            "playing",
+            "fuck",
+            "outchea",
+            "fr",
+            "Im",
+            "tho",
+            "Yall",
+            "take",
+            "care"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "disgust",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1479994496213467138,
+        "tweet_id": 1498568606732455937,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "swear",
+            "ok",
+            "stfu",
+            "sometimes"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    }
+]

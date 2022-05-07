@@ -1,0 +1,122 @@
+[
+    {
+        "user_id": 1500988081352151043,
+        "tweet_id": 1521298883414044672,
+        "tweet_num": 1,
+        "text": [
+            "Honestly",
+            "sad",
+            "value",
+            "physical",
+            "health",
+            "mental",
+            "like",
+            "they",
+            "dont",
+            "go",
+            "hand",
+            "hand"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1500988081352151043,
+        "tweet_id": 1518592103407833089,
+        "tweet_num": 2,
+        "text": [
+            "The",
+            "hard",
+            "truth",
+            "that",
+            "dont",
+            "deserve",
+            "and",
+            "deserve",
+            "better"
+        ],
+        "raw_emotion_scores": {
+            "positive": 3,
+            "trust": 3,
+            "anger": 2,
+            "anticipation": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3
+            ],
+            [
+                "positive",
+                0.3
+            ]
+        ]
+    },
+    {
+        "user_id": 1500988081352151043,
+        "tweet_id": 1502627422830739459,
+        "tweet_num": 3,
+        "text": [
+            "There",
+            "never",
+            "song",
+            "didnt",
+            "hit"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.5
+            ],
+            [
+                "negative",
+                0.5
+            ]
+        ]
+    }
+]

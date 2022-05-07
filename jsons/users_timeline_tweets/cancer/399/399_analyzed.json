@@ -1,0 +1,52 @@
+[
+    {
+        "user_id": 1425702906720882689,
+        "tweet_id": 1520772345065099266,
+        "tweet_num": 1,
+        "text": [
+            "Covid",
+            "suck",
+            "That",
+            "all"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1425702906720882689,
+        "tweet_id": 1519085476853866496,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "wish",
+            "Twitter",
+            "a",
+            "laughing",
+            "emoji",
+            "How",
+            "it",
+            "elonmusk"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    }
+]

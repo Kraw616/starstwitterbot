@@ -1,0 +1,198 @@
+[
+    {
+        "user_id": 1246437409128173568,
+        "tweet_id": 1515886282949468161,
+        "tweet_num": 1,
+        "text": [
+            "lol",
+            "stay",
+            "my",
+            "way"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1246437409128173568,
+        "tweet_id": 1512753927560830976,
+        "tweet_num": 2,
+        "text": [
+            "aston",
+            "martin",
+            "music",
+            "pls",
+            "nd",
+            "thank"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1246437409128173568,
+        "tweet_id": 1508586318737154050,
+        "tweet_num": 3,
+        "text": [
+            "ummmmm",
+            "whats",
+            "point",
+            "known",
+            "amp",
+            "unknown",
+            "sender",
+            "section",
+            "imessage",
+            "it",
+            "gon",
+            "na",
+            "separate",
+            "the",
+            "saved",
+            "number",
+            "the",
+            "unsaved"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "fear": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1246437409128173568,
+        "tweet_id": 1498142830111465473,
+        "tweet_num": 4,
+        "text": [
+            "good",
+            "girl",
+            "make",
+            "bad",
+            "decision"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.1
+            ],
+            [
+                "anger",
+                0.1
+            ],
+            [
+                "trust",
+                0.1
+            ],
+            [
+                "surprise",
+                0.1
+            ],
+            [
+                "positive",
+                0.1
+            ],
+            [
+                "negative",
+                0.1
+            ],
+            [
+                "sadness",
+                0.1
+            ],
+            [
+                "disgust",
+                0.1
+            ],
+            [
+                "joy",
+                0.1
+            ],
+            [
+                "anticipation",
+                0.1
+            ]
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "user_id": 1191015939535446019,
+        "tweet_id": 1519369608188284932,
+        "tweet_num": 1,
+        "text": [
+            "follower",
+            "thank",
+            "all"
+        ],
+        "raw_emotion_scores": {
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1191015939535446019,
+        "tweet_id": 1514068885959589889,
+        "tweet_num": 2,
+        "text": [
+            "Happy",
+            "birthday",
+            "me"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

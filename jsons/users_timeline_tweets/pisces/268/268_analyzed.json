@@ -1,0 +1,123 @@
+[
+    {
+        "user_id": 1121252096920047616,
+        "tweet_id": 1521694961187495936,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "saw",
+            "commercial",
+            "said",
+            "Jesus",
+            "felt",
+            "alone",
+            "he",
+            "get",
+            "u",
+            "And",
+            "really",
+            "spoke",
+            "me"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1121252096920047616,
+        "tweet_id": 1517595144567988224,
+        "tweet_num": 2,
+        "text": [
+            "My",
+            "diet",
+            "start",
+            "tomorrow"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1121252096920047616,
+        "tweet_id": 1517036368806875137,
+        "tweet_num": 3,
+        "text": [
+            "She",
+            "role",
+            "model"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1121252096920047616,
+        "tweet_id": 1517036274615341059,
+        "tweet_num": 4,
+        "text": [
+            "This",
+            "p"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

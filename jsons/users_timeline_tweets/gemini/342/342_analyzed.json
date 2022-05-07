@@ -1,0 +1,107 @@
+[
+    {
+        "user_id": 4830127792,
+        "tweet_id": 1521013759883591680,
+        "tweet_num": 1,
+        "text": [
+            "feminine",
+            "urge",
+            "never",
+            "talk",
+            "a",
+            "boy",
+            "ever"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "disgust",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 4830127792,
+        "tweet_id": 1521010432928059393,
+        "tweet_num": 2,
+        "text": [
+            "im",
+            "the",
+            "point",
+            "someone",
+            "give",
+            "a",
+            "long",
+            "hug",
+            "id",
+            "probably",
+            "start",
+            "cry",
+            "there",
+            "arm"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                0.2857142857142857
+            ]
+        ]
+    },
+    {
+        "user_id": 4830127792,
+        "tweet_id": 1517613637501734912,
+        "tweet_num": 3,
+        "text": [
+            "cancer"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    }
+]

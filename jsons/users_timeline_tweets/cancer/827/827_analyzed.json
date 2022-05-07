@@ -1,0 +1,116 @@
+[
+    {
+        "user_id": 2168968094,
+        "tweet_id": 1041256631085002752,
+        "tweet_num": 1,
+        "text": [
+            "Eliud",
+            "Kipchoge",
+            "done",
+            "Anazing"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 2168968094,
+        "tweet_id": 638650245736370177,
+        "tweet_num": 2,
+        "text": [
+            "Hi",
+            "everyone",
+            "I",
+            "not",
+            "involved",
+            "the",
+            "espursbarbados",
+            "account",
+            "a",
+            "week"
+        ],
+        "raw_emotion_scores": {
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 2168968094,
+        "tweet_id": 406743909159550978,
+        "tweet_num": 3,
+        "text": [
+            "Happy",
+            "birthday",
+            "Gary"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "user_id": 1948717898,
+        "tweet_id": 1506637265933864962,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "need",
+            "find",
+            "self",
+            "happy",
+            "self"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1948717898,
+        "tweet_id": 1506636574020489227,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "want",
+            "leave",
+            "somewhere",
+            "a",
+            "month",
+            "Pulau",
+            "Redang",
+            "maybe"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1948717898,
+        "tweet_id": 1506635946028339201,
+        "tweet_num": 3,
+        "text": [
+            "im",
+            "feeling",
+            "lost"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "disgust": 1,
+            "fear": 1,
+            "joy": 1,
+            "negative": 2,
+            "positive": 1,
+            "sadness": 2,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.16666666666666666
+            ],
+            [
+                "sadness",
+                0.16666666666666666
+            ]
+        ]
+    },
+    {
+        "user_id": 1948717898,
+        "tweet_id": 1473285881247064064,
+        "tweet_num": 4,
+        "text": [
+            "Jom",
+            "la",
+            "main",
+            "candy",
+            "crush",
+            "skjap",
+            "Swipe",
+            "stress",
+            "awayy",
+            "kata",
+            "candycrush"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "negative",
+                0.5
+            ]
+        ]
+    }
+]

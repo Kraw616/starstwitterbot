@@ -1,0 +1,101 @@
+[
+    {
+        "user_id": 1416684233259569153,
+        "tweet_id": 1520775650776207361,
+        "tweet_num": 1,
+        "text": [
+            "Dark",
+            "leaf",
+            "head",
+            "buzz"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "fear": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1416684233259569153,
+        "tweet_id": 1518235373184630785,
+        "tweet_num": 2,
+        "text": [
+            "No",
+            "attachment"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1416684233259569153,
+        "tweet_id": 1514970255495692290,
+        "tweet_num": 3,
+        "text": [
+            "seamless"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

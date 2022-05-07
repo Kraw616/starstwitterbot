@@ -1,0 +1,107 @@
+[
+    {
+        "user_id": 1329143104071340032,
+        "tweet_id": 1520964867846381568,
+        "tweet_num": 1,
+        "text": [
+            "get",
+            "damn",
+            "happy",
+            "proud",
+            "my",
+            "friend",
+            "accomplish",
+            "goal",
+            "bruh"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "negative": 1,
+            "anticipation": 2,
+            "joy": 4,
+            "positive": 4,
+            "trust": 3
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1329143104071340032,
+        "tweet_id": 1520964737109872640,
+        "tweet_num": 2,
+        "text": [
+            "photo",
+            "booth",
+            "pic",
+            "adorable",
+            "bruh"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1329143104071340032,
+        "tweet_id": 1520964681023688704,
+        "tweet_num": 3,
+        "text": [
+            "the",
+            "people",
+            "came",
+            "me",
+            "the",
+            "last",
+            "month",
+            "tried",
+            "make",
+            "sure",
+            "wa",
+            "okay",
+            "happy"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

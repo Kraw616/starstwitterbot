@@ -1,0 +1,165 @@
+[
+    {
+        "user_id": 1303249778894012416,
+        "tweet_id": 1521310558619799554,
+        "tweet_num": 1,
+        "text": [
+            "Classic"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1303249778894012416,
+        "tweet_id": 1520874500606205952,
+        "tweet_num": 2,
+        "text": [
+            "Hopefully",
+            "there",
+            "reversal",
+            "the",
+            "US",
+            "Fed",
+            "meeting"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "negative": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "disgust",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1303249778894012416,
+        "tweet_id": 1520551707284938752,
+        "tweet_num": 3,
+        "text": [
+            "I",
+            "got",
+            "back",
+            "vacation",
+            "I",
+            "need",
+            "another",
+            "one",
+            "lol"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1303249778894012416,
+        "tweet_id": 1519428915885797376,
+        "tweet_num": 4,
+        "text": [
+            "everyone",
+            "got",
+            "as",
+            "shit",
+            "dont",
+            "even",
+            "impress",
+            "lol"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "negative": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "disgust",
+                0.25
+            ]
+        ]
+    }
+]

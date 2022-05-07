@@ -1,0 +1,48 @@
+[
+    {
+        "user_id": 1356154042569936897,
+        "tweet_id": 1519768423072477185,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "hate",
+            "for",
+            "and",
+            "I",
+            "miss",
+            "you",
+            "like",
+            "little",
+            "kid"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    }
+]

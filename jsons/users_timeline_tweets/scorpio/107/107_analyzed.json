@@ -1,0 +1,130 @@
+[
+    {
+        "user_id": 384189105,
+        "tweet_id": 1370820280096985091,
+        "tweet_num": 1,
+        "text": [
+            "Im",
+            "sure",
+            "Nothing",
+            "wrong",
+            "be",
+            "done",
+            "a",
+            "person",
+            "is",
+            "innocent",
+            "ZomatoDeliveryGuy"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 384189105,
+        "tweet_id": 1326178057179164672,
+        "tweet_num": 2,
+        "text": [
+            "Pls",
+            "help",
+            "u",
+            "arranging",
+            "plasma",
+            "donor",
+            "a",
+            "B",
+            "blood",
+            "group",
+            "Weve",
+            "contacting",
+            "plasma",
+            "bank",
+            "No",
+            "response",
+            "ArvindKejriwal",
+            "MoHFW_INDIA",
+            "SatyendarJain"
+        ],
+        "raw_emotion_scores": {
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 384189105,
+        "tweet_id": 1243934808452915206,
+        "tweet_num": 3,
+        "text": [
+            "I",
+            "hope",
+            "fight",
+            "together",
+            "Covid19"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1,
+            "anger": 1,
+            "fear": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.125
+            ],
+            [
+                "anger",
+                0.125
+            ],
+            [
+                "trust",
+                0.125
+            ],
+            [
+                "surprise",
+                0.125
+            ],
+            [
+                "positive",
+                0.125
+            ],
+            [
+                "negative",
+                0.125
+            ],
+            [
+                "joy",
+                0.125
+            ],
+            [
+                "anticipation",
+                0.125
+            ]
+        ]
+    }
+]

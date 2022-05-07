@@ -116,7 +116,7 @@ def emotional_analysis(file_path):  # File path to pre_processed './jsons/users_
 
     file_path_out = re.sub("_preprocessed.json", "", file_path)
 
-    with open(file_path_out+'_analyzed.json','w+', encoding='utf-8') as j:
+    with open(file_path_out+'_analyzed.json', 'w+', encoding='utf-8') as j:
         json.dump(results, j, indent=4)
 
 
@@ -181,7 +181,7 @@ def user_average_emotion(file_path):
         print(result)'''
         
 
-def average_emotion_of_sign(filepath):
+def average_emotion_of_sign(filepath, sign):
 
     results = []
 
@@ -246,28 +246,45 @@ def average_emotion_of_sign(filepath):
     results.append({'num_files': number_files})
     results.append({'num_tweets': number_tweets})
 
-    output_filepath = "./jsons/grand_total_libra"
+    output_filepath = "./jsons/grand_totals/"
 
     # TO JSON
-    with open(output_filepath+"/"+"libra_grand_average.json", 'w+') as f:
+    with open(output_filepath+"/"+sign+"_grand_average.json", 'w+') as f:
         json.dump(results, f, indent=4)
 
 
 def main():
 
-    filepath = "./jsons/users_timeline_tweets"
+    sign = 'pisces'
 
-    #for directory in os.listdir(filepath):
-        #if directory != ".DS_Store":
-            #filepath = "./jsons/users_timeline_tweets/"+directory+"/"+directory+".json"
+    '''
+    'libra'
+    'gemini'
+    'aries'
+    'taurus'
+    'cancer'
+    'leo'
+    'virgo'
+    'scorpio'
+    'sagittarius'	
+    'capricorn'
+    'aquarius'	
+    'pisces'
+    '''
 
-            #pre_process(filepath)
+    filepath = "./jsons/users_timeline_tweets/"+sign
 
-            #emotional_analysis("./jsons/users_timeline_tweets/"+directory+"/"+directory+"_preprocessed.json")
+    for directory in os.listdir(filepath):
+        if directory != ".DS_Store":
+            filepath = "./jsons/users_timeline_tweets/"+sign+'/'+directory+"/"+directory+".json"
 
-            #user_average_emotion("./jsons/users_timeline_tweets/"+directory+"/"+directory+"_analyzed.json")
+            pre_process(filepath)
 
-    average_emotion_of_sign("./jsons/users_timeline_tweets")
+            emotional_analysis("./jsons/users_timeline_tweets/"+sign+'/'+directory+"/"+directory+"_preprocessed.json")
+
+            user_average_emotion("./jsons/users_timeline_tweets/"+sign+'/'+directory+"/"+directory+"_analyzed.json")
+
+    average_emotion_of_sign("./jsons/users_timeline_tweets/"+sign, sign)
     #average_emotion_of_sign("/Users/jacobkrawitz/Documents/GitHub/starstwitterbot/jsons/backup")
 
 

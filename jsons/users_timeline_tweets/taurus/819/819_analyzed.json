@@ -1,0 +1,77 @@
+[
+    {
+        "user_id": 1470111745331109902,
+        "tweet_id": 1518973873001222145,
+        "tweet_num": 1,
+        "text": [
+            "Live",
+            "that",
+            "I",
+            "guess"
+        ],
+        "raw_emotion_scores": {
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1470111745331109902,
+        "tweet_id": 1518973076666568709,
+        "tweet_num": 2,
+        "text": [
+            "This",
+            "so",
+            "awesome",
+            "Id",
+            "love",
+            "have",
+            "one",
+            "the",
+            "RVs"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1470111745331109902,
+        "tweet_id": 1470118215179247617,
+        "tweet_num": 3,
+        "text": [
+            "Drogo",
+            "an",
+            "lb",
+            "baby"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    }
+]

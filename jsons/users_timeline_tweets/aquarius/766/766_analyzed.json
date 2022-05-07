@@ -1,0 +1,72 @@
+[
+    {
+        "user_id": 1415385455957315586,
+        "tweet_id": 1521093839901102082,
+        "tweet_num": 1,
+        "text": [
+            "high",
+            "school",
+            "sweetheart",
+            "my",
+            "birth",
+            "name",
+            "fire",
+            "drill",
+            "my",
+            "preferred",
+            "name"
+        ],
+        "raw_emotion_scores": {
+            "trust": 3,
+            "anticipation": 2,
+            "joy": 2,
+            "positive": 2,
+            "sadness": 1,
+            "fear": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1415385455957315586,
+        "tweet_id": 1521091021899288578,
+        "tweet_num": 2,
+        "text": [
+            "hell",
+            "yeah"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    }
+]

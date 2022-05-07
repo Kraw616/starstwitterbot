@@ -1,0 +1,36 @@
+[
+    {
+        "user_id": 1237705084093566976,
+        "tweet_id": 1278400220813037568,
+        "tweet_num": 1,
+        "text": [
+            "Oh",
+            "god",
+            "Im",
+            "okay",
+            "Please",
+            "save"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "fear": 1,
+            "joy": 2,
+            "positive": 2,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ]
+        ]
+    }
+]
