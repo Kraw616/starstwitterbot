@@ -1,0 +1,86 @@
+[
+    {
+        "user_id": 2155559636,
+        "tweet_id": 1451578366310723596,
+        "tweet_num": 1,
+        "text": [
+            "You",
+            "know",
+            "corona",
+            "back"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 2155559636,
+        "tweet_id": 1190413910685433856,
+        "tweet_num": 2,
+        "text": [
+            "Ou",
+            "shit",
+            "we",
+            "go"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "disgust",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

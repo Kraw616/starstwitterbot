@@ -1,0 +1,110 @@
+[
+    {
+        "user_id": 1507479399788314627,
+        "tweet_id": 1507848222362181632,
+        "tweet_num": 1,
+        "text": [
+            "Its",
+            "road",
+            "yours",
+            "alone",
+            "Others",
+            "may",
+            "walk",
+            "with",
+            "but",
+            "noone",
+            "walk",
+            "for",
+            "life",
+            "quote",
+            "SundayMorning",
+            "alone"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "negative": 1,
+            "positive": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1507479399788314627,
+        "tweet_id": 1507845226773487624,
+        "tweet_num": 2,
+        "text": [
+            "Just",
+            "moving",
+            "forward"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1507479399788314627,
+        "tweet_id": 1507487120210161669,
+        "tweet_num": 3,
+        "text": [
+            "You",
+            "still",
+            "breathing",
+            "Its",
+            "good",
+            "sign"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.2
+            ],
+            [
+                "surprise",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ],
+            [
+                "anticipation",
+                0.2
+            ]
+        ]
+    }
+]

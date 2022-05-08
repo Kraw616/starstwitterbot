@@ -1,0 +1,62 @@
+[
+    {
+        "user_id": 3224580084,
+        "tweet_id": 1520908210172928000,
+        "tweet_num": 1,
+        "text": [
+            "tired",
+            "being",
+            "bigger",
+            "person"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 3224580084,
+        "tweet_id": 1504276282346934273,
+        "tweet_num": 2,
+        "text": [
+            "people",
+            "come",
+            "me",
+            "which",
+            "shoe",
+            "should",
+            "get",
+            "chef",
+            "kiss"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

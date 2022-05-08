@@ -1,0 +1,72 @@
+[
+    {
+        "user_id": 1155335385536442368,
+        "tweet_id": 1508283082889117697,
+        "tweet_num": 1,
+        "text": [
+            "megan",
+            "we",
+            "dont",
+            "talk",
+            "bruno",
+            "hello"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1155335385536442368,
+        "tweet_id": 1498132830743937026,
+        "tweet_num": 2,
+        "text": [
+            "hope",
+            "sam",
+            "levinsons",
+            "pillow",
+            "warm",
+            "tonight"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 2,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1155335385536442368,
+        "tweet_id": 1498123232494424069,
+        "tweet_num": 3,
+        "text": [
+            "cassie",
+            "hive",
+            "hows",
+            "feel",
+            "be",
+            "stupid"
+        ],
+        "raw_emotion_scores": {
+            "negative": 2
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    }
+]

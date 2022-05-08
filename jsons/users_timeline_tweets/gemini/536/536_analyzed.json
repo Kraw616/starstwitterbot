@@ -1,0 +1,51 @@
+[
+    {
+        "user_id": 1158475859650580480,
+        "tweet_id": 1495562026562826240,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "no",
+            "social",
+            "life",
+            "atm",
+            "I",
+            "literally",
+            "work",
+            "stay",
+            "home",
+            "I",
+            "hate",
+            "for"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    }
+]

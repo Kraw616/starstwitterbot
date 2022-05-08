@@ -1,0 +1,82 @@
+[
+    {
+        "user_id": 79842976,
+        "tweet_id": 488319898268217344,
+        "tweet_num": 1,
+        "text": [
+            "You",
+            "might",
+            "guess",
+            "inside",
+            "shes",
+            "laughing",
+            "amp",
+            "cry",
+            "the",
+            "strange",
+            "way",
+            "the",
+            "world",
+            "shell"
+        ],
+        "raw_emotion_scores": {
+            "surprise": 2,
+            "joy": 1,
+            "positive": 1,
+            "negative": 2,
+            "sadness": 2,
+            "anger": 1,
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 79842976,
+        "tweet_id": 478163509885550593,
+        "tweet_num": 2,
+        "text": [
+            "We",
+            "must",
+            "allow",
+            "people",
+            "limited",
+            "perception",
+            "define",
+            "u",
+            "Virginia",
+            "Satir"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

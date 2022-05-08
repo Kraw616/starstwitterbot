@@ -1,0 +1,230 @@
+[
+    {
+        "user_id": 1384600880050184194,
+        "tweet_id": 1517358472941109248,
+        "tweet_num": 1,
+        "text": [
+            "something",
+            "wanted",
+            "feel"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1384600880050184194,
+        "tweet_id": 1517156546727219203,
+        "tweet_num": 2,
+        "text": [
+            "gon",
+            "na",
+            "trust"
+        ],
+        "raw_emotion_scores": {
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1384600880050184194,
+        "tweet_id": 1511771646775889920,
+        "tweet_num": 3,
+        "text": [
+            "fr",
+            "accurate"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1384600880050184194,
+        "tweet_id": 1510873568032137218,
+        "tweet_num": 4,
+        "text": [
+            "Please",
+            "im",
+            "done",
+            "love",
+            "i",
+            "gave",
+            "permission",
+            "slap",
+            "in",
+            "the",
+            "face",
+            "you",
+            "see",
+            "getting",
+            "butterfly",
+            "someone",
+            "red",
+            "flag"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 2,
+            "anger": 1,
+            "negative": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1384600880050184194,
+        "tweet_id": 1510306506960359426,
+        "tweet_num": 5,
+        "text": [
+            "LMFAO"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1384600880050184194,
+        "tweet_id": 1488185493493669890,
+        "tweet_num": 6,
+        "text": [
+            "I",
+            "thought",
+            "would",
+            "the",
+            "best",
+            "year",
+            "the",
+            "end",
+            "January",
+            "the",
+            "beginning",
+            "the",
+            "pain"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

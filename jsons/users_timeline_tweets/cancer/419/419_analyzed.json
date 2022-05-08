@@ -1,0 +1,125 @@
+[
+    {
+        "user_id": 1013878570429632512,
+        "tweet_id": 1477843513521983492,
+        "tweet_num": 1,
+        "text": [
+            "happy",
+            "birthday",
+            "love"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "joy": 3,
+            "positive": 3,
+            "trust": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3
+            ],
+            [
+                "joy",
+                0.3
+            ]
+        ]
+    },
+    {
+        "user_id": 1013878570429632512,
+        "tweet_id": 1475651387086233604,
+        "tweet_num": 2,
+        "text": [
+            "excited",
+            "my",
+            "first",
+            "tattoo"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.2
+            ],
+            [
+                "surprise",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ],
+            [
+                "anticipation",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 1013878570429632512,
+        "tweet_id": 1475558730431410179,
+        "tweet_num": 3,
+        "text": [
+            "Lord",
+            "know",
+            "need",
+            "the",
+            "strength",
+            "can",
+            "get",
+            "next",
+            "month"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1013878570429632512,
+        "tweet_id": 1472076846384566273,
+        "tweet_num": 4,
+        "text": [
+            "love",
+            "enough",
+            "the",
+            "of",
+            "u"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    }
+]

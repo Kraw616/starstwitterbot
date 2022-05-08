@@ -1,0 +1,41 @@
+[
+    {
+        "user_id": 1214395400347627520,
+        "tweet_id": 1402550183502782466,
+        "tweet_num": 1,
+        "text": [
+            "And",
+            "I",
+            "wan",
+            "na",
+            "say",
+            "thank",
+            "incase",
+            "I",
+            "dont",
+            "say",
+            "enough"
+        ],
+        "raw_emotion_scores": {
+            "fear": 2,
+            "negative": 2,
+            "sadness": 2,
+            "anger": 1,
+            "disgust": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ]
+        ]
+    }
+]

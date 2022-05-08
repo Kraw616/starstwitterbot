@@ -1,0 +1,96 @@
+[
+    {
+        "user_id": 1399907462799577088,
+        "tweet_id": 1514081671762649102,
+        "tweet_num": 1,
+        "text": [
+            "Some",
+            "day",
+            "music",
+            "I",
+            "liked",
+            "Spotify",
+            "make",
+            "my",
+            "ear",
+            "bleed",
+            "then",
+            "there",
+            "day",
+            "like",
+            "today",
+            "not",
+            "one",
+            "song",
+            "miss",
+            "beat",
+            "music",
+            "banger"
+        ],
+        "raw_emotion_scores": {
+            "joy": 2,
+            "positive": 2,
+            "sadness": 2,
+            "anger": 1,
+            "anticipation": 1,
+            "fear": 1,
+            "negative": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.18181818181818182
+            ],
+            [
+                "sadness",
+                0.18181818181818182
+            ],
+            [
+                "joy",
+                0.18181818181818182
+            ]
+        ]
+    },
+    {
+        "user_id": 1399907462799577088,
+        "tweet_id": 1513755700652122116,
+        "tweet_num": 2,
+        "text": [
+            "Sometimes",
+            "I",
+            "feel",
+            "like",
+            "Im",
+            "problem",
+            "I",
+            "remember",
+            "I",
+            "an",
+            "Aries",
+            "that",
+            "everyone",
+            "else",
+            "AriesSZN"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

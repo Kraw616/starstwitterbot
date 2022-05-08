@@ -1,0 +1,82 @@
+[
+    {
+        "user_id": 1426546182151671819,
+        "tweet_id": 1516186123143372812,
+        "tweet_num": 1,
+        "text": [
+            "That",
+            "shit",
+            "the",
+            "worse"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "negative": 2,
+            "fear": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1426546182151671819,
+        "tweet_id": 1514680448047276035,
+        "tweet_num": 2,
+        "text": [
+            "Buddy",
+            "would",
+            "probably",
+            "headbutt",
+            "tf",
+            "outta"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

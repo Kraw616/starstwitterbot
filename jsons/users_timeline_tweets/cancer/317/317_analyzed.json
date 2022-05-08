@@ -1,0 +1,37 @@
+[
+    {
+        "user_id": 955327900781301760,
+        "tweet_id": 1493048012930785281,
+        "tweet_num": 1,
+        "text": [
+            "Not",
+            "Joey",
+            "B",
+            "hurt"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ]
+        ]
+    }
+]

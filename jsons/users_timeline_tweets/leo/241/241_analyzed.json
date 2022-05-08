@@ -1,0 +1,89 @@
+[
+    {
+        "user_id": 966021523667644417,
+        "tweet_id": 1521904598390386694,
+        "tweet_num": 1,
+        "text": [
+            "Frame",
+            "Reference",
+            "matter"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 966021523667644417,
+        "tweet_id": 1519758000558333952,
+        "tweet_num": 2,
+        "text": [
+            "Moon",
+            "morning",
+            "star"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "user_id": 2337156452,
+        "tweet_id": 1513343491757293570,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "really",
+            "need",
+            "go",
+            "try",
+            "cooky",
+            "Maybe",
+            "I",
+            "put",
+            "on",
+            "to",
+            "list",
+            "week",
+            "After",
+            "it",
+            "my",
+            "birthday"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

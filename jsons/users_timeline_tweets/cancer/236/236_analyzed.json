@@ -1,0 +1,80 @@
+[
+    {
+        "user_id": 1152333516694310912,
+        "tweet_id": 1521947234882961409,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "Love",
+            "You",
+            "Mama"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1152333516694310912,
+        "tweet_id": 1521846644874137600,
+        "tweet_num": 2,
+        "text": [
+            "Like",
+            "seriously",
+            "e",
+            "remain",
+            "small",
+            "make",
+            "e",
+            "carry"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "user_id": 1329081018347778048,
+        "tweet_id": 1362431415015587840,
+        "tweet_num": 1,
+        "text": [
+            "Ive",
+            "thought",
+            "doing",
+            "exact",
+            "shit",
+            "some",
+            "customer"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "anger": 1,
+            "disgust": 1,
+            "negative": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ],
+            [
+                "anticipation",
+                0.2
+            ]
+        ]
+    }
+]

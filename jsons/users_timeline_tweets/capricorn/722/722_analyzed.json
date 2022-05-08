@@ -1,0 +1,97 @@
+[
+    {
+        "user_id": 1498316845673168900,
+        "tweet_id": 1509839975293935616,
+        "tweet_num": 1,
+        "text": [
+            "The",
+            "toughest",
+            "battlebetween",
+            "brain",
+            "heart"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1498316845673168900,
+        "tweet_id": 1501473470772699138,
+        "tweet_num": 2,
+        "text": [
+            "Literally",
+            "nobody",
+            "going",
+            "make",
+            "happy",
+            "myself",
+            "So",
+            "make",
+            "make",
+            "day",
+            "wonderful",
+            "selflove"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 2,
+            "positive": 2,
+            "trust": 2,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ]
+        ]
+    }
+]

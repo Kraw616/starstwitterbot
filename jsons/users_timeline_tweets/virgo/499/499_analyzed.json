@@ -1,0 +1,89 @@
+[
+    {
+        "user_id": 1213617583523422208,
+        "tweet_id": 1521838973617950724,
+        "tweet_num": 1,
+        "text": [
+            "doe",
+            "chest",
+            "hurt"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "anger",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1213617583523422208,
+        "tweet_id": 1521606469984137216,
+        "tweet_num": 2,
+        "text": [
+            "B",
+            "Duck",
+            "lt3"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

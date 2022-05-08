@@ -1,0 +1,79 @@
+[
+    {
+        "user_id": 1035281744289820673,
+        "tweet_id": 1486253555115773955,
+        "tweet_num": 1,
+        "text": [
+            "Nacho",
+            "Doritos",
+            "SmartFood",
+            "White",
+            "Cheddar",
+            "Bread",
+            "loaf",
+            "Salsa"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1035281744289820673,
+        "tweet_id": 1484219235345874953,
+        "tweet_num": 2,
+        "text": [
+            "Happy",
+            "birthday",
+            "the",
+            "man",
+            "I",
+            "tolerate",
+            "rainnwilson"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "anger": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.14285714285714285
+            ],
+            [
+                "surprise",
+                0.14285714285714285
+            ],
+            [
+                "positive",
+                0.14285714285714285
+            ],
+            [
+                "negative",
+                0.14285714285714285
+            ],
+            [
+                "sadness",
+                0.14285714285714285
+            ],
+            [
+                "joy",
+                0.14285714285714285
+            ],
+            [
+                "anticipation",
+                0.14285714285714285
+            ]
+        ]
+    }
+]

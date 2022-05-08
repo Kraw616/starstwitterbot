@@ -1,0 +1,81 @@
+[
+    {
+        "user_id": 1137816629201362944,
+        "tweet_id": 1390507727235940357,
+        "tweet_num": 1,
+        "text": [
+            "Mood",
+            "af"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1137816629201362944,
+        "tweet_id": 1307792714142871552,
+        "tweet_num": 2,
+        "text": [
+            "Down",
+            "waiting",
+            "my",
+            "special",
+            "someone",
+            "doe"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    }
+]

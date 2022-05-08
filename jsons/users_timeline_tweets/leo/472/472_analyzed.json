@@ -1,0 +1,60 @@
+[
+    {
+        "user_id": 1462262430898147330,
+        "tweet_id": 1521984092119904256,
+        "tweet_num": 1,
+        "text": [
+            "Please",
+            "vote",
+            "NI_KI",
+            "PRODBYENGENE",
+            "Nikitties_JP",
+            "NI_KIGLOBAL",
+            "NIKIPHL"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "joy": 1,
+            "negative": 1,
+            "positive": 1,
+            "sadness": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.125
+            ],
+            [
+                "trust",
+                0.125
+            ],
+            [
+                "surprise",
+                0.125
+            ],
+            [
+                "positive",
+                0.125
+            ],
+            [
+                "negative",
+                0.125
+            ],
+            [
+                "sadness",
+                0.125
+            ],
+            [
+                "joy",
+                0.125
+            ],
+            [
+                "anticipation",
+                0.125
+            ]
+        ]
+    }
+]

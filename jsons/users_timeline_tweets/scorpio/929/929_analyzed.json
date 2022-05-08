@@ -1,0 +1,65 @@
+[
+    {
+        "user_id": 1203430524188024832,
+        "tweet_id": 1520127292730658821,
+        "tweet_num": 1,
+        "text": [
+            "going",
+            "back",
+            "tonight",
+            "know",
+            "whats",
+            "mind",
+            "if",
+            "had",
+            "love",
+            "I",
+            "gave",
+            "all",
+            "my",
+            "trust",
+            "would",
+            "you",
+            "comfort"
+        ],
+        "raw_emotion_scores": {
+            "joy": 2,
+            "positive": 2,
+            "trust": 2,
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.2857142857142857
+            ],
+            [
+                "positive",
+                0.2857142857142857
+            ],
+            [
+                "joy",
+                0.2857142857142857
+            ]
+        ]
+    },
+    {
+        "user_id": 1203430524188024832,
+        "tweet_id": 1482129900907773957,
+        "tweet_num": 2,
+        "text": [
+            "che",
+            "ho",
+            "fame"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

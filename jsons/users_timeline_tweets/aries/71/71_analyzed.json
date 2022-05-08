@@ -1,0 +1,56 @@
+[
+    {
+        "user_id": 1357981448729460736,
+        "tweet_id": 1483151753151406081,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "dont",
+            "still",
+            "understand",
+            "people",
+            "hate",
+            "lazy",
+            "people",
+            "goodness",
+            "sake",
+            "dont",
+            "even",
+            "anything",
+            "just",
+            "sleeppress",
+            "phone",
+            "laugh"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 2,
+            "sadness": 1,
+            "anticipation": 1,
+            "joy": 2,
+            "positive": 2,
+            "surprise": 2,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.14285714285714285
+            ],
+            [
+                "positive",
+                0.14285714285714285
+            ],
+            [
+                "negative",
+                0.14285714285714285
+            ],
+            [
+                "joy",
+                0.14285714285714285
+            ]
+        ]
+    }
+]

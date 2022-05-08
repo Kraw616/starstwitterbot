@@ -1,0 +1,100 @@
+[
+    {
+        "user_id": 1245089542358564864,
+        "tweet_id": 1506373581781012488,
+        "tweet_num": 1,
+        "text": [
+            "Well",
+            "somebody",
+            "gained",
+            "kg",
+            "And",
+            "bmi",
+            "Guess",
+            "time",
+            "relapse",
+            "Im",
+            "literally",
+            "sick",
+            "myself",
+            "can",
+            "feel",
+            "this",
+            "fat",
+            "me"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "fear": 1,
+            "negative": 3,
+            "sadness": 3,
+            "disgust": 2
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3
+            ],
+            [
+                "sadness",
+                0.3
+            ]
+        ]
+    },
+    {
+        "user_id": 1245089542358564864,
+        "tweet_id": 1504861106384343058,
+        "tweet_num": 2,
+        "text": [
+            "Is",
+            "why",
+            "Ive",
+            "having",
+            "dream",
+            "flirting",
+            "people",
+            "simultaneously",
+            "indecisive",
+            "whitch",
+            "to",
+            "sleep"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1245089542358564864,
+        "tweet_id": 1490369274065600517,
+        "tweet_num": 3,
+        "text": [
+            "struggle",
+            "real",
+            "one",
+            "extra",
+            "candy",
+            "it",
+            "everywhere"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "positive": 2,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.2857142857142857
+            ]
+        ]
+    }
+]

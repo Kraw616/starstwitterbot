@@ -1,0 +1,73 @@
+[
+    {
+        "user_id": 745664540017332224,
+        "tweet_id": 1521934228765691905,
+        "tweet_num": 1,
+        "text": [
+            "My",
+            "mother"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "negative": 1,
+            "positive": 1,
+            "sadness": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.16666666666666666
+            ],
+            [
+                "positive",
+                0.16666666666666666
+            ],
+            [
+                "negative",
+                0.16666666666666666
+            ],
+            [
+                "sadness",
+                0.16666666666666666
+            ],
+            [
+                "joy",
+                0.16666666666666666
+            ],
+            [
+                "anticipation",
+                0.16666666666666666
+            ]
+        ]
+    },
+    {
+        "user_id": 745664540017332224,
+        "tweet_id": 1521566207576584192,
+        "tweet_num": 2,
+        "text": [
+            "Sooo",
+            "true"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

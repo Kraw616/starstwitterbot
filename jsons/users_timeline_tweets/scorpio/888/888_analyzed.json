@@ -1,0 +1,118 @@
+[
+    {
+        "user_id": 1003793452457287680,
+        "tweet_id": 1521367816141946880,
+        "tweet_num": 1,
+        "text": [
+            "work",
+            "every",
+            "time"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1003793452457287680,
+        "tweet_id": 1520920629780058112,
+        "tweet_num": 2,
+        "text": [
+            "selamat",
+            "hari",
+            "raya",
+            "love",
+            "apart",
+            "mile",
+            "away",
+            "this",
+            "second",
+            "raya",
+            "let",
+            "raya",
+            "together",
+            "next",
+            "time",
+            "oki",
+            "I",
+            "miss",
+            "so",
+            "much"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1003793452457287680,
+        "tweet_id": 1520920307607162880,
+        "tweet_num": 3,
+        "text": [
+            "I",
+            "supposed",
+            "cry"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "sadness",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1003793452457287680,
+        "tweet_id": 1520918573799309312,
+        "tweet_num": 4,
+        "text": [
+            "dont",
+            "cry",
+            "dont",
+            "cry",
+            "dont",
+            "cry"
+        ],
+        "raw_emotion_scores": {
+            "negative": 3,
+            "sadness": 3
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "sadness",
+                0.5
+            ]
+        ]
+    }
+]

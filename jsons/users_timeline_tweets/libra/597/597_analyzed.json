@@ -1,0 +1,67 @@
+[
+    {
+        "user_id": 813759290351751168,
+        "tweet_id": 820100278653427713,
+        "tweet_num": 1,
+        "text": [
+            "Kinda",
+            "feeling",
+            "the",
+            "kid"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "disgust": 1,
+            "fear": 1,
+            "joy": 1,
+            "negative": 1,
+            "positive": 1,
+            "sadness": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.1
+            ],
+            [
+                "anger",
+                0.1
+            ],
+            [
+                "trust",
+                0.1
+            ],
+            [
+                "surprise",
+                0.1
+            ],
+            [
+                "positive",
+                0.1
+            ],
+            [
+                "negative",
+                0.1
+            ],
+            [
+                "sadness",
+                0.1
+            ],
+            [
+                "disgust",
+                0.1
+            ],
+            [
+                "joy",
+                0.1
+            ],
+            [
+                "anticipation",
+                0.1
+            ]
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "user_id": 161831779,
+        "tweet_id": 1521709182398959616,
+        "tweet_num": 1,
+        "text": [
+            "Id",
+            "love"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 161831779,
+        "tweet_id": 1520760467270082561,
+        "tweet_num": 2,
+        "text": [
+            "Lol",
+            "this",
+            "what",
+            "happens",
+            "the",
+            "gym",
+            "lol",
+            "Ive",
+            "missing",
+            "haha"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

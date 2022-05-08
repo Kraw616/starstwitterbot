@@ -1,0 +1,51 @@
+[
+    {
+        "user_id": 3232588416,
+        "tweet_id": 607190730277126146,
+        "tweet_num": 1,
+        "text": [
+            "Though",
+            "did",
+            "difficult",
+            "forgot",
+            "close",
+            "friend",
+            "jus",
+            "a",
+            "small",
+            "misunderstanding",
+            "missing",
+            "good",
+            "friend"
+        ],
+        "raw_emotion_scores": {
+            "fear": 2,
+            "joy": 3,
+            "positive": 3,
+            "trust": 3,
+            "negative": 3,
+            "anger": 1,
+            "sadness": 2,
+            "anticipation": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.15789473684210525
+            ],
+            [
+                "positive",
+                0.15789473684210525
+            ],
+            [
+                "negative",
+                0.15789473684210525
+            ],
+            [
+                "joy",
+                0.15789473684210525
+            ]
+        ]
+    }
+]

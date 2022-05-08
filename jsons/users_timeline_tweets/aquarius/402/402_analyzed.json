@@ -1,0 +1,49 @@
+[
+    {
+        "user_id": 1071870920510312448,
+        "tweet_id": 1487195181610897411,
+        "tweet_num": 1,
+        "text": [
+            "J",
+            "cole",
+            "Feature",
+            "Greatest",
+            "Verse",
+            "Ever",
+            "Got",
+            "feeling",
+            "real",
+            "grimy"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "disgust": 2,
+            "fear": 1,
+            "joy": 1,
+            "negative": 2,
+            "positive": 2,
+            "sadness": 1,
+            "surprise": 1,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.14285714285714285
+            ],
+            [
+                "positive",
+                0.14285714285714285
+            ],
+            [
+                "negative",
+                0.14285714285714285
+            ],
+            [
+                "disgust",
+                0.14285714285714285
+            ]
+        ]
+    }
+]

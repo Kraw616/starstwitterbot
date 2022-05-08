@@ -1,0 +1,127 @@
+[
+    {
+        "user_id": 771533851600445440,
+        "tweet_id": 1277879184325586945,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "start",
+            "driving",
+            "I",
+            "willl",
+            "start",
+            "driving",
+            "I",
+            "start",
+            "driving",
+            "I",
+            "start",
+            "driving",
+            "I",
+            "start",
+            "driving"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 5
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 771533851600445440,
+        "tweet_id": 1134941071736266753,
+        "tweet_num": 2,
+        "text": [
+            "Texting",
+            "annoying",
+            "ft"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.5
+            ],
+            [
+                "negative",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 771533851600445440,
+        "tweet_id": 1120201308127019008,
+        "tweet_num": 3,
+        "text": [
+            "Im",
+            "tired",
+            "giving",
+            "people",
+            "attention",
+            "not",
+            "getting",
+            "in",
+            "return"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "positive": 2
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.6666666666666666
+            ]
+        ]
+    },
+    {
+        "user_id": 771533851600445440,
+        "tweet_id": 1114005810076684288,
+        "tweet_num": 4,
+        "text": [
+            "If",
+            "call",
+            "every",
+            "day",
+            "text",
+            "first",
+            "entertaining",
+            "not",
+            "other",
+            "way",
+            "round",
+            "boo"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "user_id": 1414674532544225282,
+        "tweet_id": 1520027581596192769,
+        "tweet_num": 1,
+        "text": [
+            "Really",
+            "good"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.2
+            ],
+            [
+                "surprise",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ],
+            [
+                "anticipation",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 1414674532544225282,
+        "tweet_id": 1484266506229854209,
+        "tweet_num": 2,
+        "text": [
+            "Guess",
+            "got",
+            "job",
+            "a",
+            "strip",
+            "club",
+            "stripclub",
+            "cashier",
+            "bartender",
+            "latenights"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "negative": 1,
+            "sadness": 1,
+            "trust": 2
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.4
+            ]
+        ]
+    }
+]

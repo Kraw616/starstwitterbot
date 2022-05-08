@@ -1,0 +1,51 @@
+[
+    {
+        "user_id": 1266755457185652738,
+        "tweet_id": 1521884767251271682,
+        "tweet_num": 1,
+        "text": [
+            "Its",
+            "really",
+            "coldam",
+            "really",
+            "struggling",
+            "this",
+            "disease",
+            "But",
+            "I",
+            "know",
+            "I",
+            "be",
+            "okay"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    }
+]

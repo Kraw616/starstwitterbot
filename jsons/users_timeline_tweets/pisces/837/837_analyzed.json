@@ -1,0 +1,66 @@
+[
+    {
+        "user_id": 1464649518285303815,
+        "tweet_id": 1516576668491595780,
+        "tweet_num": 1,
+        "text": [
+            "You",
+            "ever",
+            "told",
+            "someone",
+            "something",
+            "confidence",
+            "you",
+            "know",
+            "didnt",
+            "keep",
+            "information",
+            "themselves",
+            "like",
+            "wa",
+            "supposed"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "joy": 1,
+            "positive": 2,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.4
+            ]
+        ]
+    },
+    {
+        "user_id": 1464649518285303815,
+        "tweet_id": 1511800156877996040,
+        "tweet_num": 2,
+        "text": [
+            "And",
+            "mf",
+            "sayin",
+            "cant",
+            "raplike",
+            "you",
+            "dumb",
+            "She",
+            "go",
+            "crazy",
+            "everytime"
+        ],
+        "raw_emotion_scores": {
+            "negative": 2,
+            "anger": 1,
+            "fear": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.4
+            ]
+        ]
+    }
+]

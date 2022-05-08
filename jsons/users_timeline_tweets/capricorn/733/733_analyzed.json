@@ -1,0 +1,43 @@
+[
+    {
+        "user_id": 771889064500989953,
+        "tweet_id": 1497397195443683329,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "love",
+            "lying",
+            "cant",
+            "stop"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1,
+            "anger": 1,
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ]
+        ]
+    }
+]

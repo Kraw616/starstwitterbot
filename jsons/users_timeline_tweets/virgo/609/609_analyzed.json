@@ -1,0 +1,42 @@
+[
+    {
+        "user_id": 988092163518091265,
+        "tweet_id": 1503086738155229199,
+        "tweet_num": 1,
+        "text": [
+            "feeling",
+            "overwhelmed",
+            "love"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 1,
+            "disgust": 1,
+            "fear": 1,
+            "joy": 2,
+            "negative": 2,
+            "positive": 2,
+            "sadness": 2,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.14285714285714285
+            ],
+            [
+                "negative",
+                0.14285714285714285
+            ],
+            [
+                "sadness",
+                0.14285714285714285
+            ],
+            [
+                "joy",
+                0.14285714285714285
+            ]
+        ]
+    }
+]

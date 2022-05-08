@@ -1,0 +1,95 @@
+[
+    {
+        "user_id": 1108064666,
+        "tweet_id": 1516274666431729668,
+        "tweet_num": 1,
+        "text": [
+            "Pure",
+            "happiness"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "joy",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1108064666,
+        "tweet_id": 1458238764824895491,
+        "tweet_num": 2,
+        "text": [
+            "Who",
+            "lash",
+            "the",
+            "city"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "anger",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1108064666,
+        "tweet_id": 1403037668863365133,
+        "tweet_num": 3,
+        "text": [
+            "Those",
+            "adult",
+            "swim",
+            "tiktoks",
+            "make",
+            "heart",
+            "happy"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "fear": 1,
+            "joy": 2,
+            "positive": 2,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

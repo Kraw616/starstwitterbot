@@ -1,0 +1,59 @@
+[
+    {
+        "user_id": 1497183370639458306,
+        "tweet_id": 1521406871835484162,
+        "tweet_num": 1,
+        "text": [
+            "What",
+            "anonzas",
+            "problem",
+            "AskAMan"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "sadness",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1497183370639458306,
+        "tweet_id": 1521029000650502150,
+        "tweet_num": 2,
+        "text": [
+            "Also",
+            "careful",
+            "people",
+            "forget",
+            "you",
+            "for"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "negative",
+                0.5
+            ]
+        ]
+    }
+]

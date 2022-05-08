@@ -1,0 +1,184 @@
+[
+    {
+        "user_id": 1351191892973772800,
+        "tweet_id": 1520579243935105024,
+        "tweet_num": 1,
+        "text": [
+            "Think",
+            "I",
+            "need",
+            "practice",
+            "putting",
+            "first"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1351191892973772800,
+        "tweet_id": 1520572462274015234,
+        "tweet_num": 2,
+        "text": [
+            "Damn",
+            "I",
+            "really",
+            "hate",
+            "emotion",
+            "lmao"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 1351191892973772800,
+        "tweet_id": 1518976450568798211,
+        "tweet_num": 3,
+        "text": [
+            "At",
+            "least",
+            "I",
+            "take",
+            "accountability"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1351191892973772800,
+        "tweet_id": 1518975642330673153,
+        "tweet_num": 4,
+        "text": [
+            "Do",
+            "I",
+            "really",
+            "deserve",
+            "youre",
+            "saying",
+            "me",
+            "When",
+            "fucked",
+            "just",
+            "bad"
+        ],
+        "raw_emotion_scores": {
+            "anger": 2,
+            "anticipation": 1,
+            "positive": 1,
+            "trust": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.2222222222222222
+            ]
+        ]
+    },
+    {
+        "user_id": 1351191892973772800,
+        "tweet_id": 1517636036683313154,
+        "tweet_num": 5,
+        "text": [
+            "Damn",
+            "boy",
+            "really",
+            "make",
+            "wan",
+            "na",
+            "drop",
+            "my",
+            "hoe"
+        ],
+        "raw_emotion_scores": {
+            "disgust": 1,
+            "negative": 2,
+            "fear": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.4
+            ]
+        ]
+    },
+    {
+        "user_id": 1351191892973772800,
+        "tweet_id": 1516124599804567555,
+        "tweet_num": 6,
+        "text": [
+            "Beautiful",
+            "stranger",
+            "come",
+            "along",
+            "do",
+            "wrong",
+            "I",
+            "hope"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 2,
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.25
+            ]
+        ]
+    }
+]

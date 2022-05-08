@@ -1,6 +1,5 @@
 import tweepy
-from lib import gemini
-from lib import libra
+from lib import getter
 
 import pandas as pd
 import json
@@ -18,16 +17,34 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        access_token_secret=ACCESS_SECRET,
                        wait_on_rate_limit=True)
 
-with open('./jsons/libra_tweets.json') as file:
-    libra_tweets = json.load(file)
+sign = 'pisces'
+
+'''
+'libra'
+'gemini'
+'aries'
+'taurus'
+'cancer'
+'leo'
+'virgo'
+'scorpio'
+'sagittarius'	
+'capricorn'
+'aquarius'	
+'pisces'
+'''
+
+with open('./jsons/horoscope_tweets/'+sign+'_tweets.json') as file:
+    sign_tweets = json.load(file)
 
 
 def main():
 
     results = []
     known = set()
+    counter = 0
 
-    for tweets in libra_tweets:
+    for tweets in sign_tweets:
         tweet_id = tweets['id']
 
         liked_users = tweepy.Paginator(client.get_liking_users, id=tweet_id).flatten(limit=5000)
@@ -42,10 +59,10 @@ def main():
                     results.append(obj)
                     known.add(user['id'])
 
-        with open('./jsons/libra_liked_users.json', 'w+', encoding='utf-8') as liked:
+        with open('./jsons/liked_users/'+sign+'_liked_users.json', 'w+', encoding='utf-8') as liked:
             json.dump(results, liked, indent=4)
 
-        with open('./jsons/libra_liked_users.json', encoding='utf-8') as f:
+        with open('./jsons/liked_users/'+sign+'_liked_users.json', encoding='utf-8') as f:
             f_data = json.load(f)
 
             if len(f_data) >= 5000:

@@ -1,0 +1,108 @@
+[
+    {
+        "user_id": 1113422842551521280,
+        "tweet_id": 1510260473035374600,
+        "tweet_num": 1,
+        "text": [
+            "hate",
+            "wearing",
+            "jean",
+            "it",
+            "a",
+            "big"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "anger",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "disgust",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 1113422842551521280,
+        "tweet_id": 1485058302383906819,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "got",
+            "issue",
+            "bc",
+            "one",
+            "time",
+            "someone",
+            "fuck",
+            "Ill",
+            "want",
+            "just",
+            "stfu",
+            "not",
+            "speak",
+            "you",
+            "I",
+            "dont",
+            "care",
+            "anymore"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1113422842551521280,
+        "tweet_id": 1483493822244007939,
+        "tweet_num": 3,
+        "text": [
+            "I",
+            "feel",
+            "like",
+            "I",
+            "feel",
+            "much",
+            "people",
+            "sometimes",
+            "lol",
+            "that",
+            "even",
+            "make",
+            "sense"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

@@ -116,13 +116,13 @@ def emotional_analysis(file_path):  # File path to pre_processed './jsons/users_
 
     file_path_out = re.sub("_preprocessed.json", "", file_path)
 
-    with open(file_path_out+'_analyzed.json','w+', encoding='utf-8') as j:
+    with open(file_path_out+'_analyzed.json', 'w+', encoding='utf-8') as j:
         json.dump(results, j, indent=4)
 
 
 def user_average_emotion(file_path):
 
-    results = []
+    results = list()
 
     # each emotion points to the score and how many times it appears
     result = {'positive': 0, 'negative': 0, 'fear': 0, 'anger': 0, 'anticipation': 0, 'trust': 0, 'surprise': 0,
@@ -147,12 +147,10 @@ def user_average_emotion(file_path):
                 # emotion /= len(f_data)
             results.append(result)
             results.append(result_avg)
-            results.append({f_data[len(f_data) - 1]['tweet_num']})
+            results.append({'num_tweets': f_data[len(f_data) - 1]['tweet_num']})
 
         else:
             results = []
-
-
 
     file_path_out = re.sub("_analyzed.json", "", file_path)
 
@@ -183,13 +181,15 @@ def user_average_emotion(file_path):
         print(result)'''
         
 
-def average_emotion_of_sign(filepath):
+def average_emotion_of_sign(filepath, sign):
 
     results = []
 
     number_tweets = 0
 
     number_files = 0
+
+    total_prop = 0
 
     grand_total_avg = {'positive': 0, 'negative': 0, 'fear': 0, 'anger': 0, 'anticipation': 0, 'trust': 0, 'surprise': 0,
               'sadness': 0, 'disgust': 0, 'joy': 0}
@@ -209,7 +209,7 @@ def average_emotion_of_sign(filepath):
                     for entry in f_data[0]:
                         grand_total[entry] += f_data[0][entry]
 
-                    number_tweets += f_data[2]
+                    number_tweets += f_data[2]['num_tweets']
 
                     number_files += 1
 
@@ -217,37 +217,74 @@ def average_emotion_of_sign(filepath):
                     pass
                     #print("EMPTY")
 
+    grand_total_count_avg = grand_total.copy()
+    grand_total_tweet_avg = grand_total.copy()
+
+    # AVERAGE OF COUNTS
+    for emotion in grand_total_count_avg:
+        grand_total_count_avg[emotion] /= number_files
+
+    for emotion in grand_total_tweet_avg:
+        grand_total_tweet_avg[emotion] /= number_tweets
+
     # AVERAGE
-    for emotion in grand_total:
+    for emotion in grand_total_avg:
         grand_total_avg[emotion] /= number_files
 
-    results.append(grand_total_avg)
+    grand_total_proportion = grand_total_tweet_avg.copy()
+
+    for emotion in grand_total_proportion:
+        total_prop += grand_total_proportion[emotion]
+
+    for emotion in grand_total_proportion:
+        grand_total_proportion[emotion] /= total_prop
+
     results.append(grand_total)
+    results.append(grand_total_count_avg)
+    results.append(grand_total_tweet_avg)
+    results.append(grand_total_proportion)
     results.append({'num_files': number_files})
     results.append({'num_tweets': number_tweets})
 
-    output_filepath = "./jsons/grand_total_libra"
+    output_filepath = "./jsons/grand_totals/"
 
     # TO JSON
-    with open(output_filepath+"/"+"libra_grand_average.json", 'w+') as f:
+    with open(output_filepath+"/"+sign+"_grand_average.json", 'w+') as f:
         json.dump(results, f, indent=4)
 
 
 def main():
 
-    filepath = "./jsons/users_timeline_tweets"
+    sign = 'pisces'
+
+    '''
+    'libra'
+    'gemini'
+    'aries'
+    'taurus'
+    'cancer'
+    'leo'
+    'virgo'
+    'scorpio'
+    'sagittarius'	
+    'capricorn'
+    'aquarius'	
+    'pisces'
+    '''
+
+    filepath = "./jsons/users_timeline_tweets/"+sign
 
     for directory in os.listdir(filepath):
         if directory != ".DS_Store":
-            filepath = "./jsons/users_timeline_tweets/"+directory+"/"+directory+".json"
+            filepath = "./jsons/users_timeline_tweets/"+sign+'/'+directory+"/"+directory+".json"
 
             pre_process(filepath)
 
-            emotional_analysis("./jsons/users_timeline_tweets/"+directory+"/"+directory+"_preprocessed.json")
+            emotional_analysis("./jsons/users_timeline_tweets/"+sign+'/'+directory+"/"+directory+"_preprocessed.json")
 
-            user_average_emotion("./jsons/users_timeline_tweets/"+directory+"/"+directory+"_analyzed.json")
+            user_average_emotion("./jsons/users_timeline_tweets/"+sign+'/'+directory+"/"+directory+"_analyzed.json")
 
-    average_emotion_of_sign("./jsons/users_timeline_tweets")
+    average_emotion_of_sign("./jsons/users_timeline_tweets/"+sign, sign)
     #average_emotion_of_sign("/Users/jacobkrawitz/Documents/GitHub/starstwitterbot/jsons/backup")
 
 

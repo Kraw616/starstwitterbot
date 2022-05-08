@@ -1,0 +1,41 @@
+[
+    {
+        "user_id": 883328413922099200,
+        "tweet_id": 883807928184184832,
+        "tweet_num": 1,
+        "text": [
+            "It",
+            "suck",
+            "knowing",
+            "only",
+            "person",
+            "can",
+            "depend",
+            "is"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "positive": 1,
+            "anticipation": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    }
+]

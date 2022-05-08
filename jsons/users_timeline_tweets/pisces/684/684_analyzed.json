@@ -1,0 +1,60 @@
+[
+    {
+        "user_id": 1250096684929081344,
+        "tweet_id": 1466496778845446144,
+        "tweet_num": 1,
+        "text": [
+            "if",
+            "couldnt",
+            "get",
+            "worse",
+            "little",
+            "mix",
+            "broken",
+            "worstyearever"
+        ],
+        "raw_emotion_scores": {
+            "fear": 2,
+            "negative": 2,
+            "sadness": 2,
+            "anger": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2857142857142857
+            ],
+            [
+                "negative",
+                0.2857142857142857
+            ],
+            [
+                "sadness",
+                0.2857142857142857
+            ]
+        ]
+    },
+    {
+        "user_id": 1250096684929081344,
+        "tweet_id": 1372575978300522504,
+        "tweet_num": 2,
+        "text": [
+            "fuck",
+            "break",
+            "ha",
+            "dog",
+            "ever",
+            "died",
+            "minecraft"
+        ],
+        "raw_emotion_scores": {
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                1.0
+            ]
+        ]
+    }
+]

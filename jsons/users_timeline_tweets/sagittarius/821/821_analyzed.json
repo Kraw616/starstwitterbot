@@ -1,0 +1,104 @@
+[
+    {
+        "user_id": 1611133728,
+        "tweet_id": 1504972369533837313,
+        "tweet_num": 1,
+        "text": [
+            "joke",
+            "candice",
+            "Parker",
+            "TV"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1611133728,
+        "tweet_id": 1502285570013372422,
+        "tweet_num": 2,
+        "text": [
+            "Blue",
+            "state",
+            "you"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1611133728,
+        "tweet_id": 1501285696920866821,
+        "tweet_num": 3,
+        "text": [
+            "How",
+            "long",
+            "CNN",
+            "MSM",
+            "us",
+            "classic",
+            "help",
+            "push",
+            "fake",
+            "war"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "positive": 1,
+            "negative": 2,
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.4
+            ]
+        ]
+    }
+]

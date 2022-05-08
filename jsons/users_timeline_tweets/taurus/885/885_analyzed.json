@@ -1,0 +1,90 @@
+[
+    {
+        "user_id": 1385631292939767817,
+        "tweet_id": 1518167598487199749,
+        "tweet_num": 1,
+        "text": [
+            "Happier",
+            "Than",
+            "Ever",
+            "moja",
+            "comfort",
+            "song"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1385631292939767817,
+        "tweet_id": 1517204027976601601,
+        "tweet_num": 2,
+        "text": [
+            "yass"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

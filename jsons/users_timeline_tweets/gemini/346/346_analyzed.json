@@ -1,0 +1,141 @@
+[
+    {
+        "user_id": 1246542000809181187,
+        "tweet_id": 1518576810728071174,
+        "tweet_num": 1,
+        "text": [
+            "Gather",
+            "enough",
+            "money",
+            "you",
+            "Japa",
+            "But",
+            "wont",
+            "hear"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "anticipation": 2,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                0.2857142857142857
+            ]
+        ]
+    },
+    {
+        "user_id": 1246542000809181187,
+        "tweet_id": 1517638926189703168,
+        "tweet_num": 2,
+        "text": [
+            "Terkh",
+            "wan",
+            "serve",
+            "everybody",
+            "breakfast"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 2,
+            "sadness": 1,
+            "trust": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1246542000809181187,
+        "tweet_id": 1515877298502868999,
+        "tweet_num": 3,
+        "text": [
+            "What",
+            "happened",
+            "yesterday",
+            "orlu",
+            "really",
+            "terrible",
+            "I",
+            "in",
+            "church",
+            "whole",
+            "incident",
+            "started",
+            "happening",
+            "We",
+            "couldnt",
+            "go",
+            "back",
+            "our",
+            "house",
+            "becos",
+            "the",
+            "gunshot",
+            "too",
+            "much"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.1
+            ],
+            [
+                "anger",
+                0.1
+            ],
+            [
+                "trust",
+                0.1
+            ],
+            [
+                "surprise",
+                0.1
+            ],
+            [
+                "positive",
+                0.1
+            ],
+            [
+                "negative",
+                0.1
+            ],
+            [
+                "sadness",
+                0.1
+            ],
+            [
+                "disgust",
+                0.1
+            ],
+            [
+                "joy",
+                0.1
+            ],
+            [
+                "anticipation",
+                0.1
+            ]
+        ]
+    }
+]

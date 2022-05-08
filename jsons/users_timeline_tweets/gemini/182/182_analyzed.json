@@ -1,0 +1,140 @@
+[
+    {
+        "user_id": 1337419986458079233,
+        "tweet_id": 1520467412570853377,
+        "tweet_num": 1,
+        "text": [
+            "u",
+            "way",
+            "hot",
+            "be",
+            "acting",
+            "like"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1337419986458079233,
+        "tweet_id": 1515423031732195337,
+        "tweet_num": 2,
+        "text": [
+            "hear",
+            "out",
+            "juda",
+            "jezus",
+            "enemy",
+            "lover",
+            "fanfiction"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.125
+            ],
+            [
+                "anger",
+                0.125
+            ],
+            [
+                "trust",
+                0.125
+            ],
+            [
+                "positive",
+                0.125
+            ],
+            [
+                "negative",
+                0.125
+            ],
+            [
+                "disgust",
+                0.125
+            ],
+            [
+                "joy",
+                0.125
+            ],
+            [
+                "anticipation",
+                0.125
+            ]
+        ]
+    },
+    {
+        "user_id": 1337419986458079233,
+        "tweet_id": 1513815709142421505,
+        "tweet_num": 3,
+        "text": [
+            "irtam",
+            "egy",
+            "hibatlan",
+            "matek",
+            "tzt",
+            "im",
+            "capable",
+            "anything"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

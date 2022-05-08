@@ -1,0 +1,50 @@
+[
+    {
+        "user_id": 1501007719477612546,
+        "tweet_id": 1518672616852049920,
+        "tweet_num": 1,
+        "text": [
+            "shouldnt",
+            "take",
+            "u",
+            "than",
+            "minute",
+            "pick",
+            "vape",
+            "flavor",
+            "hurry"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "anticipation",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1501007719477612546,
+        "tweet_id": 1515544925076537347,
+        "tweet_num": 2,
+        "text": [
+            "wont",
+            "believe"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    }
+]

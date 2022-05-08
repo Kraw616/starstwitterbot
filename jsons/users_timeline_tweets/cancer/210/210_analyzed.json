@@ -1,0 +1,83 @@
+[
+    {
+        "user_id": 1264004629391486977,
+        "tweet_id": 1520753859404066817,
+        "tweet_num": 1,
+        "text": [
+            "We",
+            "need",
+            "reunion"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.3333333333333333
+            ],
+            [
+                "positive",
+                0.3333333333333333
+            ],
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ]
+    },
+    {
+        "user_id": 1264004629391486977,
+        "tweet_id": 1520725383494062080,
+        "tweet_num": 2,
+        "text": [
+            "BBS",
+            "Eslam"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

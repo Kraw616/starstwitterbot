@@ -1,0 +1,49 @@
+[
+    {
+        "user_id": 203516871,
+        "tweet_id": 1520472987073495040,
+        "tweet_num": 1,
+        "text": [
+            "No",
+            "digas",
+            "maybe",
+            "baby"
+        ],
+        "raw_emotion_scores": {
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.5
+            ],
+            [
+                "joy",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 203516871,
+        "tweet_id": 1520031280422862849,
+        "tweet_num": 2,
+        "text": [
+            "Everyone",
+            "be",
+            "better",
+            "Nobody",
+            "above",
+            "growth"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

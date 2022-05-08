@@ -1,0 +1,123 @@
+[
+    {
+        "user_id": 1382398404257538049,
+        "tweet_id": 1521643945561923585,
+        "tweet_num": 1,
+        "text": [
+            "That",
+            "fake",
+            "love",
+            "make",
+            "hate",
+            "love"
+        ],
+        "raw_emotion_scores": {
+            "negative": 2,
+            "joy": 2,
+            "positive": 2,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 1382398404257538049,
+        "tweet_id": 1473738912946434051,
+        "tweet_num": 2,
+        "text": [
+            "Single",
+            "bell",
+            "Single",
+            "bell",
+            "the",
+            "wat"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    },
+    {
+        "user_id": 1382398404257538049,
+        "tweet_id": 1428798360484466704,
+        "tweet_num": 3,
+        "text": [
+            "When",
+            "I",
+            "stop",
+            "tryna",
+            "get",
+            "to",
+            "understand",
+            "I",
+            "feel",
+            "running",
+            "outta",
+            "time",
+            "me"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "anticipation",
+                1.0
+            ]
+        ]
+    }
+]

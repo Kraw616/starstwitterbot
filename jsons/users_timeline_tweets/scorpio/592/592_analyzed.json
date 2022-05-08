@@ -1,0 +1,51 @@
+[
+    {
+        "user_id": 1504765489410682883,
+        "tweet_id": 1520106392065085441,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "clearly",
+            "see",
+            "dis",
+            "champion",
+            "league",
+            "be",
+            "played",
+            "England"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 2,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.4
+            ]
+        ]
+    },
+    {
+        "user_id": 1504765489410682883,
+        "tweet_id": 1519434203024302082,
+        "tweet_num": 2,
+        "text": [
+            "Premier",
+            "league",
+            "best",
+            "league",
+            "ever"
+        ],
+        "raw_emotion_scores": {
+            "positive": 2
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

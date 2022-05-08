@@ -1,0 +1,59 @@
+[
+    {
+        "user_id": 589115630,
+        "tweet_id": 1496454386348064772,
+        "tweet_num": 1,
+        "text": [
+            "I",
+            "think",
+            "I",
+            "numb"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                1.0
+            ]
+        ]
+    },
+    {
+        "user_id": 589115630,
+        "tweet_id": 1466810341908938753,
+        "tweet_num": 2,
+        "text": [
+            "I",
+            "a",
+            "weird",
+            "vivid",
+            "dream",
+            "last",
+            "night",
+            "this",
+            "night",
+            "disgusting",
+            "cheater",
+            "tss"
+        ],
+        "raw_emotion_scores": {
+            "disgust": 2,
+            "negative": 2,
+            "joy": 1,
+            "positive": 1,
+            "anger": 1,
+            "fear": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "disgust",
+                0.25
+            ]
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "user_id": 2943330415,
+        "tweet_id": 1516013797181255689,
+        "tweet_num": 1,
+        "text": [
+            "Happy",
+            "birthday",
+            "bby"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "surprise",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "joy",
+                0.25
+            ],
+            [
+                "anticipation",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 2943330415,
+        "tweet_id": 1515970130324639750,
+        "tweet_num": 2,
+        "text": [
+            "A",
+            "guy",
+            "wont",
+            "let",
+            "go",
+            "the",
+            "question",
+            "because",
+            "said",
+            "No",
+            "a",
+            "full",
+            "sentence"
+        ],
+        "raw_emotion_scores": {
+            "anticipation": 2,
+            "positive": 2,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.2222222222222222
+            ],
+            [
+                "anticipation",
+                0.2222222222222222
+            ]
+        ]
+    },
+    {
+        "user_id": 2943330415,
+        "tweet_id": 1515713884493336576,
+        "tweet_num": 3,
+        "text": [
+            "This",
+            "noted",
+            "Hahahahaha",
+            "include",
+            "sa",
+            "plan"
+        ],
+        "raw_emotion_scores": {
+            "positive": 2,
+            "anticipation": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                0.6666666666666666
+            ]
+        ]
+    }
+]

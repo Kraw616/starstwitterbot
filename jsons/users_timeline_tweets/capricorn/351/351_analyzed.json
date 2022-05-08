@@ -1,0 +1,125 @@
+[
+    {
+        "user_id": 1519958286,
+        "tweet_id": 1521212505179176961,
+        "tweet_num": 1,
+        "text": [
+            "Must",
+            "the",
+            "blue",
+            "yellow",
+            "cult",
+            "probably",
+            "these",
+            "people",
+            "even",
+            "able",
+            "speak",
+            "think",
+            "without",
+            "flag",
+            "mask",
+            "needle",
+            "their",
+            "profile"
+        ],
+        "raw_emotion_scores": {
+            "sadness": 1,
+            "fear": 1,
+            "negative": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ],
+            [
+                "negative",
+                0.25
+            ],
+            [
+                "sadness",
+                0.25
+            ]
+        ]
+    },
+    {
+        "user_id": 1519958286,
+        "tweet_id": 1521163308673507328,
+        "tweet_num": 2,
+        "text": [
+            "Just",
+            "case",
+            "one",
+            "told",
+            "today",
+            "are",
+            "really",
+            "beautiful"
+        ],
+        "raw_emotion_scores": {
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1,
+            "joy": 1,
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.2
+            ],
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "sadness",
+                0.2
+            ],
+            [
+                "joy",
+                0.2
+            ]
+        ]
+    },
+    {
+        "user_id": 1519958286,
+        "tweet_id": 1519378044204552193,
+        "tweet_num": 3,
+        "text": [
+            "Be",
+            "bold",
+            "brave",
+            "hold",
+            "line",
+            "dont",
+            "let",
+            "anyone",
+            "ever",
+            "tell",
+            "you",
+            "cant",
+            "it",
+            "you"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1
+        },
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ]
+    }
+]

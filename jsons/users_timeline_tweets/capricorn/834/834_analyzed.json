@@ -1,0 +1,60 @@
+[
+    {
+        "user_id": 999552954427469824,
+        "tweet_id": 1515355184175751173,
+        "tweet_num": 1,
+        "text": [
+            "Its",
+            "heartbreaking",
+            "there",
+            "someone",
+            "lowest",
+            "being",
+            "forgotten",
+            "their",
+            "highest"
+        ],
+        "raw_emotion_scores": {
+            "negative": 3,
+            "sadness": 2,
+            "fear": 2,
+            "anticipation": 1,
+            "joy": 1,
+            "positive": 1,
+            "surprise": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.2727272727272727
+            ]
+        ]
+    },
+    {
+        "user_id": 999552954427469824,
+        "tweet_id": 1510612317733625858,
+        "tweet_num": 2,
+        "text": [
+            "Get",
+            "lost",
+            "crazier",
+            "bone",
+            "got",
+            "screamin"
+        ],
+        "raw_emotion_scores": {
+            "negative": 1,
+            "sadness": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "sadness",
+                0.5
+            ]
+        ]
+    }
+]

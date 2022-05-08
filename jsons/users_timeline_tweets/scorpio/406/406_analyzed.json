@@ -1,0 +1,86 @@
+[
+    {
+        "user_id": 157528695,
+        "tweet_id": 1521171218153541635,
+        "tweet_num": 1,
+        "text": [
+            "Tat",
+            "on",
+            "so",
+            "I",
+            "know",
+            "real"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 157528695,
+        "tweet_id": 1520198955115687942,
+        "tweet_num": 2,
+        "text": [
+            "Human",
+            "Resources",
+            "Netflix",
+            "garbage"
+        ],
+        "raw_emotion_scores": {
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "negative",
+                0.5
+            ],
+            [
+                "disgust",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 157528695,
+        "tweet_id": 1520104061835612162,
+        "tweet_num": 3,
+        "text": [
+            "Can",
+            "get",
+            "look",
+            "book",
+            "something",
+            "damn"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "disgust": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.3333333333333333
+            ],
+            [
+                "negative",
+                0.3333333333333333
+            ],
+            [
+                "disgust",
+                0.3333333333333333
+            ]
+        ]
+    }
+]

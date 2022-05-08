@@ -1,0 +1,111 @@
+[
+    {
+        "user_id": 1283827275511857155,
+        "tweet_id": 1519682059186364417,
+        "tweet_num": 1,
+        "text": [
+            "It",
+            "seems",
+            "like",
+            "Market",
+            "caught",
+            "everyone",
+            "guard",
+            "today",
+            "StockMarket",
+            "bearish",
+            "Bullish"
+        ],
+        "raw_emotion_scores": {
+            "fear": 2,
+            "positive": 1,
+            "trust": 1,
+            "anger": 1
+        },
+        "top_emotions": [
+            [
+                "fear",
+                0.4
+            ]
+        ]
+    },
+    {
+        "user_id": 1283827275511857155,
+        "tweet_id": 1517629290652876801,
+        "tweet_num": 2,
+        "text": [
+            "NFLX",
+            "TSLA",
+            "call",
+            "option",
+            "trade",
+            "today"
+        ],
+        "raw_emotion_scores": {
+            "positive": 1,
+            "trust": 1
+        },
+        "top_emotions": [
+            [
+                "trust",
+                0.5
+            ],
+            [
+                "positive",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1283827275511857155,
+        "tweet_id": 1517243029643485187,
+        "tweet_num": 3,
+        "text": [
+            "Diamond",
+            "hand"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]

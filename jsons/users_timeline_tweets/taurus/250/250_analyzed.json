@@ -1,0 +1,77 @@
+[
+    {
+        "user_id": 1354137164695523328,
+        "tweet_id": 1520130627575554048,
+        "tweet_num": 1,
+        "text": [
+            "certified",
+            "hit",
+            "maker"
+        ],
+        "raw_emotion_scores": {
+            "anger": 1,
+            "negative": 1
+        },
+        "top_emotions": [
+            [
+                "anger",
+                0.5
+            ],
+            [
+                "negative",
+                0.5
+            ]
+        ]
+    },
+    {
+        "user_id": 1354137164695523328,
+        "tweet_id": 1520101235809931264,
+        "tweet_num": 2,
+        "text": [
+            "mood"
+        ],
+        "raw_emotion_scores": {},
+        "top_emotions": [
+            [
+                "fear",
+                0.0
+            ],
+            [
+                "anger",
+                0.0
+            ],
+            [
+                "anticip",
+                0.0
+            ],
+            [
+                "trust",
+                0.0
+            ],
+            [
+                "surprise",
+                0.0
+            ],
+            [
+                "positive",
+                0.0
+            ],
+            [
+                "negative",
+                0.0
+            ],
+            [
+                "sadness",
+                0.0
+            ],
+            [
+                "disgust",
+                0.0
+            ],
+            [
+                "joy",
+                0.0
+            ]
+        ]
+    }
+]
