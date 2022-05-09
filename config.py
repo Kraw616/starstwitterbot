@@ -1,3 +1,12 @@
+"""
+Author: Jacob Krawitz,
+Date: 5/9/22
+Muhlenberg College 2022, Computer Science CUE
+
+Description:
+
+"""
+
 API_KEY = "7cu55tABxcf9xLkxeY1LZgV9V"
 API_SECRET = "Tlk2xj9DGdMKL9jSKFHQnFyWZOSRSzcTw9yPZI1eIlJ3U6WXUM"
 

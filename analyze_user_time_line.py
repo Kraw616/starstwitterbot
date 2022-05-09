@@ -1,3 +1,13 @@
+"""
+Author: Jacob Krawitz,
+Date: 5/9/22
+Muhlenberg College 2022, Computer Science CUE
+
+Description:
+
+"""
+
+# IMPORT STATEMENTS
 import os
 
 import tweepy
@@ -27,6 +37,16 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        access_token=ACCESS_TOKEN,
                        access_token_secret=ACCESS_SECRET,
                        wait_on_rate_limit=True)
+
+'''
+Method: pre_process()
+
+Description: 
+
+@params the filepath of the raw user tweets .json file
+@returns 
+
+'''
 
 
 def pre_process(file_path):  # File path to raw './jsons/users_timeline_tweets/bob/bob_raw'
@@ -120,6 +140,17 @@ def emotional_analysis(file_path):  # File path to pre_processed './jsons/users_
         json.dump(results, j, indent=4)
 
 
+'''
+Method: user_average_emotion()
+
+Description: 
+
+@params the filepath of the preprocessed user tweets .json file
+@returns 
+
+'''
+
+
 def user_average_emotion(file_path):
 
     results = list()
@@ -156,30 +187,18 @@ def user_average_emotion(file_path):
 
     with open(file_path_out+"_average.json", 'w+') as f:
         json.dump(results, f, indent=4)
+    
+    
+'''
+Method: average_emotion_of_sign()
+
+Description: 
+
+@params the filepath of the average emotion profile of user tweets .json file, what sign we are getting the average for
+@returns 
 
 '''
-        for tweet in f_data:
-            for emotion in tweet["top_emotions"]:
 
-                if emotion[0] == "anticip":
-                    emotion[0] = "anticipation"
-
-                result[emotion[0]][0] += emotion[1]
-
-                result[emotion[0]][1] += 1
-
-                print(emotion)
-
-            print()
-
-
-        print(result)
-        for emotion in result:
-            result[emotion][0] /= result[emotion][1]
-            #emotion /= len(f_data)
-        print("CORRECT")
-        print(result)'''
-        
 
 def average_emotion_of_sign(filepath, sign):
 
@@ -251,6 +270,17 @@ def average_emotion_of_sign(filepath, sign):
     # TO JSON
     with open(output_filepath+"/"+sign+"_grand_average.json", 'w+') as f:
         json.dump(results, f, indent=4)
+
+
+'''
+Method: main()
+
+Description: 
+
+@params 
+@returns 
+
+'''
 
 
 def main():

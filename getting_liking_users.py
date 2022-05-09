@@ -1,3 +1,12 @@
+"""
+Author: Jacob Krawitz,
+Date: 5/9/22
+Muhlenberg College 2022, Computer Science CUE
+
+Description:
+
+"""
+
 import tweepy
 from lib import getter
 
@@ -37,6 +46,16 @@ sign = 'pisces'
 with open('./jsons/horoscope_tweets/'+sign+'_tweets.json') as file:
     sign_tweets = json.load(file)
 
+'''
+Method: main()
+
+Description: 
+
+@params 
+@returns 
+
+'''
+
 
 def main():
 
@@ -67,7 +86,6 @@ def main():
 
             if len(f_data) >= 5000:
                 return
-
 
 
 main()
