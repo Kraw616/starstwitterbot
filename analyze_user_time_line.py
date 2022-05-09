@@ -1,13 +1,14 @@
 """
-Author: Jacob Krawitz,
+Author: Jacob Krawitz, Jordan Wells
 Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
-
+Perform preprocessing and emotional analysis to find the user's average emotional status 
+and the average emotional scores for each given sign. 
 """
 
-# IMPORT STATEMENTS
+# import statements
 import os
 
 import tweepy
@@ -44,7 +45,7 @@ Method: pre_process()
 Description: 
 
 @params the filepath of the raw user tweets .json file
-@returns 
+@returns preprocessed .json file
 
 '''
 
@@ -59,6 +60,7 @@ def pre_process(file_path):  # File path to raw './jsons/users_timeline_tweets/b
 
     results = []
 
+    # open and load the raw data .json file
     with open(file_path, 'r') as f:
 
         f_data = json.load(f)
@@ -113,29 +115,44 @@ def pre_process(file_path):  # File path to raw './jsons/users_timeline_tweets/b
 
         file_path_out = re.sub("\.json", "", file_path)
 
+        # write new preproccessed .json file
         with open(file_path_out+"_preprocessed.json", 'w+', encoding='utf-8') as j:
             json.dump(results, j, ensure_ascii=False, indent=4)
 
-
+            
+'''
+Method: emotional_analysis()
+Description: 
+@params the filepath of the preprocessed user tweets .json file
+@returns the filepath of the analyzed .json file
+'''
+ 
+         
 def emotional_analysis(file_path):  # File path to pre_processed './jsons/users_timeline_tweets/bob/bob_pre_processed'
 
     results = []
 
+    #open and load preprocessed .json file
     with open(file_path, 'r') as f:
         f_data = json.load(f)
 
+    # instantiate text object from .json file
     text_object = NRCLex(file_path)
 
+    # join tokenized words
     for tweets in f_data:
         text_joined = NRCLex(' '.join(tweets['text']))
 
+        # the tweet infomation and associated emotional analysis
         obj = {'user_id': tweets['user_id'], 'tweet_id': tweets['tweet_id'], 'tweet_num': tweets['tweet_num'], 'text': tweets['text'],
                'raw_emotion_scores': text_joined.raw_emotion_scores, 'top_emotions': text_joined.top_emotions}
 
+        # append each analysis to file
         results.append(obj)
 
     file_path_out = re.sub("_preprocessed.json", "", file_path)
 
+    # write new analyzed .json file
     with open(file_path_out+'_analyzed.json', 'w+', encoding='utf-8') as j:
         json.dump(results, j, indent=4)
 
@@ -145,8 +162,8 @@ Method: user_average_emotion()
 
 Description: 
 
-@params the filepath of the preprocessed user tweets .json file
-@returns 
+@params the filepath of the emotional analysis data for the user tweets .json file
+@returns the filepath of the average emotional analysis scores for user tweets .json file
 
 '''
 
@@ -159,9 +176,11 @@ def user_average_emotion(file_path):
     result = {'positive': 0, 'negative': 0, 'fear': 0, 'anger': 0, 'anticipation': 0, 'trust': 0, 'surprise': 0,
               'sadness': 0, 'disgust': 0, 'joy': 0}
 
+    # open the emotional analysis .json file
     with open(file_path, 'r') as f:
         f_data = json.load(f)
 
+        # if emotion is found, add to the count
         for tweet in f_data:
             for emotion in tweet["raw_emotion_scores"]:
 
@@ -172,6 +191,7 @@ def user_average_emotion(file_path):
 
         result_avg = result.copy()
 
+        # divide by length of f_data (number of tweets) to find average for each emotion
         if f_data:
             for emotion in result_avg:
                 result_avg[emotion] /= len(f_data)
@@ -185,6 +205,7 @@ def user_average_emotion(file_path):
 
     file_path_out = re.sub("_analyzed.json", "", file_path)
 
+    # write new average emotional analysis .json file
     with open(file_path_out+"_average.json", 'w+') as f:
         json.dump(results, f, indent=4)
     
@@ -194,8 +215,8 @@ Method: average_emotion_of_sign()
 
 Description: 
 
-@params the filepath of the average emotion profile of user tweets .json file, what sign we are getting the average for
-@returns 
+@params the filepath of the average emotional profile of user tweets .json file, what sign we are getting the average for
+@returns the filepath of the average emotional analysis scores for the given sign .json file
 
 '''
 
@@ -216,11 +237,13 @@ def average_emotion_of_sign(filepath, sign):
     grand_total = {'positive': 0, 'negative': 0, 'fear': 0, 'anger': 0, 'anticipation': 0, 'trust': 0, 'surprise': 0,
               'sadness': 0, 'disgust': 0, 'joy': 0}
 
+    # open and load all emotional analysis average .json files for a given sign
     for directory in os.listdir(filepath):
         if directory != ".DS_Store":
             with open(filepath+"/"+directory+"/"+directory+"_average.json", 'r') as f:
                 f_data = json.load(f)
 
+                # count the number of files (users) for each given sign
                 if f_data:
                     for entry in f_data[1]:
                         grand_total_avg[entry] += f_data[1][entry]
@@ -239,25 +262,28 @@ def average_emotion_of_sign(filepath, sign):
     grand_total_count_avg = grand_total.copy()
     grand_total_tweet_avg = grand_total.copy()
 
-    # AVERAGE OF COUNTS
+    # average of counts
     for emotion in grand_total_count_avg:
         grand_total_count_avg[emotion] /= number_files
 
     for emotion in grand_total_tweet_avg:
         grand_total_tweet_avg[emotion] /= number_tweets
 
-    # AVERAGE
+    # average
     for emotion in grand_total_avg:
         grand_total_avg[emotion] /= number_files
 
     grand_total_proportion = grand_total_tweet_avg.copy()
 
+    # total proportion
     for emotion in grand_total_proportion:
         total_prop += grand_total_proportion[emotion]
 
+    # average total proportion
     for emotion in grand_total_proportion:
         grand_total_proportion[emotion] /= total_prop
 
+    # append averages to to file
     results.append(grand_total)
     results.append(grand_total_count_avg)
     results.append(grand_total_tweet_avg)
@@ -267,7 +293,7 @@ def average_emotion_of_sign(filepath, sign):
 
     output_filepath = "./jsons/grand_totals/"
 
-    # TO JSON
+    # write the grand averages .json file
     with open(output_filepath+"/"+sign+"_grand_average.json", 'w+') as f:
         json.dump(results, f, indent=4)
 
