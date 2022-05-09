@@ -44,6 +44,8 @@ Method: pre_process()
 
 Description: 
 
+In this method, the collected tweet data is preprocessed and put into a .json file.
+
 @params the filepath of the raw user tweets .json file
 @returns preprocessed .json file
 
@@ -122,9 +124,15 @@ def pre_process(file_path):  # File path to raw './jsons/users_timeline_tweets/b
             
 '''
 Method: emotional_analysis()
+
 Description: 
+
+In this method, the preprocessed tweet data is used to perform emotional analysis and put into a .json file.
+
 @params the filepath of the preprocessed user tweets .json file
+
 @returns the filepath of the analyzed .json file
+
 '''
  
          
@@ -162,7 +170,10 @@ Method: user_average_emotion()
 
 Description: 
 
+In this method, the emotional analysis of each tweet is anverage to give an average emotional profile for each user.
+
 @params the filepath of the emotional analysis data for the user tweets .json file
+
 @returns the filepath of the average emotional analysis scores for user tweets .json file
 
 '''
@@ -214,6 +225,8 @@ def user_average_emotion(file_path):
 Method: average_emotion_of_sign()
 
 Description: 
+
+In this method, the average emotional profile of each user is averaged to give an average emotional profile for each sign.
 
 @params the filepath of the average emotional profile of user tweets .json file, what sign we are getting the average for
 @returns the filepath of the average emotional analysis scores for the given sign .json file
