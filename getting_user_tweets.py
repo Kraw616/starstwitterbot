@@ -1,3 +1,12 @@
+"""
+Author: Jacob Krawitz,
+Date: 5/9/22
+Muhlenberg College 2022, Computer Science CUE
+
+Description:
+
+"""
+
 import os.path
 
 import tweepy
@@ -34,6 +43,17 @@ sign = 'cancer'
 'capricorn'
 'aquarius'	
 'pisces'
+'''
+
+
+'''
+Method: main()
+
+Description: 
+
+@params 
+@returns 
+
 '''
 
 

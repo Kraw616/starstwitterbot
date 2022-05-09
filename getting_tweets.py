@@ -1,3 +1,13 @@
+"""
+Author: Jacob Krawitz,
+Date: 5/9/22
+Muhlenberg College 2022, Computer Science CUE
+
+Description:
+
+"""
+
+# IMPORT STATEMENTS
 import tweepy
 from lib import getter
 
@@ -32,6 +42,16 @@ sign = 'aquarius'
 'capricorn'
 'aquarius'	
 'pisces'
+'''
+
+'''
+Method: main()
+
+Description: Driver method for the file. Calls the getter.py file to run its main method.
+
+@params None
+@returns None
+
 '''
 
 

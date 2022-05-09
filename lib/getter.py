@@ -1,6 +1,27 @@
+"""
+Author: Jacob Krawitz,
+Date: 5/9/22
+Muhlenberg College 2022, Computer Science CUE
+
+Description:
+
+"""
+
+# IMPORT STATEMENTS
 import pandas as pd
 import json
 import tweepy
+
+
+'''
+Method: get_accounts()
+
+Description: 
+
+@params 
+@returns 
+
+'''
 
 
 def get_accounts(client, data_frame, sign):
@@ -15,6 +36,17 @@ def get_accounts(client, data_frame, sign):
         user_ids.append(user_id)
 
     return user_ids
+
+
+'''
+Method: recent_tweets()
+
+Description: 
+
+@params 
+@returns 
+
+'''
 
 
 def recent_tweets(user_ids, client, sign):
@@ -37,6 +69,17 @@ def recent_tweets(user_ids, client, sign):
 
     with open('./jsons/horoscope_tweets/'+sign+'_tweets.json', 'w+', encoding='utf-8') as f:
         json.dump(results, f, indent=4)
+
+
+'''
+Method: main()
+
+Description: 
+
+@params 
+@returns 
+
+'''
 
 
 def main(client, data_frame, sign):
