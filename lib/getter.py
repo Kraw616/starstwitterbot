@@ -1,13 +1,15 @@
 """
-Author: Jacob Krawitz, Jordan Wells
+Author: Jacob Krawitz, Jordan Wells, Alek Demaio
 Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
 
+In this file, tweet data is collected from horoscope accounts located in a .csv file.
+
 """
 
-# IMPORT STATEMENTS
+# import statements
 import pandas as pd
 import json
 import tweepy
@@ -65,7 +67,7 @@ def recent_tweets(user_ids, client, sign):
         tweets = tweepy.Paginator(client.get_users_tweets, id=user_id, exclude=['retweets', 'replies'],
                                   max_results=100).flatten(limit=500)
 
-        # if tweets exsist, append them to file
+        # if tweets exist, append them to file
         if tweets is not None:
             for tweet in tweets:
                 if len(tweet.text) > 0:
