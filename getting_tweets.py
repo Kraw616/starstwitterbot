@@ -1,5 +1,5 @@
 """
-Author: Jacob Krawitz,
+Author: Jacob Krawitz, Jordan Wells
 Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
@@ -7,7 +7,7 @@ Description:
 
 """
 
-# IMPORT STATEMENTS
+# import statements
 import tweepy
 from lib import getter
 
@@ -25,6 +25,7 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        access_token=ACCESS_TOKEN,
                        access_token_secret=ACCESS_SECRET)
 
+# read in csv file
 df = pd.read_csv('accounts.csv')
 
 sign = 'aquarius'
