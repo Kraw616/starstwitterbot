@@ -1,10 +1,10 @@
 """
-Author: Jacob Krawitz,
+Author: Jacob Krawitz, Jordan Wells
 Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
-
+Unique identifiers used to authenticate developer account which are necessary for collection of tweets. 
 """
 
 API_KEY = "7cu55tABxcf9xLkxeY1LZgV9V"
