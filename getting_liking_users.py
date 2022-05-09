@@ -1,9 +1,9 @@
 """
-Author: Jacob Krawitz, Jordan Wells
+Author: Jacob Krawitz, Jordan Wells, Alek Demaio
 Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
-Description: In this file users which like given horoscope tweets are recorded and added to a .json file. 
+Description: In this file, users which like given horoscope tweets are recorded and added to a .json file. 
 
 """
 
