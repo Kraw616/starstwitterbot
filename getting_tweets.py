@@ -1,9 +1,11 @@
 """
-Author: Jacob Krawitz, Jordan Wells
+Author: Jacob Krawitz, Jordan Wells, Alek Demaio
 Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
+
+In this file, the main function of the getter.py file is called to collect tweet data. 
 
 """
 
