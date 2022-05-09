@@ -4,8 +4,8 @@ Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
-Perform preprocessing and emotional analysis to find the user's average emotional status 
-and the average emotional scores for each given sign. 
+In this file, preprocessing and emotional analysis are performed to find 
+the user's average emotional status and the average emotional scores for each given sign. 
 """
 
 # import statements
