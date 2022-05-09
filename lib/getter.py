@@ -1,5 +1,5 @@
 """
-Author: Jacob Krawitz,
+Author: Jacob Krawitz, Jordan Wells
 Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
@@ -18,8 +18,10 @@ Method: get_accounts()
 
 Description: 
 
-@params 
-@returns 
+In this method, the user id is taken from the data frame of a given sign.
+
+@params client, data frame, and sign
+@returns user ids
 
 '''
 
@@ -30,6 +32,7 @@ def get_accounts(client, data_frame, sign):
 
     accounts = data_frame[sign].tolist()
 
+    # get user information from data frame 
     for account in accounts:
         user = client.get_user(username=account)
         user_id = user.data.id
@@ -43,8 +46,10 @@ Method: recent_tweets()
 
 Description: 
 
-@params 
-@returns 
+In this method, tweets are collected from the user ids. 
+
+@params user ids, client, and sign
+@returns horoscope tweets .json file
 
 '''
 
@@ -55,10 +60,12 @@ def recent_tweets(user_ids, client, sign):
 
     for user_id in user_ids:
 
+        # get user tweets from user id
         screen_name = client.get_user(id=user_id).data.username
         tweets = tweepy.Paginator(client.get_users_tweets, id=user_id, exclude=['retweets', 'replies'],
                                   max_results=100).flatten(limit=500)
 
+        # if tweets exsist, append them to file
         if tweets is not None:
             for tweet in tweets:
                 if len(tweet.text) > 0:
@@ -67,6 +74,7 @@ def recent_tweets(user_ids, client, sign):
                 else:
                     print("Empty!")
 
+    # write new tweet .json file
     with open('./jsons/horoscope_tweets/'+sign+'_tweets.json', 'w+', encoding='utf-8') as f:
         json.dump(results, f, indent=4)
 
