@@ -1,5 +1,5 @@
 """
-Author: Jacob Krawitz, Jordan Wells
+Author: Jacob Krawitz, Jordan Wells, Alek DeMaio
 Date: 5/9/22
 Muhlenberg College 2022, Computer Science CUE
 
