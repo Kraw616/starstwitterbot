@@ -1,6 +1,6 @@
 """
 Author: Jacob Krawitz, Jordan Wells, Alek Demaio
-Date: 5/9/22
+Date: 5/10/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
@@ -50,10 +50,7 @@ sign = 'aquarius'
 '''
 Method: main()
 
-Description: Driver method for the file. Calls the getter.py file to run its main method.
-
-@params None
-@returns None
+Description: Driver method for the file. Calls the getter.py file to run its main method (see getter.py).
 
 '''
 
@@ -61,7 +58,6 @@ Description: Driver method for the file. Calls the getter.py file to run its mai
 def main():
 
     getter.main(client, df, sign)
-    # libra.main(client, df)
 
 
 main()

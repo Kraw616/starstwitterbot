@@ -1,6 +1,6 @@
 """
 Author: Jacob Krawitz, Jordan Wells, Alek Demaio
-Date: 5/9/22
+Date: 5/10/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description: In this file, users which like given horoscope tweets are recorded and added to a .json file. 
@@ -15,7 +15,7 @@ import json
 
 from config import *
 
-
+# CREATE TWEEPY OBJECT
 auth = tweepy.OAuthHandler(API_KEY, API_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
 
@@ -26,39 +26,38 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        access_token_secret=ACCESS_SECRET,
                        wait_on_rate_limit=True)
 
-sign = 'pisces'
-
-'''
-'libra'
-'gemini'
-'aries'
-'taurus'
-'cancer'
-'leo'
-'virgo'
-'scorpio'
-'sagittarius'	
-'capricorn'
-'aquarius'	
-'pisces'
-'''
-
-# open and load horoscope tweet .json file for given sign
-with open('./jsons/horoscope_tweets/'+sign+'_tweets.json') as file:
-    sign_tweets = json.load(file)
-
 '''
 Method: main()
 
-Description: 
+Description: Using a .json file of horoscope tweets, this method collects 5,000 unique users that like these tweets.
+Appends each of these user information (dictionary of username, user id, and the tweet that they liked) to a list, 
+and dumps it into a _liked_user.py file (for each sign). 
 
-@params 
-@returns 
 
 '''
 
 
 def main():
+    sign = 'pisces'
+
+    '''
+    'libra'
+    'gemini'
+    'aries'
+    'taurus'
+    'cancer'
+    'leo'
+    'virgo'
+    'scorpio'
+    'sagittarius'	
+    'capricorn'
+    'aquarius'	
+    'pisces'
+    '''
+
+    # open and load horoscope tweet .json file for given sign
+    with open('./jsons/horoscope_tweets/'+sign+'_tweets.json') as file:
+        sign_tweets = json.load(file)
 
     results = []
     known = set()

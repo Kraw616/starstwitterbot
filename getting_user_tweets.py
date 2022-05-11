@@ -1,6 +1,6 @@
 """
 Author: Jacob Krawitz, Jordan Wells, Alek Demaio
-Date: 5/9/22
+Date: 5/10/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description: In this file, the timeline tweets of the users which liked the given horoscope 
@@ -19,6 +19,7 @@ import pandas as pd
 from config import *
 
 
+# CREATE TWEEPY OBJECT
 auth = tweepy.OAuthHandler(API_KEY, API_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
 
@@ -53,10 +54,8 @@ Method: main()
 Description: 
 
 In this method, timeline tweets for users which liked given horoscope content
-are collected and added to a .json file in a directory for each user. 
-
-@params none
-@returns none
+are collected and added to a .json file in a directory for each user. Up to 50 tweets from the user's timeline is collected,
+from 1,000 different users.
 
 '''
 
@@ -77,6 +76,7 @@ def main():
 
             user_name = user['user_name']
             user_id = user['id']
+
 
              # collect up to 50 of the users' timeline tweets excluding retweets
             tweets = tweepy.Paginator(client.get_users_tweets, id=user_id, exclude=['retweets', 'replies'],

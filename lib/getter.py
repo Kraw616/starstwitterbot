@@ -1,6 +1,6 @@
 """
 Author: Jacob Krawitz, Jordan Wells, Alek Demaio
-Date: 5/9/22
+Date: 5/10/22
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
@@ -48,7 +48,7 @@ Method: recent_tweets()
 
 Description: 
 
-In this method, tweets are collected from the user ids. 
+In this method, tweets are collected from the user ids, with a maximum of 500 horoscope tweets collected.
 
 @params user ids, client, and sign
 @returns horoscope tweets .json file
@@ -79,17 +79,6 @@ def recent_tweets(user_ids, client, sign):
     # write new tweet .json file
     with open('./jsons/horoscope_tweets/'+sign+'_tweets.json', 'w+', encoding='utf-8') as f:
         json.dump(results, f, indent=4)
-
-
-'''
-Method: main()
-
-Description: 
-
-@params 
-@returns 
-
-'''
 
 
 def main(client, data_frame, sign):
