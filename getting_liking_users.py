@@ -3,22 +3,25 @@ Author: Jacob Krawitz, Jordan Wells, Alek Demaio
 Date: 5/10/22
 Muhlenberg College 2022, Computer Science CUE
 
-Description: In this file, users which like given horoscope tweets are recorded and added to a .json file. 
+Description: 
+
+In this file, users which like given horoscope tweets are recorded and added to a .json file.
 
 """
 
+# import statements
 import tweepy
 from lib import getter
-
 import pandas as pd
 import json
 
+# import twitter access credentials
 from config import *
 
 # CREATE TWEEPY OBJECT
+# employ twitter access cridentials
 auth = tweepy.OAuthHandler(API_KEY, API_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-
 client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        consumer_key=API_KEY,
                        consumer_secret=API_SECRET,
@@ -32,6 +35,7 @@ Method: main()
 Description: Using a .json file of horoscope tweets, this method collects 5,000 unique users that like these tweets.
 Appends each of these user information (dictionary of username, user id, and the tweet that they liked) to a list, 
 and dumps it into a _liked_user.py file (for each sign). 
+
 
 
 '''
@@ -59,8 +63,13 @@ def main():
     with open('./jsons/horoscope_tweets/'+sign+'_tweets.json') as file:
         sign_tweets = json.load(file)
 
+    # create a list for results
     results = []
+    
+    # create a set for users in file
     known = set()
+    
+    # set counter to 0
     counter = 0
 
     # get tweet id for each tweet
@@ -70,14 +79,15 @@ def main():
         # get up to 5000 users who liked given horoscope tweets
         liked_users = tweepy.Paginator(client.get_liking_users, id=tweet_id).flatten(limit=5000)
 
-        # get user information of liked users
+        # create dictionary for user information of liked users
         if liked_users:
             for user in liked_users:
                 obj = {'id': user['id'], 'user_name': user['name'], 'liked_tweet': tweet_id}
 
-                # no duplicates
+                # check if the user id is a duplicate
                 if user['id'] in known:
                     continue
+                    
                 # append to file if user is not seen in file already
                 else:
                     results.append(obj)
@@ -94,5 +104,5 @@ def main():
             if len(f_data) >= 5000:
                 return
 
-
+# call the main method
 main()
