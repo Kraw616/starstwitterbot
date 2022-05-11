@@ -1,27 +1,32 @@
 """
+
+
 Author: Jacob Krawitz, Jordan Wells, Alek Demaio
+
 Date: 5/9/22
+
 Muhlenberg College 2022, Computer Science CUE
 
 Description: In this file, the timeline tweets of the users which liked the given horoscope 
 content are collected. 
 
+
 """
 
-import os.path
 
+# import statements
+import os.path
 import tweepy
 from lib import getter
 import json
-
 import pandas as pd
 
+# import twitter access credentials
 from config import *
 
-
+# employ twitter access credentials
 auth = tweepy.OAuthHandler(API_KEY, API_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-
 client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        consumer_key=API_KEY,
                        consumer_secret=API_SECRET,
@@ -29,9 +34,12 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
                        access_token_secret=ACCESS_SECRET,
                        wait_on_rate_limit=True)
 
+# assign a zodiac sign
 sign = 'cancer'
 
 '''
+
+
 'libra' 
 'gemini' 
 'aries'
@@ -44,10 +52,14 @@ sign = 'cancer'
 'capricorn'
 'aquarius'	
 'pisces'
+
+
 '''
 
 
 '''
+
+
 Method: main()
 
 Description: 
@@ -57,6 +69,7 @@ are collected and added to a .json file in a directory for each user.
 
 @params none
 @returns none
+
 
 '''
 
@@ -71,11 +84,16 @@ def main():
 
         for user in f_data:
 
+            # create list for results
             results = []
 
+            # set tweet number to 1
             tweet_number = 1
 
+            # set the user name from the user dictionary
             user_name = user['user_name']
+            
+            # set the user id from the user dictionary
             user_id = user['id']
 
              # collect up to 50 of the users' timeline tweets excluding retweets
@@ -84,14 +102,20 @@ def main():
 
             if tweets is not None:
                 for tweet in tweets:
+                  
                     # make sure tweet exsists
                     if len(tweet.text) > 0:
+                      
                         # make sure tweet is in english
                         if tweet.lang == 'en':
+                            
+                            # create dictionary for user information and tweet data
                             obj = {'user_num_id': user_num_id, 'user_id': user_id, 'author': user_name, 'tweet_num': tweet_number, 'tweet_id': tweet.id,
                                    'lang': tweet.lang, 'text': tweet.text}
+                            
                             # append user information and tweet to file
                             results.append(obj)
+                            
                             # count the number of tweets
                             tweet_number += 1
                     else:
@@ -101,6 +125,7 @@ def main():
             if not os.path.exists('./jsons/users_timeline_tweets/'+sign+'/'+str(user_num_id)):
                 os.makedirs('./jsons/users_timeline_tweets/'+sign+'/'+str(user_num_id))
 
+            # write tweet data and information into a .JSON file
             with open('./jsons/users_timeline_tweets/'+sign+'/'+str(user_num_id)+'/'+str(user_num_id)+'.json', 'w+') as out:
                 json.dump(results, out, indent=4)
 
@@ -108,7 +133,8 @@ def main():
             if user_num_id == 1000: 
                 return
 
+            # count the number of user ids
             user_num_id += 1
 
-
+# call the main method
 main()
