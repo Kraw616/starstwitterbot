@@ -1,11 +1,17 @@
 """
+
 Author: Jacob Krawitz, Jordan Wells, Alek DeMaio
+
 Date: 5/9/22
+
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
-In this file, the unique identifiers used to authenticate developer account
+
+In this file, the unique identifiers used to authenticate developer account 
 which are necessary for collection of tweets are held. 
+
+
 """
 
 API_KEY = "7cu55tABxcf9xLkxeY1LZgV9V"
