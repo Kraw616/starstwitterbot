@@ -1,6 +1,8 @@
 # Welcome to Stars the Twitter Sentiment Analyzer!
 Authors: Jacob Krawitz, Aleksander DeMaio, Jordan Wells
+
 Professor/Course: Dr. Silveyra/CS Cue (CSI-370) Project 
+
 Muhlenberg College, 2022
 
 ## Description: 
