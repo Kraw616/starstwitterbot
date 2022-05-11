@@ -1,4 +1,4 @@
-# Welcome to Stars the Twitter Sentiment Analyzer!
+# Welcome to Stars: The Twitter Star Sign Seer!
 Authors: Jacob Krawitz, Aleksander DeMaio, Jordan Wells
 
 Professor/Course: Dr. Silveyra/CS Cue (CSI-370) Project 
