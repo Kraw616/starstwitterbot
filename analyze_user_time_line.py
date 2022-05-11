@@ -10,7 +10,6 @@ the user's average emotional status and the average emotional scores for each gi
 
 """
 
-
 # import statements
 import os
 import tweepy
