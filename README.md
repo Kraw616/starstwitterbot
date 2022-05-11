@@ -39,6 +39,6 @@ To modify the project to scrape/collect your own Tweets, see the following instr
 8. Run getting_tweets.py (**NOTE** These steps require the computer to stay on until the process terminates, which may be a long time due to rate limits set by Twitter (15 min intervals). I recommend the `caffeinate` [command in Terminal](https://ss64.com/osx/caffeinate.html).
 9. Run getting_liking_users.py 
 10. Run getting_user_tweets.py (The longest!)
-11. Run analyze_user_time_line.py
+11. Run analyze_user_time_line.py (**NOTE** You must change the sign flag and run separately for each sign)
 12. See the previous steps of instructions!
 
