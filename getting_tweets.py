@@ -1,11 +1,16 @@
 """
+
+
 Author: Jacob Krawitz, Jordan Wells, Alek Demaio
+
 Date: 5/9/22
+
 Muhlenberg College 2022, Computer Science CUE
 
 Description:
 
 In this file, the main function of the getter.py file is called to collect tweet data. 
+
 
 """
 
@@ -30,7 +35,7 @@ client = tweepy.Client(bearer_token=BEARER_TOKEN,
 # read in csv file
 df = pd.read_csv('accounts.csv')
 
-# assing the zodiac sign
+# assign the zodiac sign
 sign = 'aquarius'
 
 
